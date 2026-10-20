@@ -1,0 +1,4 @@
+calls,churn_rate_in_list,lift_vs_random
+100,0.8,3.02
+250,0.708,2.67
+500,0.59,2.22

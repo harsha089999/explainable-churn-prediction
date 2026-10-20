@@ -1,1501 +1,1762 @@
-customer_id,churn_prob,top_reasons,risk_band,value_at_risk
-C01633,0.933,"support_tickets, tenure_months, monthly_charges",Call,373.0
-C05309,0.922,"support_tickets, tenure_months, monthly_charges",Call,369.0
-C03768,0.92,"support_tickets, tenure_months, monthly_charges",Call,368.0
-C00753,0.912,"tenure_months, support_tickets, monthly_charges",Call,365.0
-C05133,0.913,"tenure_months, monthly_charges, support_tickets",Call,365.0
-C05753,0.904,"support_tickets, monthly_charges, tenure_months",Call,362.0
-C04896,0.9,"tenure_months, support_tickets, payment_method",Call,360.0
-C00563,0.901,"tenure_months, monthly_charges, support_tickets",Call,360.0
-C03035,0.901,"tenure_months, support_tickets, monthly_charges",Call,360.0
-C01255,0.897,"support_tickets, monthly_charges, tenure_months",Call,359.0
-C00557,0.895,"tenure_months, monthly_charges, support_tickets",Call,358.0
-C04287,0.892,"tenure_months, support_tickets, monthly_charges",Call,357.0
-C04628,0.89,"tenure_months, support_tickets, monthly_charges",Call,356.0
-C02919,0.889,"tenure_months, support_tickets, monthly_charges",Call,356.0
-C01727,0.885,"tenure_months, support_tickets, monthly_charges",Call,354.0
-C05989,0.884,"tenure_months, monthly_charges, support_tickets",Call,354.0
-C03540,0.883,"tenure_months, monthly_charges, payment_method",Call,353.0
-C04988,0.879,"tenure_months, support_tickets, monthly_charges",Call,352.0
-C02572,0.874,"tenure_months, monthly_charges, support_tickets",Call,350.0
-C02761,0.872,"tenure_months, support_tickets, monthly_charges",Call,349.0
-C02671,0.871,"tenure_months, monthly_charges, support_tickets",Call,348.0
-C04377,0.87,"tenure_months, support_tickets, payment_method",Call,348.0
-C03268,0.868,"tenure_months, monthly_charges, payment_method",Call,347.0
-C02541,0.864,"monthly_charges, tenure_months, support_tickets",Call,346.0
-C00300,0.866,"tenure_months, monthly_charges, support_tickets",Call,346.0
-C03406,0.863,"tenure_months, support_tickets, monthly_charges",Call,345.0
-C04851,0.859,"support_tickets, monthly_charges, tenure_months",Call,344.0
-C04808,0.859,"support_tickets, tenure_months, monthly_charges",Call,344.0
-C05973,0.859,"tenure_months, support_tickets, monthly_charges",Call,344.0
-C01879,0.855,"tenure_months, monthly_charges, support_tickets",Call,342.0
-C00800,0.853,"tenure_months, monthly_charges, payment_method",Call,341.0
-C05193,0.852,"tenure_months, monthly_charges, support_tickets",Call,341.0
-C04063,0.852,"support_tickets, monthly_charges, tenure_months",Call,341.0
-C05075,0.852,"support_tickets, monthly_charges, tenure_months",Call,341.0
-C01446,0.844,"support_tickets, tenure_months, monthly_charges",Call,338.0
-C05825,0.845,"tenure_months, support_tickets, payment_method",Call,338.0
-C00352,0.842,"tenure_months, support_tickets, contract",Call,337.0
-C03360,0.843,"tenure_months, monthly_charges, payment_method",Call,337.0
-C03915,0.843,"tenure_months, monthly_charges, support_tickets",Call,337.0
-C01211,0.84,"tenure_months, monthly_charges, support_tickets",Call,336.0
-C05002,0.841,"tenure_months, monthly_charges, support_tickets",Call,336.0
-C04608,0.84,"support_tickets, tenure_months, monthly_charges",Call,336.0
-C05869,0.841,"tenure_months, monthly_charges, payment_method",Call,336.0
-C04599,0.841,"tenure_months, monthly_charges, payment_method",Call,336.0
-C05911,0.837,"tenure_months, monthly_charges, support_tickets",Call,335.0
-C02793,0.837,"tenure_months, monthly_charges, payment_method",Call,335.0
-C03926,0.837,"tenure_months, support_tickets, payment_method",Call,335.0
-C03902,0.834,"tenure_months, monthly_charges, support_tickets",Call,334.0
-C03050,0.834,"monthly_charges, tenure_months, support_tickets",Call,334.0
-C03728,0.835,"tenure_months, monthly_charges, payment_method",Call,334.0
-C00914,0.834,"support_tickets, monthly_charges, tenure_months",Call,334.0
-C04684,0.835,"monthly_charges, tenure_months, payment_method",Call,334.0
-C01619,0.835,"tenure_months, monthly_charges, payment_method",Call,334.0
-C04917,0.832,"tenure_months, monthly_charges, support_tickets",Call,333.0
-C00502,0.832,"support_tickets, payment_method, monthly_charges",Call,333.0
-C05558,0.824,"support_tickets, monthly_charges, payment_method",Call,330.0
-C00637,0.826,"tenure_months, support_tickets, monthly_charges",Call,330.0
-C04016,0.825,"tenure_months, support_tickets, monthly_charges",Call,330.0
-C04675,0.82,"support_tickets, tenure_months, monthly_charges",Call,328.0
-C02317,0.82,"tenure_months, monthly_charges, support_tickets",Call,328.0
-C01889,0.819,"tenure_months, support_tickets, monthly_charges",Call,328.0
-C00756,0.817,"tenure_months, support_tickets, payment_method",Call,327.0
-C00981,0.817,"support_tickets, tenure_months, payment_method",Call,327.0
-C02908,0.814,"tenure_months, monthly_charges, internet_service",Call,326.0
-C04323,0.813,"tenure_months, support_tickets, contract",Call,325.0
-C05882,0.805,"support_tickets, monthly_charges, tenure_months",Call,322.0
-C01821,0.806,"tenure_months, support_tickets, payment_method",Call,322.0
-C01729,0.805,"support_tickets, monthly_charges, payment_method",Call,322.0
-C01730,0.806,"monthly_charges, support_tickets, payment_method",Call,322.0
-C03153,0.804,"monthly_charges, tenure_months, support_tickets",Call,322.0
-C04699,0.805,"tenure_months, support_tickets, payment_method",Call,322.0
-C03348,0.8,"tenure_months, monthly_charges, support_tickets",Call,320.0
-C05896,0.798,"support_tickets, tenure_months, payment_method",Call,319.0
-C03740,0.794,"support_tickets, monthly_charges, tenure_months",Call,318.0
-C01280,0.794,"tenure_months, monthly_charges, support_tickets",Call,318.0
-C02906,0.795,"tenure_months, monthly_charges, internet_service",Call,318.0
-C00337,0.791,"tenure_months, monthly_charges, internet_service",Call,316.0
-C03119,0.79,"support_tickets, monthly_charges, payment_method",Call,316.0
-C03734,0.791,"tenure_months, support_tickets, contract",Call,316.0
-C00068,0.787,"monthly_charges, support_tickets, tenure_months",Call,315.0
-C02245,0.787,"monthly_charges, tenure_months, support_tickets",Call,315.0
-C03387,0.785,"tenure_months, monthly_charges, support_tickets",Call,314.0
-C05180,0.785,"tenure_months, monthly_charges, support_tickets",Call,314.0
-C04396,0.786,"tenure_months, monthly_charges, support_tickets",Call,314.0
-C01004,0.782,"tenure_months, support_tickets, internet_service",Call,313.0
-C01522,0.783,"tenure_months, monthly_charges, support_tickets",Call,313.0
-C03585,0.78,"tenure_months, monthly_charges, internet_service",Call,312.0
-C01586,0.781,"tenure_months, monthly_charges, support_tickets",Call,312.0
-C03391,0.78,"tenure_months, monthly_charges, contract",Call,312.0
-C01841,0.781,"tenure_months, support_tickets, monthly_charges",Call,312.0
-C05910,0.778,"monthly_charges, tenure_months, support_tickets",Call,311.0
-C00149,0.777,"support_tickets, monthly_charges, contract",Call,311.0
-C05085,0.774,"tenure_months, monthly_charges, payment_method",Call,310.0
-C04548,0.774,"support_tickets, tenure_months, internet_service",Call,310.0
-C00792,0.772,"tenure_months, support_tickets, monthly_charges",Call,309.0
-C03978,0.77,"tenure_months, support_tickets, payment_method",Call,308.0
-C02499,0.77,"tenure_months, payment_method, internet_service",Call,308.0
-C03911,0.764,"tenure_months, payment_method, support_tickets",Call,306.0
-C02084,0.765,"tenure_months, monthly_charges, support_tickets",Call,306.0
-C04451,0.763,"support_tickets, tenure_months, payment_method",Call,305.0
-C04806,0.761,"tenure_months, monthly_charges, contract",Call,304.0
-C01825,0.761,"support_tickets, tenure_months, monthly_charges",Call,304.0
-C02996,0.759,"support_tickets, monthly_charges, payment_method",Call,304.0
-C04710,0.757,"tenure_months, support_tickets, contract",Call,303.0
-C03139,0.755,"monthly_charges, support_tickets, tenure_months",Call,302.0
-C04785,0.756,"tenure_months, support_tickets, monthly_charges",Call,302.0
-C04866,0.756,"support_tickets, monthly_charges, contract",Call,302.0
-C02209,0.752,"tenure_months, monthly_charges, support_tickets",Call,301.0
-C00870,0.752,"tenure_months, payment_method, internet_service",Call,301.0
-C05095,0.749,"tenure_months, support_tickets, internet_service",Call,300.0
-C04770,0.75,"tenure_months, support_tickets, contract",Call,300.0
-C01433,0.751,"tenure_months, monthly_charges, internet_service",Call,300.0
-C03863,0.747,"monthly_charges, support_tickets, tenure_months",Call,299.0
-C05261,0.744,"tenure_months, support_tickets, payment_method",Call,298.0
-C01924,0.745,"tenure_months, support_tickets, contract",Call,298.0
-C00259,0.744,"tenure_months, support_tickets, monthly_charges",Call,298.0
-C05922,0.746,"support_tickets, tenure_months, payment_method",Call,298.0
-C02025,0.742,"tenure_months, monthly_charges, payment_method",Call,297.0
-C00332,0.74,"tenure_months, payment_method, internet_service",Call,296.0
-C02731,0.739,"tenure_months, support_tickets, monthly_charges",Call,296.0
-C00868,0.741,"tenure_months, support_tickets, contract",Call,296.0
-C01498,0.737,"tenure_months, monthly_charges, internet_service",Call,295.0
-C01896,0.737,"support_tickets, monthly_charges, payment_method",Call,295.0
-C05171,0.737,"tenure_months, monthly_charges, payment_method",Call,295.0
-C00191,0.736,"monthly_charges, support_tickets, tenure_months",Call,294.0
-C02935,0.735,"support_tickets, tenure_months, monthly_charges",Call,294.0
-C02208,0.734,"monthly_charges, tenure_months, support_tickets",Call,294.0
-C04839,0.736,"support_tickets, tenure_months, monthly_charges",Call,294.0
-C02598,0.734,"tenure_months, support_tickets, monthly_charges",Call,294.0
-C03590,0.735,"support_tickets, monthly_charges, tenure_months",Call,294.0
-C01677,0.734,"tenure_months, monthly_charges, support_tickets",Call,294.0
-C01771,0.736,"tenure_months, support_tickets, internet_service",Call,294.0
-C03594,0.736,"tenure_months, monthly_charges, internet_service",Call,294.0
-C01092,0.733,"support_tickets, monthly_charges, payment_method",Call,293.0
-C03723,0.732,"tenure_months, support_tickets, contract",Call,293.0
-C02506,0.733,"tenure_months, monthly_charges, contract",Call,293.0
-C01144,0.732,"monthly_charges, payment_method, tenure_months",Call,293.0
-C00198,0.73,"tenure_months, support_tickets, internet_service",Call,292.0
-C02718,0.731,"tenure_months, support_tickets, internet_service",Call,292.0
-C02734,0.729,"tenure_months, payment_method, internet_service",Call,292.0
-C01672,0.731,"support_tickets, monthly_charges, internet_service",Call,292.0
-C05164,0.731,"tenure_months, support_tickets, monthly_charges",Call,292.0
-C01930,0.729,"support_tickets, tenure_months, monthly_charges",Call,292.0
-C05176,0.728,"tenure_months, monthly_charges, internet_service",Call,291.0
-C01392,0.728,"support_tickets, monthly_charges, payment_method",Call,291.0
-C04692,0.728,"tenure_months, support_tickets, payment_method",Call,291.0
-C04899,0.727,"tenure_months, support_tickets, contract",Call,291.0
-C04371,0.726,"tenure_months, monthly_charges, support_tickets",Call,290.0
-C00603,0.725,"support_tickets, monthly_charges, contract",Call,290.0
-C00253,0.725,"tenure_months, monthly_charges, support_tickets",Call,290.0
-C00906,0.722,"monthly_charges, tenure_months, support_tickets",Call,289.0
-C05152,0.722,"tenure_months, monthly_charges, payment_method",Call,289.0
-C00545,0.722,"tenure_months, support_tickets, payment_method",Call,289.0
-C02127,0.722,"support_tickets, monthly_charges, internet_service",Call,289.0
-C00234,0.721,"tenure_months, payment_method, internet_service",Call,288.0
-C00799,0.721,"tenure_months, monthly_charges, payment_method",Call,288.0
-C01108,0.72,"tenure_months, monthly_charges, support_tickets",Call,288.0
-C05478,0.719,"tenure_months, monthly_charges, internet_service",Call,288.0
-C03755,0.717,"tenure_months, payment_method, monthly_charges",Call,287.0
-C05174,0.717,"support_tickets, tenure_months, monthly_charges",Call,287.0
-C03033,0.718,"tenure_months, support_tickets, internet_service",Call,287.0
-C02871,0.717,"tenure_months, monthly_charges, contract",Call,287.0
-C03939,0.718,"monthly_charges, payment_method, tenure_months",Call,287.0
-C03560,0.714,"tenure_months, monthly_charges, support_tickets",Call,286.0
-C02965,0.715,"support_tickets, payment_method, tenure_months",Call,286.0
-C02238,0.714,"tenure_months, support_tickets, monthly_charges",Call,286.0
-C04040,0.715,"monthly_charges, tenure_months, support_tickets",Call,286.0
-C03177,0.714,"monthly_charges, tenure_months, internet_service",Call,286.0
-C00922,0.712,"tenure_months, payment_method, monthly_charges",Call,285.0
-C01995,0.712,"tenure_months, internet_service, support_tickets",Call,285.0
-C04498,0.712,"tenure_months, payment_method, internet_service",Call,285.0
-C01193,0.711,"support_tickets, payment_method, contract",Call,284.0
-C02877,0.71,"monthly_charges, support_tickets, internet_service",Call,284.0
-C04737,0.708,"support_tickets, monthly_charges, tenure_months",Call,283.0
-C03883,0.708,"tenure_months, monthly_charges, contract",Call,283.0
-C05879,0.708,"tenure_months, support_tickets, contract",Call,283.0
-C03432,0.708,"support_tickets, monthly_charges, contract",Call,283.0
-C03212,0.705,"tenure_months, monthly_charges, support_tickets",Call,282.0
-C01610,0.706,"tenure_months, support_tickets, payment_method",Call,282.0
-C03520,0.702,"support_tickets, monthly_charges, internet_service",Call,281.0
-C01939,0.702,"tenure_months, support_tickets, payment_method",Call,281.0
-C03633,0.699,"tenure_months, support_tickets, monthly_charges",Call,280.0
-C05592,0.701,"tenure_months, payment_method, internet_service",Call,280.0
-C02135,0.699,"tenure_months, monthly_charges, support_tickets",Call,280.0
-C04035,0.699,"monthly_charges, tenure_months, payment_method",Call,280.0
-C00093,0.701,"support_tickets, monthly_charges, internet_service",Call,280.0
-C04902,0.701,"monthly_charges, tenure_months, internet_service",Call,280.0
-C00724,0.699,"tenure_months, monthly_charges, contract",Call,280.0
-C05264,0.698,"tenure_months, monthly_charges, internet_service",Call,279.0
-C00551,0.697,"tenure_months, payment_method, internet_service",Call,279.0
-C04610,0.695,"tenure_months, monthly_charges, payment_method",Call,278.0
-C00274,0.695,"monthly_charges, tenure_months, internet_service",Call,278.0
-C05078,0.694,"support_tickets, tenure_months, contract",Call,278.0
-C02621,0.694,"monthly_charges, tenure_months, support_tickets",Call,278.0
-C03016,0.695,"support_tickets, payment_method, tenure_months",Call,278.0
-C05042,0.693,"support_tickets, monthly_charges, payment_method",Call,277.0
-C02138,0.689,"support_tickets, payment_method, tenure_months",Call,276.0
-C05274,0.69,"tenure_months, monthly_charges, internet_service",Call,276.0
-C01666,0.689,"tenure_months, support_tickets, contract",Call,276.0
-C04488,0.689,"tenure_months, monthly_charges, support_tickets",Call,276.0
-C05211,0.69,"tenure_months, support_tickets, internet_service",Call,276.0
-C03004,0.691,"tenure_months, payment_method, monthly_charges",Call,276.0
-C04714,0.687,"monthly_charges, tenure_months, support_tickets",Call,275.0
-C04856,0.688,"tenure_months, payment_method, support_tickets",Call,275.0
-C01523,0.686,"monthly_charges, tenure_months, internet_service",Call,274.0
-C02814,0.685,"tenure_months, support_tickets, contract",Call,274.0
-C03221,0.682,"monthly_charges, payment_method, tenure_months",Call,273.0
-C03840,0.683,"support_tickets, payment_method, monthly_charges",Call,273.0
-C03115,0.679,"tenure_months, payment_method, monthly_charges",Call,272.0
-C04595,0.68,"tenure_months, support_tickets, contract",Call,272.0
-C00174,0.68,"monthly_charges, payment_method, tenure_months",Call,272.0
-C01697,0.68,"tenure_months, monthly_charges, payment_method",Call,272.0
-C02196,0.681,"support_tickets, tenure_months, contract",Call,272.0
-C05877,0.68,"support_tickets, internet_service, contract",Call,272.0
-C03787,0.677,"monthly_charges, tenure_months, payment_method",Call,271.0
-C00112,0.678,"tenure_months, payment_method, support_tickets",Call,271.0
-C01192,0.676,"tenure_months, monthly_charges, contract",Call,270.0
-C03680,0.672,"monthly_charges, tenure_months, support_tickets",Call,269.0
-C02392,0.672,"tenure_months, monthly_charges, internet_service",Call,269.0
-C02362,0.672,"support_tickets, payment_method, tenure_months",Call,269.0
-C01397,0.67,"monthly_charges, tenure_months, support_tickets",Call,268.0
-C05247,0.668,"tenure_months, monthly_charges, payment_method",Call,267.0
-C04971,0.666,"tenure_months, contract, payment_method",Call,266.0
-C02907,0.666,"tenure_months, monthly_charges, support_tickets",Call,266.0
-C03930,0.664,"tenure_months, monthly_charges, contract",Call,266.0
-C03043,0.666,"monthly_charges, support_tickets, payment_method",Call,266.0
-C05416,0.662,"monthly_charges, payment_method, tenure_months",Call,265.0
-C04311,0.659,"tenure_months, payment_method, support_tickets",Call,264.0
-C03409,0.661,"tenure_months, payment_method, monthly_charges",Call,264.0
-C04705,0.659,"monthly_charges, support_tickets, payment_method",Call,264.0
-C00428,0.659,"tenure_months, payment_method, internet_service",Call,264.0
-C02619,0.661,"tenure_months, support_tickets, contract",Call,264.0
-C05007,0.661,"support_tickets, monthly_charges, internet_service",Call,264.0
-C00996,0.658,"tenure_months, support_tickets, contract",Call,263.0
-C02266,0.654,"tenure_months, support_tickets, contract",Call,262.0
-C03477,0.655,"support_tickets, payment_method, tenure_months",Call,262.0
-C00908,0.653,"monthly_charges, tenure_months, payment_method",Call,261.0
-C01904,0.653,"tenure_months, monthly_charges, support_tickets",Call,261.0
-C00472,0.653,"monthly_charges, tenure_months, support_tickets",Call,261.0
-C03815,0.65,"tenure_months, support_tickets, contract",Call,260.0
-C03989,0.651,"support_tickets, monthly_charges, contract",Call,260.0
-C04938,0.651,"tenure_months, support_tickets, contract",Call,260.0
-C02639,0.651,"monthly_charges, payment_method, support_tickets",Call,260.0
-C01131,0.647,"tenure_months, internet_service, support_tickets",Call,259.0
-C04832,0.647,"monthly_charges, support_tickets, payment_method",Call,259.0
-C03908,0.648,"tenure_months, support_tickets, contract",Call,259.0
-C03778,0.648,"tenure_months, payment_method, contract",Call,259.0
-C04637,0.648,"tenure_months, monthly_charges, internet_service",Call,259.0
-C03265,0.647,"support_tickets, contract, payment_method",Call,259.0
-C02104,0.647,"tenure_months, payment_method, contract",Call,259.0
-C03049,0.645,"monthly_charges, support_tickets, contract",Call,258.0
-C04153,0.644,"monthly_charges, support_tickets, internet_service",Call,258.0
-C00030,0.645,"tenure_months, monthly_charges, contract",Call,258.0
-C03807,0.643,"tenure_months, payment_method, monthly_charges",Call,257.0
-C00392,0.643,"support_tickets, payment_method, tenure_months",Call,257.0
-C02922,0.643,"tenure_months, monthly_charges, support_tickets",Call,257.0
-C04571,0.642,"support_tickets, tenure_months, internet_service",Call,257.0
-C01645,0.643,"monthly_charges, support_tickets, internet_service",Call,257.0
-C04650,0.639,"monthly_charges, payment_method, support_tickets",Call,256.0
-C01245,0.64,"tenure_months, contract, payment_method",Call,256.0
-C04449,0.641,"payment_method, tenure_months, monthly_charges",Call,256.0
-C01638,0.638,"tenure_months, support_tickets, contract",Call,255.0
-C03799,0.637,"monthly_charges, tenure_months, payment_method",Call,255.0
-C03423,0.634,"monthly_charges, support_tickets, payment_method",Call,254.0
-C03668,0.636,"monthly_charges, tenure_months, internet_service",Call,254.0
-C02140,0.634,"monthly_charges, tenure_months, contract",Call,254.0
-C02397,0.636,"support_tickets, payment_method, internet_service",Call,254.0
-C03061,0.634,"tenure_months, monthly_charges, internet_service",Call,254.0
-C03619,0.633,"monthly_charges, support_tickets, contract",Call,253.0
-C03434,0.63,"support_tickets, tenure_months, payment_method",Call,252.0
-C02875,0.629,"tenure_months, monthly_charges, support_tickets",Call,252.0
-C01686,0.627,"tenure_months, support_tickets, payment_method",Call,251.0
-C05935,0.628,"support_tickets, payment_method, internet_service",Call,251.0
-C05065,0.625,"tenure_months, contract, payment_method",Call,250.0
-C03340,0.625,"tenure_months, monthly_charges, support_tickets",Call,250.0
-C01932,0.624,"monthly_charges, support_tickets, contract",Call,250.0
-C03397,0.623,"tenure_months, payment_method, internet_service",Call,249.0
-C05929,0.623,"tenure_months, monthly_charges, support_tickets",Call,249.0
-C02518,0.619,"tenure_months, payment_method, support_tickets",Call,248.0
-C02918,0.621,"tenure_months, monthly_charges, support_tickets",Call,248.0
-C01698,0.618,"tenure_months, payment_method, internet_service",Call,247.0
-C02550,0.617,"support_tickets, tenure_months, contract",Call,247.0
-C03812,0.618,"tenure_months, support_tickets, payment_method",Call,247.0
-C01069,0.614,"tenure_months, monthly_charges, internet_service",Call,246.0
-C02373,0.616,"tenure_months, payment_method, support_tickets",Call,246.0
-C02041,0.614,"monthly_charges, tenure_months, support_tickets",Call,246.0
-C03965,0.615,"monthly_charges, support_tickets, contract",Call,246.0
-C04252,0.616,"monthly_charges, support_tickets, contract",Call,246.0
-C00348,0.612,"tenure_months, monthly_charges, internet_service",Call,245.0
-C04526,0.61,"tenure_months, payment_method, internet_service",Call,244.0
-C01989,0.611,"support_tickets, tenure_months, payment_method",Call,244.0
-C02636,0.611,"tenure_months, monthly_charges, support_tickets",Call,244.0
-C00995,0.61,"tenure_months, monthly_charges, contract",Call,244.0
-C04309,0.61,"tenure_months, monthly_charges, contract",Call,244.0
-C00462,0.61,"support_tickets, monthly_charges, payment_method",Call,244.0
-C05834,0.61,"tenure_months, monthly_charges, support_tickets",Call,244.0
-C01285,0.608,"support_tickets, tenure_months, internet_service",Call,243.0
-C03943,0.606,"support_tickets, monthly_charges, payment_method",Call,242.0
-C04303,0.602,"tenure_months, support_tickets, internet_service",Call,241.0
-C04923,0.603,"tenure_months, support_tickets, contract",Call,241.0
-C05668,0.602,"tenure_months, monthly_charges, contract",Call,241.0
-C04825,0.599,"monthly_charges, tenure_months, support_tickets",Call,240.0
-C00257,0.6,"tenure_months, support_tickets, contract",Call,240.0
-C03213,0.599,"payment_method, tenure_months, internet_service",Call,240.0
-C04725,0.599,"tenure_months, support_tickets, internet_service",Call,240.0
-C02591,0.6,"monthly_charges, tenure_months, contract",Call,240.0
-C02053,0.6,"support_tickets, tenure_months, contract",Call,240.0
-C04007,0.596,"tenure_months, support_tickets, contract",Call,238.0
-C02892,0.594,"tenure_months, support_tickets, monthly_charges",Call,238.0
-C01968,0.594,"tenure_months, monthly_charges, contract",Call,238.0
-C05146,0.595,"support_tickets, payment_method, monthly_charges",Call,238.0
-C03958,0.594,"tenure_months, payment_method, monthly_charges",Call,238.0
-C02801,0.595,"monthly_charges, tenure_months, support_tickets",Call,238.0
-C05851,0.594,"tenure_months, internet_service, support_tickets",Call,238.0
-C02569,0.595,"tenure_months, monthly_charges, payment_method",Call,238.0
-C04289,0.596,"tenure_months, monthly_charges, payment_method",Call,238.0
-C01549,0.595,"tenure_months, contract, internet_service",Call,238.0
-C05511,0.593,"tenure_months, support_tickets, contract",Call,237.0
-C04592,0.593,"monthly_charges, tenure_months, support_tickets",Call,237.0
-C02837,0.593,"support_tickets, tenure_months, contract",Call,237.0
-C04109,0.59,"tenure_months, support_tickets, contract",Call,236.0
-C04329,0.59,"tenure_months, internet_service, support_tickets",Call,236.0
-C00615,0.587,"monthly_charges, tenure_months, support_tickets",Call,235.0
-C00907,0.587,"monthly_charges, support_tickets, internet_service",Call,235.0
-C01952,0.587,"tenure_months, payment_method, monthly_charges",Call,235.0
-C05190,0.585,"tenure_months, support_tickets, monthly_charges",Call,234.0
-C03677,0.585,"tenure_months, monthly_charges, support_tickets",Call,234.0
-C04466,0.585,"tenure_months, support_tickets, payment_method",Call,234.0
-C04617,0.582,"tenure_months, monthly_charges, support_tickets",Call,233.0
-C03564,0.582,"tenure_months, monthly_charges, contract",Call,233.0
-C04312,0.581,"monthly_charges, tenure_months, support_tickets",Call,232.0
-C02002,0.579,"support_tickets, tenure_months, internet_service",Call,232.0
-C01123,0.58,"tenure_months, monthly_charges, support_tickets",Call,232.0
-C03559,0.578,"tenure_months, payment_method, contract",Call,231.0
-C01336,0.577,"tenure_months, monthly_charges, payment_method",Call,231.0
-C02727,0.578,"monthly_charges, tenure_months, support_tickets",Call,231.0
-C02418,0.576,"tenure_months, support_tickets, contract",Call,230.0
-C05182,0.575,"tenure_months, support_tickets, contract",Call,230.0
-C03774,0.576,"support_tickets, payment_method, monthly_charges",Call,230.0
-C03652,0.575,"support_tickets, tenure_months, payment_method",Call,230.0
-C02468,0.573,"support_tickets, tenure_months, payment_method",Call,229.0
-C04330,0.572,"tenure_months, support_tickets, contract",Call,229.0
-C03577,0.571,"tenure_months, payment_method, monthly_charges",Call,228.0
-C05722,0.57,"tenure_months, contract, payment_method",Call,228.0
-C01040,0.569,"support_tickets, payment_method, tenure_months",Call,228.0
-C05370,0.569,"monthly_charges, payment_method, support_tickets",Call,228.0
-C01801,0.571,"tenure_months, monthly_charges, internet_service",Call,228.0
-C04464,0.568,"tenure_months, support_tickets, payment_method",Call,227.0
-C02258,0.568,"monthly_charges, support_tickets, contract",Call,227.0
-C01236,0.564,"tenure_months, support_tickets, contract",Call,226.0
-C01383,0.564,"monthly_charges, support_tickets, payment_method",Call,226.0
-C01179,0.566,"support_tickets, tenure_months, internet_service",Call,226.0
-C02462,0.565,"monthly_charges, payment_method, tenure_months",Call,226.0
-C00177,0.564,"tenure_months, payment_method, monthly_charges",Call,226.0
-C03639,0.565,"monthly_charges, payment_method, internet_service",Call,226.0
-C05017,0.56,"tenure_months, support_tickets, contract",Call,224.0
-C01882,0.56,"tenure_months, payment_method, support_tickets",Call,224.0
-C01053,0.56,"support_tickets, monthly_charges, contract",Call,224.0
-C00489,0.56,"tenure_months, support_tickets, contract",Call,224.0
-C02765,0.558,"tenure_months, monthly_charges, support_tickets",Call,223.0
-C03888,0.556,"support_tickets, payment_method, monthly_charges",Call,222.0
-C04341,0.554,"monthly_charges, support_tickets, contract",Call,222.0
-C03945,0.554,"monthly_charges, support_tickets, contract",Call,222.0
-C01230,0.556,"tenure_months, support_tickets, contract",Call,222.0
-C03880,0.554,"monthly_charges, tenure_months, contract",Call,222.0
-C04082,0.554,"tenure_months, contract, internet_service",Call,222.0
-C04455,0.556,"support_tickets, tenure_months, contract",Call,222.0
-C04014,0.554,"support_tickets, internet_service, contract",Call,222.0
-C03682,0.552,"support_tickets, monthly_charges, tenure_months",Call,221.0
-C01242,0.549,"tenure_months, payment_method, monthly_charges",Call,220.0
-C01739,0.55,"tenure_months, payment_method, support_tickets",Call,220.0
-C04452,0.551,"tenure_months, support_tickets, contract",Call,220.0
-C04033,0.55,"support_tickets, tenure_months, internet_service",Call,220.0
-C05986,0.551,"tenure_months, payment_method, support_tickets",Call,220.0
-C03686,0.55,"support_tickets, tenure_months, internet_service",Call,220.0
-C05785,0.549,"monthly_charges, internet_service, tenure_months",Call,220.0
-C01504,0.551,"support_tickets, tenure_months, payment_method",Call,220.0
-C04134,0.548,"tenure_months, contract, payment_method",Call,219.0
-C03309,0.547,"tenure_months, monthly_charges, support_tickets",Call,219.0
-C01580,0.548,"tenure_months, monthly_charges, payment_method",Call,219.0
-C04043,0.544,"tenure_months, support_tickets, payment_method",Call,218.0
-C03253,0.545,"support_tickets, payment_method, internet_service",Call,218.0
-C00728,0.544,"tenure_months, payment_method, contract",Call,218.0
-C03906,0.546,"tenure_months, payment_method, contract",Call,218.0
-C03015,0.543,"tenure_months, support_tickets, monthly_charges",Call,217.0
-C04335,0.542,"tenure_months, support_tickets, internet_service",Call,217.0
-C05406,0.543,"support_tickets, monthly_charges, internet_service",Call,217.0
-C01155,0.54,"support_tickets, payment_method, tenure_months",Call,216.0
-C00911,0.541,"tenure_months, payment_method, monthly_charges",Call,216.0
-C04694,0.54,"support_tickets, tenure_months, contract",Call,216.0
-C04416,0.54,"support_tickets, payment_method, contract",Call,216.0
-C05126,0.541,"tenure_months, support_tickets, internet_service",Call,216.0
-C04616,0.539,"support_tickets, monthly_charges, payment_method",Call,216.0
-C02443,0.539,"tenure_months, monthly_charges, support_tickets",Call,216.0
-C00511,0.539,"tenure_months, payment_method, monthly_charges",Call,216.0
-C05454,0.539,"tenure_months, payment_method, contract",Call,216.0
-C04623,0.541,"support_tickets, tenure_months, contract",Call,216.0
-C00691,0.537,"monthly_charges, support_tickets, contract",Call,215.0
-C04349,0.538,"support_tickets, payment_method, internet_service",Call,215.0
-C03690,0.535,"tenure_months, monthly_charges, internet_service",Call,214.0
-C02401,0.536,"payment_method, monthly_charges, tenure_months",Call,214.0
-C01312,0.536,"tenure_months, payment_method, support_tickets",Call,214.0
-C05123,0.534,"tenure_months, support_tickets, contract",Call,214.0
-C02901,0.534,"tenure_months, internet_service, contract",Call,214.0
-C01966,0.536,"tenure_months, payment_method, internet_service",Call,214.0
-C00663,0.533,"support_tickets, internet_service, contract",Call,213.0
-C03241,0.532,"tenure_months, contract, internet_service",Call,213.0
-C05759,0.529,"tenure_months, monthly_charges, support_tickets",Call,212.0
-C01178,0.53,"tenure_months, monthly_charges, internet_service",Call,212.0
-C05830,0.53,"tenure_months, monthly_charges, payment_method",Call,212.0
-C03499,0.528,"support_tickets, monthly_charges, payment_method",Call,211.0
-C04478,0.528,"payment_method, tenure_months, monthly_charges",Call,211.0
-C04956,0.527,"monthly_charges, tenure_months, internet_service",Call,211.0
-C03290,0.527,"tenure_months, internet_service, contract",Call,211.0
-C04567,0.527,"tenure_months, payment_method, contract",Call,211.0
-C03555,0.525,"support_tickets, contract, payment_method",Call,210.0
-C00072,0.525,"support_tickets, payment_method, tenure_months",Call,210.0
-C03498,0.524,"tenure_months, monthly_charges, internet_service",Call,210.0
-C02900,0.525,"tenure_months, monthly_charges, internet_service",Call,210.0
-C03558,0.526,"tenure_months, support_tickets, contract",Call,210.0
-C02466,0.526,"tenure_months, payment_method, contract",Call,210.0
-C01994,0.523,"tenure_months, support_tickets, internet_service",Call,209.0
-C05229,0.522,"monthly_charges, contract, payment_method",Call,209.0
-C02001,0.522,"monthly_charges, support_tickets, contract",Call,209.0
-C04414,0.521,"tenure_months, monthly_charges, contract",Call,208.0
-C00524,0.52,"tenure_months, internet_service, contract",Call,208.0
-C03476,0.521,"payment_method, internet_service, tenure_months",Call,208.0
-C01514,0.517,"tenure_months, support_tickets, contract",Call,207.0
-C02897,0.518,"tenure_months, monthly_charges, internet_service",Call,207.0
-C02265,0.518,"monthly_charges, support_tickets, contract",Call,207.0
-C04091,0.515,"payment_method, monthly_charges, support_tickets",Call,206.0
-C01577,0.514,"monthly_charges, tenure_months, contract",Call,206.0
-C00654,0.516,"tenure_months, monthly_charges, internet_service",Call,206.0
-C01126,0.515,"tenure_months, support_tickets, monthly_charges",Call,206.0
-C00531,0.513,"tenure_months, payment_method, contract",Call,205.0
-C04167,0.512,"tenure_months, monthly_charges, support_tickets",Call,205.0
-C02663,0.513,"tenure_months, monthly_charges, contract",Call,205.0
-C05618,0.509,"support_tickets, monthly_charges, contract",Call,204.0
-C01797,0.509,"support_tickets, payment_method, tenure_months",Call,204.0
-C03780,0.51,"monthly_charges, internet_service, support_tickets",Call,204.0
-C01413,0.509,"tenure_months, contract, payment_method",Call,204.0
-C00328,0.508,"payment_method, monthly_charges, support_tickets",Call,203.0
-C05735,0.507,"tenure_months, monthly_charges, payment_method",Call,203.0
-C05198,0.507,"tenure_months, monthly_charges, support_tickets",Call,203.0
-C02424,0.504,"tenure_months, payment_method, contract",Call,202.0
-C05990,0.506,"support_tickets, contract, payment_method",Call,202.0
-C00239,0.504,"support_tickets, payment_method, tenure_months",Call,202.0
-C01945,0.506,"monthly_charges, internet_service, contract",Call,202.0
-C05479,0.506,"tenure_months, internet_service, monthly_charges",Call,202.0
-C03452,0.506,"monthly_charges, support_tickets, contract",Call,202.0
-C01212,0.505,"tenure_months, support_tickets, monthly_charges",Call,202.0
-C00635,0.503,"payment_method, monthly_charges, internet_service",Call,201.0
-C04992,0.503,"tenure_months, monthly_charges, support_tickets",Call,201.0
-C00061,0.502,"support_tickets, internet_service, contract",Call,201.0
-C05045,0.503,"monthly_charges, tenure_months, support_tickets",Call,201.0
-C04324,0.5,"monthly_charges, internet_service, tenure_months",Call,200.0
-C02145,0.501,"tenure_months, payment_method, monthly_charges",Call,200.0
-C00704,0.499,"support_tickets, tenure_months, monthly_charges",Call,200.0
-C01852,0.5,"monthly_charges, support_tickets, tenure_months",Call,200.0
-C03216,0.499,"monthly_charges, tenure_months, payment_method",Call,200.0
-C05413,0.497,"tenure_months, payment_method, internet_service",Call,199.0
-C04314,0.497,"tenure_months, support_tickets, contract",Call,199.0
-C01676,0.498,"monthly_charges, support_tickets, payment_method",Call,199.0
-C05071,0.497,"tenure_months, support_tickets, contract",Call,199.0
-C04440,0.495,"support_tickets, contract, internet_service",Call,198.0
-C02386,0.496,"tenure_months, internet_service, contract",Call,198.0
-C02404,0.496,"tenure_months, monthly_charges, support_tickets",Call,198.0
-C02998,0.494,"tenure_months, support_tickets, payment_method",Call,198.0
-C02538,0.494,"monthly_charges, support_tickets, contract",Call,198.0
-C00261,0.494,"monthly_charges, tenure_months, support_tickets",Call,198.0
-C05410,0.492,"tenure_months, monthly_charges, internet_service",Call,197.0
-C05215,0.493,"monthly_charges, tenure_months, support_tickets",Call,197.0
-C03575,0.492,"support_tickets, monthly_charges, contract",Call,197.0
-C04061,0.493,"support_tickets, payment_method, internet_service",Call,197.0
-C02360,0.489,"tenure_months, payment_method, internet_service",Call,196.0
-C03716,0.489,"support_tickets, contract, internet_service",Call,196.0
-C05895,0.49,"monthly_charges, support_tickets, payment_method",Call,196.0
-C02249,0.49,"tenure_months, contract, payment_method",Call,196.0
-C02839,0.49,"monthly_charges, tenure_months, payment_method",Call,196.0
-C02451,0.488,"monthly_charges, support_tickets, payment_method",Call,195.0
-C03873,0.487,"monthly_charges, support_tickets, contract",Call,195.0
-C04702,0.487,"monthly_charges, support_tickets, contract",Call,195.0
-C00095,0.485,"support_tickets, monthly_charges, contract",Call,194.0
-C04337,0.484,"tenure_months, monthly_charges, internet_service",Call,194.0
-C00106,0.486,"monthly_charges, internet_service, support_tickets",Call,194.0
-C01857,0.485,"support_tickets, payment_method, contract",Call,194.0
-C01920,0.484,"support_tickets, tenure_months, contract",Call,194.0
-C01491,0.486,"support_tickets, internet_service, contract",Call,194.0
-C04500,0.484,"support_tickets, monthly_charges, payment_method",Call,194.0
-C04538,0.485,"tenure_months, contract, internet_service",Call,194.0
-C04817,0.483,"monthly_charges, support_tickets, contract",Call,193.0
-C01170,0.483,"monthly_charges, tenure_months, payment_method",Call,193.0
-C02298,0.483,"monthly_charges, internet_service, tenure_months",Call,193.0
-C03523,0.482,"tenure_months, support_tickets, payment_method",Call,193.0
-C04892,0.483,"tenure_months, monthly_charges, payment_method",Call,193.0
-C02111,0.483,"support_tickets, monthly_charges, internet_service",Call,193.0
-C02700,0.482,"support_tickets, monthly_charges, payment_method",Call,193.0
-C00080,0.479,"tenure_months, support_tickets, contract",Call,192.0
-C04559,0.477,"tenure_months, support_tickets, monthly_charges",Call,191.0
-C04505,0.478,"tenure_months, support_tickets, monthly_charges",Call,191.0
-C05292,0.478,"monthly_charges, internet_service, support_tickets",Call,191.0
-C00044,0.478,"support_tickets, payment_method, tenure_months",Call,191.0
-C05709,0.478,"tenure_months, monthly_charges, internet_service",Call,191.0
-C04078,0.476,"monthly_charges, internet_service, support_tickets",Call,190.0
-C02006,0.475,"payment_method, tenure_months, internet_service",Call,190.0
-C03507,0.475,"monthly_charges, tenure_months, support_tickets",Call,190.0
-C04181,0.472,"monthly_charges, support_tickets, internet_service",Call,189.0
-C05962,0.473,"monthly_charges, support_tickets, internet_service",Call,189.0
-C04614,0.473,"monthly_charges, internet_service, support_tickets",Call,189.0
-C02079,0.472,"monthly_charges, tenure_months, internet_service",Call,189.0
-C02650,0.473,"support_tickets, contract, payment_method",Call,189.0
-C02349,0.473,"monthly_charges, internet_service, contract",Call,189.0
-C03500,0.469,"monthly_charges, support_tickets, payment_method",Call,188.0
-C00085,0.469,"support_tickets, monthly_charges, payment_method",Call,188.0
-C02217,0.469,"support_tickets, monthly_charges, contract",Call,188.0
-C03920,0.47,"monthly_charges, internet_service, support_tickets",Call,188.0
-C02821,0.471,"support_tickets, monthly_charges, payment_method",Call,188.0
-C00544,0.471,"tenure_months, monthly_charges, support_tickets",Call,188.0
-C00119,0.471,"payment_method, tenure_months, internet_service",Call,188.0
-C05016,0.468,"support_tickets, contract, internet_service",Call,187.0
-C00235,0.468,"payment_method, tenure_months, support_tickets",Call,187.0
-C02540,0.467,"support_tickets, tenure_months, contract",Call,187.0
-C01021,0.466,"support_tickets, tenure_months, internet_service",Call,186.0
-C01370,0.466,"support_tickets, tenure_months, internet_service",Call,186.0
-C04247,0.466,"monthly_charges, support_tickets, payment_method",Call,186.0
-C04815,0.464,"support_tickets, payment_method, contract",Call,186.0
-C05228,0.466,"monthly_charges, internet_service, contract",Call,186.0
-C01707,0.465,"support_tickets, contract, internet_service",Call,186.0
-C01439,0.463,"support_tickets, monthly_charges, payment_method",Call,185.0
-C04251,0.463,"monthly_charges, internet_service, support_tickets",Call,185.0
-C02221,0.462,"support_tickets, payment_method, monthly_charges",Call,185.0
-C02770,0.461,"payment_method, monthly_charges, support_tickets",Call,184.0
-C04895,0.461,"support_tickets, monthly_charges, contract",Call,184.0
-C02605,0.458,"support_tickets, internet_service, contract",Call,183.0
-C05762,0.457,"tenure_months, monthly_charges, payment_method",Call,183.0
-C01074,0.458,"monthly_charges, support_tickets, payment_method",Call,183.0
-C04943,0.457,"monthly_charges, support_tickets, tenure_months",Call,183.0
-C02375,0.457,"tenure_months, internet_service, support_tickets",Call,183.0
-C03578,0.458,"tenure_months, monthly_charges, internet_service",Call,183.0
-C03745,0.458,"tenure_months, payment_method, contract",Call,183.0
-C01254,0.454,"monthly_charges, internet_service, support_tickets",Call,182.0
-C01376,0.454,"monthly_charges, payment_method, tenure_months",Call,182.0
-C02032,0.454,"monthly_charges, support_tickets, contract",Call,182.0
-C04216,0.455,"monthly_charges, payment_method, internet_service",Call,182.0
-C04266,0.454,"tenure_months, contract, internet_service",Call,182.0
-C01477,0.454,"support_tickets, contract, internet_service",Call,182.0
-C02445,0.456,"tenure_months, internet_service, contract",Call,182.0
-C04436,0.454,"support_tickets, tenure_months, payment_method",Call,182.0
-C01868,0.453,"tenure_months, internet_service, support_tickets",Call,181.0
-C04562,0.452,"payment_method, monthly_charges, contract",Call,181.0
-C05316,0.453,"tenure_months, contract, payment_method",Call,181.0
-C03428,0.453,"monthly_charges, tenure_months, contract",Call,181.0
-C01534,0.453,"tenure_months, monthly_charges, internet_service",Call,181.0
-C02749,0.449,"monthly_charges, support_tickets, contract",Call,180.0
-C01547,0.45,"tenure_months, monthly_charges, payment_method",Call,180.0
-C02789,0.45,"monthly_charges, internet_service, contract",Call,180.0
-C04397,0.449,"tenure_months, support_tickets, payment_method",Call,180.0
-C03233,0.449,"tenure_months, support_tickets, monthly_charges",Call,180.0
-C01959,0.451,"tenure_months, support_tickets, contract",Call,180.0
-C00735,0.448,"payment_method, tenure_months, internet_service",Call,179.0
-C05005,0.448,"tenure_months, contract, payment_method",Call,179.0
-C03614,0.448,"tenure_months, support_tickets, contract",Call,179.0
-C04413,0.445,"tenure_months, payment_method, internet_service",Call,178.0
-C02527,0.446,"tenure_months, support_tickets, payment_method",Call,178.0
-C05852,0.446,"support_tickets, internet_service, contract",Call,178.0
-C01298,0.445,"support_tickets, internet_service, contract",Call,178.0
-C03661,0.444,"tenure_months, support_tickets, payment_method",Call,178.0
-C05715,0.443,"support_tickets, internet_service, tenure_months",Call,177.0
-C00836,0.443,"payment_method, tenure_months, contract",Call,177.0
-C04305,0.442,"tenure_months, monthly_charges, payment_method",Call,177.0
-C00381,0.442,"support_tickets, monthly_charges, contract",Call,177.0
-C04847,0.442,"monthly_charges, payment_method, internet_service",Call,177.0
-C00747,0.443,"support_tickets, tenure_months, payment_method",Call,177.0
-C05237,0.442,"support_tickets, tenure_months, internet_service",Call,177.0
-C02705,0.443,"payment_method, monthly_charges, contract",Call,177.0
-C03839,0.441,"monthly_charges, tenure_months, support_tickets",Call,176.0
-C01274,0.441,"support_tickets, tenure_months, payment_method",Call,176.0
-C03234,0.441,"monthly_charges, support_tickets, contract",Call,176.0
-C04680,0.439,"tenure_months, monthly_charges, payment_method",Call,176.0
-C03295,0.44,"support_tickets, contract, payment_method",Call,176.0
-C02767,0.44,"payment_method, support_tickets, contract",Call,176.0
-C02785,0.439,"tenure_months, monthly_charges, payment_method",Call,176.0
-C05081,0.437,"support_tickets, payment_method, contract",Call,175.0
-C00567,0.438,"monthly_charges, payment_method, internet_service",Call,175.0
-C03942,0.438,"monthly_charges, support_tickets, contract",Call,175.0
-C03142,0.438,"monthly_charges, payment_method, support_tickets",Call,175.0
-C00232,0.438,"tenure_months, monthly_charges, internet_service",Call,175.0
-C02642,0.436,"tenure_months, contract, payment_method",Call,174.0
-C03827,0.434,"tenure_months, monthly_charges, payment_method",Call,174.0
-C05119,0.434,"monthly_charges, tenure_months, internet_service",Call,174.0
-C00925,0.434,"tenure_months, internet_service, support_tickets",Call,174.0
-C03457,0.435,"monthly_charges, internet_service, support_tickets",Call,174.0
-C05866,0.432,"tenure_months, payment_method, support_tickets",Call,173.0
-C00614,0.433,"tenure_months, contract, payment_method",Call,173.0
-C01391,0.432,"monthly_charges, support_tickets, internet_service",Call,173.0
-C01934,0.432,"tenure_months, monthly_charges, payment_method",Call,173.0
-C03973,0.432,"support_tickets, contract, payment_method",Call,173.0
-C05968,0.431,"support_tickets, contract, payment_method",Call,172.0
-C04701,0.429,"tenure_months, support_tickets, contract",Call,172.0
-C04533,0.431,"monthly_charges, internet_service, contract",Call,172.0
-C00498,0.429,"support_tickets, payment_method, internet_service",Call,172.0
-C05030,0.43,"monthly_charges, support_tickets, internet_service",Call,172.0
-C00454,0.427,"tenure_months, monthly_charges, contract",Call,171.0
-C03513,0.428,"support_tickets, payment_method, contract",Call,171.0
-C00682,0.428,"tenure_months, monthly_charges, support_tickets",Call,171.0
-C02351,0.428,"support_tickets, contract, internet_service",Call,171.0
-C04089,0.428,"tenure_months, monthly_charges, internet_service",Call,171.0
-C02853,0.428,"tenure_months, internet_service, support_tickets",Call,171.0
-C03854,0.425,"tenure_months, monthly_charges, payment_method",Call,170.0
-C05596,0.426,"monthly_charges, tenure_months, payment_method",Call,170.0
-C00037,0.426,"tenure_months, monthly_charges, payment_method",Call,170.0
-C05364,0.426,"tenure_months, contract, payment_method",Call,170.0
-C03634,0.426,"monthly_charges, tenure_months, support_tickets",Call,170.0
-C04811,0.424,"payment_method, tenure_months, contract",Call,170.0
-C02539,0.425,"tenure_months, support_tickets, payment_method",Call,170.0
-C04095,0.426,"support_tickets, monthly_charges, internet_service",Call,170.0
-C00147,0.426,"tenure_months, monthly_charges, contract",Call,170.0
-C01057,0.423,"payment_method, tenure_months, support_tickets",Call,169.0
-C03395,0.422,"monthly_charges, contract, internet_service",Call,169.0
-C04786,0.42,"monthly_charges, support_tickets, payment_method",Call,168.0
-C03913,0.42,"monthly_charges, support_tickets, contract",Call,168.0
-C04957,0.421,"tenure_months, payment_method, support_tickets",Call,168.0
-C05712,0.42,"tenure_months, support_tickets, payment_method",Call,168.0
-C03331,0.418,"tenure_months, payment_method, internet_service",Call,167.0
-C00361,0.417,"support_tickets, contract, payment_method",Call,167.0
-C00942,0.416,"tenure_months, internet_service, contract",Call,166.0
-C03104,0.415,"monthly_charges, support_tickets, tenure_months",Call,166.0
-C05773,0.413,"tenure_months, payment_method, monthly_charges",Call,165.0
-C01769,0.412,"tenure_months, support_tickets, payment_method",Call,165.0
-C03087,0.412,"support_tickets, contract, payment_method",Call,165.0
-C02095,0.409,"tenure_months, payment_method, internet_service",Call,164.0
-C00755,0.409,"support_tickets, monthly_charges, payment_method",Call,164.0
-C02092,0.41,"internet_service, support_tickets, contract",Call,164.0
-C05862,0.408,"monthly_charges, support_tickets, payment_method",Call,163.0
-C04353,0.407,"monthly_charges, support_tickets, contract",Call,163.0
-C01664,0.408,"tenure_months, support_tickets, contract",Call,163.0
-C00902,0.408,"tenure_months, support_tickets, payment_method",Call,163.0
-C05623,0.404,"monthly_charges, payment_method, tenure_months",Call,162.0
-C01796,0.404,"tenure_months, payment_method, support_tickets",Call,162.0
-C05653,0.406,"support_tickets, tenure_months, payment_method",Call,162.0
-C00419,0.404,"tenure_months, support_tickets, payment_method",Call,162.0
-C02924,0.406,"monthly_charges, payment_method, internet_service",Call,162.0
-C05325,0.404,"monthly_charges, support_tickets, tenure_months",Call,162.0
-C04338,0.402,"tenure_months, monthly_charges, internet_service",Call,161.0
-C00840,0.402,"tenure_months, internet_service, support_tickets",Call,161.0
-C03154,0.402,"tenure_months, monthly_charges, payment_method",Call,161.0
-C05263,0.403,"support_tickets, monthly_charges, payment_method",Call,161.0
-C02895,0.403,"monthly_charges, tenure_months, payment_method",Call,161.0
-C00627,0.4,"tenure_months, contract, internet_service",Call,160.0
-C03399,0.4,"support_tickets, payment_method, tenure_months",Call,160.0
-C03324,0.401,"support_tickets, payment_method, contract",Call,160.0
-C00250,0.397,"internet_service, support_tickets, contract",Call,159.0
-C05625,0.397,"monthly_charges, payment_method, internet_service",Call,159.0
-C03518,0.398,"monthly_charges, payment_method, internet_service",Call,159.0
-C04671,0.396,"monthly_charges, support_tickets, tenure_months",Call,158.0
-C02307,0.396,"payment_method, contract, internet_service",Call,158.0
-C01046,0.394,"monthly_charges, tenure_months, internet_service",Call,158.0
-C03311,0.396,"monthly_charges, payment_method, support_tickets",Call,158.0
-C00712,0.393,"monthly_charges, support_tickets, contract",Call,157.0
-C04632,0.392,"tenure_months, monthly_charges, internet_service",Call,157.0
-C04809,0.392,"monthly_charges, contract, payment_method",Call,157.0
-C05708,0.389,"support_tickets, tenure_months, payment_method",Call,156.0
-C04734,0.389,"tenure_months, payment_method, monthly_charges",Call,156.0
-C05887,0.391,"tenure_months, contract, internet_service",Call,156.0
-C03248,0.389,"support_tickets, contract, payment_method",Call,156.0
-C01456,0.39,"support_tickets, payment_method, contract",Call,156.0
-C00527,0.39,"tenure_months, payment_method, internet_service",Call,156.0
-C02252,0.388,"tenure_months, monthly_charges, internet_service",Call,155.0
-C03058,0.388,"tenure_months, internet_service, monthly_charges",Call,155.0
-C03376,0.388,"tenure_months, monthly_charges, support_tickets",Call,155.0
-C01001,0.387,"support_tickets, payment_method, tenure_months",Call,155.0
-C00532,0.388,"tenure_months, internet_service, contract",Call,155.0
-C03450,0.386,"tenure_months, support_tickets, payment_method",Call,154.0
-C00170,0.386,"support_tickets, tenure_months, internet_service",Call,154.0
-C03595,0.386,"payment_method, tenure_months, contract",Call,154.0
-C02792,0.385,"support_tickets, payment_method, monthly_charges",Call,154.0
-C03364,0.384,"monthly_charges, support_tickets, internet_service",Call,154.0
-C02465,0.383,"support_tickets, contract, internet_service",Call,153.0
-C03169,0.383,"support_tickets, internet_service, contract",Call,153.0
-C01007,0.382,"support_tickets, internet_service, contract",Call,153.0
-C04344,0.382,"monthly_charges, support_tickets, payment_method",Call,153.0
-C02474,0.38,"support_tickets, payment_method, internet_service",Call,152.0
-C04649,0.379,"support_tickets, internet_service, contract",Call,152.0
-C05615,0.38,"monthly_charges, payment_method, contract",Call,152.0
-C02065,0.379,"support_tickets, internet_service, contract",Call,152.0
-C04472,0.38,"payment_method, support_tickets, contract",Call,152.0
-C04846,0.379,"monthly_charges, internet_service, support_tickets",Call,152.0
-C02526,0.381,"tenure_months, internet_service, payment_method",Call,152.0
-C03066,0.38,"tenure_months, monthly_charges, internet_service",Call,152.0
-C04168,0.381,"tenure_months, contract, payment_method",Call,152.0
-C04736,0.381,"tenure_months, monthly_charges, internet_service",Call,152.0
-C02494,0.378,"monthly_charges, internet_service, contract",Call,151.0
-C05135,0.378,"support_tickets, monthly_charges, internet_service",Call,151.0
-C00463,0.377,"monthly_charges, support_tickets, internet_service",Call,151.0
-C04974,0.378,"tenure_months, internet_service, payment_method",Call,151.0
-C01606,0.378,"tenure_months, internet_service, contract",Call,151.0
-C04392,0.377,"tenure_months, payment_method, support_tickets",Call,151.0
-C01636,0.376,"monthly_charges, support_tickets, contract",Call,150.0
-C01571,0.374,"support_tickets, monthly_charges, tenure_months",Call,150.0
-C01114,0.376,"payment_method, monthly_charges, support_tickets",Call,150.0
-C03025,0.374,"support_tickets, contract, payment_method",Call,150.0
-C05104,0.375,"monthly_charges, support_tickets, contract",Call,150.0
-C02385,0.375,"monthly_charges, support_tickets, internet_service",Call,150.0
-C00010,0.376,"monthly_charges, support_tickets, contract",Call,150.0
-C02848,0.373,"support_tickets, contract, payment_method",Call,149.0
-C01933,0.373,"monthly_charges, support_tickets, tenure_months",Call,149.0
-C02633,0.372,"monthly_charges, internet_service, support_tickets",Call,149.0
-C01641,0.372,"tenure_months, payment_method, support_tickets",Call,149.0
-C05880,0.373,"payment_method, contract, internet_service",Call,149.0
-C00676,0.372,"support_tickets, contract, payment_method",Call,149.0
-C05144,0.373,"monthly_charges, support_tickets, payment_method",Call,149.0
-C00709,0.373,"tenure_months, monthly_charges, payment_method",Call,149.0
-C04249,0.372,"support_tickets, monthly_charges, contract",Call,149.0
-C03793,0.373,"tenure_months, contract, payment_method",Call,149.0
-C02240,0.37,"monthly_charges, payment_method, internet_service",Call,148.0
-C01042,0.369,"tenure_months, support_tickets, payment_method",Call,148.0
-C03486,0.37,"support_tickets, payment_method, monthly_charges",Call,148.0
-C01864,0.369,"tenure_months, support_tickets, payment_method",Call,148.0
-C00141,0.37,"tenure_months, support_tickets, payment_method",Call,148.0
-C05768,0.37,"support_tickets, monthly_charges, internet_service",Call,148.0
-C04473,0.37,"monthly_charges, contract, payment_method",Call,148.0
-C04819,0.371,"tenure_months, support_tickets, payment_method",Call,148.0
-C02121,0.369,"tenure_months, monthly_charges, payment_method",Call,148.0
-C04131,0.37,"monthly_charges, support_tickets, contract",Call,148.0
-C01142,0.37,"support_tickets, payment_method, internet_service",Call,148.0
-C03327,0.37,"tenure_months, support_tickets, payment_method",Call,148.0
-C01345,0.367,"tenure_months, support_tickets, internet_service",Call,147.0
-C02948,0.368,"payment_method, tenure_months, contract",Call,147.0
-C00402,0.367,"tenure_months, internet_service, monthly_charges",Call,147.0
-C05459,0.367,"support_tickets, payment_method, contract",Call,147.0
-C00878,0.366,"tenure_months, internet_service, payment_method",Call,146.0
-C04111,0.366,"tenure_months, payment_method, monthly_charges",Call,146.0
-C00460,0.364,"monthly_charges, internet_service, contract",Call,146.0
-C00262,0.366,"monthly_charges, support_tickets, contract",Call,146.0
-C02862,0.365,"tenure_months, contract, payment_method",Call,146.0
-C05324,0.364,"support_tickets, contract, payment_method",Call,146.0
-C02482,0.364,"tenure_months, contract, payment_method",Call,146.0
-C05069,0.364,"tenure_months, payment_method, contract",Call,146.0
-C02187,0.362,"monthly_charges, tenure_months, payment_method",Call,145.0
-C05860,0.363,"support_tickets, internet_service, contract",Call,145.0
-C04843,0.363,"tenure_months, monthly_charges, support_tickets",Call,145.0
-C01128,0.362,"support_tickets, contract, internet_service",Call,145.0
-C04662,0.359,"tenure_months, internet_service, support_tickets",Call,144.0
-C05481,0.359,"monthly_charges, tenure_months, payment_method",Call,144.0
-C05323,0.36,"tenure_months, support_tickets, payment_method",Call,144.0
-C02114,0.36,"tenure_months, support_tickets, payment_method",Call,144.0
-C04795,0.36,"support_tickets, monthly_charges, payment_method",Call,144.0
-C03872,0.361,"support_tickets, monthly_charges, tenure_months",Call,144.0
-C01306,0.358,"tenure_months, support_tickets, payment_method",Call,143.0
-C04196,0.358,"monthly_charges, tenure_months, support_tickets",Call,143.0
-C02479,0.358,"support_tickets, payment_method, monthly_charges",Call,143.0
-C02486,0.358,"monthly_charges, tenure_months, internet_service",Call,143.0
-C05575,0.356,"support_tickets, internet_service, contract",Call,142.0
-C05639,0.356,"support_tickets, contract, internet_service",Call,142.0
-C05310,0.354,"monthly_charges, internet_service, tenure_months",Call,142.0
-C00241,0.356,"support_tickets, contract, internet_service",Call,142.0
-C00636,0.356,"tenure_months, monthly_charges, support_tickets",Call,142.0
-C02310,0.353,"tenure_months, payment_method, monthly_charges",Call,141.0
-C04909,0.353,"payment_method, tenure_months, internet_service",Call,141.0
-C03835,0.352,"monthly_charges, support_tickets, payment_method",Call,141.0
-C01787,0.353,"monthly_charges, contract, payment_method",Call,141.0
-C01603,0.352,"tenure_months, internet_service, support_tickets",Call,141.0
-C00404,0.353,"monthly_charges, contract, internet_service",Call,141.0
-C04443,0.353,"tenure_months, support_tickets, payment_method",Call,141.0
-C00140,0.35,"support_tickets, internet_service, contract",Call,140.0
-C02374,0.349,"support_tickets, monthly_charges, internet_service",Call,140.0
-C04803,0.351,"tenure_months, support_tickets, contract",Call,140.0
-C00591,0.349,"support_tickets, payment_method, monthly_charges",Call,140.0
-C03230,0.347,"support_tickets, monthly_charges, internet_service",Call,139.0
-C02275,0.348,"support_tickets, internet_service, contract",Call,139.0
-C02687,0.347,"support_tickets, monthly_charges, contract",Call,139.0
-C02655,0.348,"monthly_charges, contract, payment_method",Call,139.0
-C05553,0.348,"tenure_months, support_tickets, payment_method",Call,139.0
-C00097,0.348,"tenure_months, payment_method, support_tickets",Call,139.0
-C04094,0.348,"tenure_months, support_tickets, contract",Call,139.0
-C03762,0.345,"support_tickets, contract, payment_method",Call,138.0
-C01167,0.346,"support_tickets, monthly_charges, internet_service",Call,138.0
-C03944,0.346,"tenure_months, contract, internet_service",Call,138.0
-C03833,0.345,"support_tickets, payment_method, monthly_charges",Call,138.0
-C02926,0.344,"support_tickets, monthly_charges, tenure_months",Call,138.0
-C01056,0.344,"tenure_months, payment_method, support_tickets",Call,138.0
-C02916,0.344,"support_tickets, payment_method, contract",Call,138.0
-C03952,0.344,"payment_method, monthly_charges, support_tickets",Call,138.0
-C02708,0.346,"monthly_charges, payment_method, internet_service",Call,138.0
-C00478,0.343,"monthly_charges, internet_service, support_tickets",Call,137.0
-C05996,0.343,"monthly_charges, tenure_months, support_tickets",Call,137.0
-C01592,0.342,"tenure_months, monthly_charges, internet_service",Call,137.0
-C00861,0.342,"tenure_months, payment_method, monthly_charges",Call,137.0
-C02303,0.342,"tenure_months, support_tickets, internet_service",Call,137.0
-C04051,0.341,"monthly_charges, tenure_months, support_tickets",Call,136.0
-C02903,0.34,"tenure_months, monthly_charges, support_tickets",Call,136.0
-C04058,0.339,"tenure_months, payment_method, monthly_charges",Call,136.0
-C03078,0.341,"monthly_charges, internet_service, contract",Call,136.0
-C05409,0.34,"monthly_charges, support_tickets, internet_service",Call,136.0
-C05556,0.341,"support_tickets, payment_method, contract",Call,136.0
-C00975,0.339,"tenure_months, support_tickets, internet_service",Call,136.0
-C01016,0.337,"monthly_charges, payment_method, support_tickets",Call,135.0
-C05813,0.338,"support_tickets, contract, internet_service",Call,135.0
-C03923,0.337,"monthly_charges, support_tickets, payment_method",Call,135.0
-C04435,0.338,"monthly_charges, contract, internet_service",Call,135.0
-C03581,0.338,"support_tickets, monthly_charges, internet_service",Call,135.0
-C02667,0.337,"support_tickets, tenure_months, payment_method",Call,135.0
-C05137,0.338,"support_tickets, monthly_charges, internet_service",Call,135.0
-C00987,0.337,"monthly_charges, payment_method, support_tickets",Call,135.0
-C02558,0.334,"tenure_months, support_tickets, payment_method",Call,134.0
-C04458,0.336,"support_tickets, monthly_charges, payment_method",Call,134.0
-C05957,0.335,"monthly_charges, payment_method, support_tickets",Call,134.0
-C01395,0.336,"support_tickets, tenure_months, internet_service",Call,134.0
-C05676,0.336,"support_tickets, contract, payment_method",Call,134.0
-C00912,0.334,"monthly_charges, payment_method, tenure_months",Call,134.0
-C03188,0.333,"support_tickets, monthly_charges, contract",Call,133.0
-C04561,0.333,"tenure_months, payment_method, support_tickets",Call,133.0
-C04191,0.332,"support_tickets, monthly_charges, payment_method",Call,133.0
-C01132,0.333,"payment_method, internet_service, contract",Call,133.0
-C03727,0.331,"tenure_months, contract, payment_method",Call,132.0
-C03685,0.329,"tenure_months, payment_method, internet_service",Call,132.0
-C00733,0.329,"tenure_months, support_tickets, payment_method",Call,132.0
-C01419,0.331,"tenure_months, support_tickets, payment_method",Call,132.0
-C03657,0.329,"support_tickets, contract, internet_service",Call,132.0
-C00447,0.327,"support_tickets, contract, payment_method",Call,131.0
-C05789,0.327,"payment_method, internet_service, support_tickets",Call,131.0
-C03613,0.327,"support_tickets, tenure_months, monthly_charges",Call,131.0
-C05158,0.328,"monthly_charges, internet_service, support_tickets",Call,131.0
-C03149,0.324,"tenure_months, internet_service, support_tickets",Call,130.0
-C04195,0.326,"support_tickets, monthly_charges, payment_method",Call,130.0
-C02231,0.326,"support_tickets, contract, payment_method",Call,130.0
-C01082,0.324,"monthly_charges, internet_service, support_tickets",Call,130.0
-C01657,0.322,"tenure_months, payment_method, support_tickets",Call,129.0
-C03446,0.322,"internet_service, support_tickets, contract",Call,129.0
-C04090,0.322,"monthly_charges, internet_service, support_tickets",Call,129.0
-C02309,0.319,"support_tickets, tenure_months, payment_method",Call,128.0
-C01519,0.32,"payment_method, support_tickets, contract",Call,128.0
-C01276,0.319,"monthly_charges, support_tickets, contract",Call,128.0
-C02933,0.32,"tenure_months, internet_service, contract",Call,128.0
-C01452,0.321,"payment_method, support_tickets, contract",Call,128.0
-C03995,0.319,"contract, payment_method, internet_service",Call,128.0
-C01233,0.321,"tenure_months, contract, payment_method",Call,128.0
-C01318,0.321,"support_tickets, payment_method, internet_service",Call,128.0
-C05383,0.321,"monthly_charges, internet_service, support_tickets",Call,128.0
-C01991,0.32,"contract, payment_method, internet_service",Call,128.0
-C05883,0.317,"support_tickets, contract, payment_method",Call,127.0
-C02132,0.315,"support_tickets, contract, payment_method",Call,126.0
-C04555,0.315,"support_tickets, payment_method, monthly_charges",Call,126.0
-C05360,0.315,"support_tickets, contract, payment_method",Call,126.0
-C01289,0.315,"monthly_charges, support_tickets, payment_method",Call,126.0
-C02158,0.314,"tenure_months, support_tickets, payment_method",Call,126.0
-C05841,0.316,"payment_method, internet_service, support_tickets",Call,126.0
-C00146,0.312,"monthly_charges, support_tickets, contract",Call,125.0
-C05890,0.31,"support_tickets, monthly_charges, contract",Call,124.0
-C01089,0.31,"monthly_charges, contract, internet_service",Call,124.0
-C02972,0.309,"tenure_months, support_tickets, payment_method",Call,124.0
-C03494,0.311,"monthly_charges, tenure_months, support_tickets",Call,124.0
-C03288,0.311,"payment_method, tenure_months, contract",Call,124.0
-C03464,0.308,"tenure_months, monthly_charges, payment_method",Call,123.0
-C01429,0.307,"tenure_months, monthly_charges, payment_method",Call,123.0
-C02289,0.307,"monthly_charges, payment_method, internet_service",Call,123.0
-C00436,0.307,"tenure_months, contract, payment_method",Call,123.0
-C00859,0.307,"tenure_months, payment_method, internet_service",Call,123.0
-C03459,0.307,"tenure_months, internet_service, support_tickets",Call,123.0
-C00574,0.306,"tenure_months, support_tickets, contract",Call,122.0
-C03157,0.306,"support_tickets, monthly_charges, payment_method",Call,122.0
-C01018,0.304,"payment_method, support_tickets, contract",Call,122.0
-C03771,0.305,"payment_method, monthly_charges, internet_service",Call,122.0
-C00537,0.306,"support_tickets, internet_service, contract",Call,122.0
-C05335,0.306,"monthly_charges, support_tickets, internet_service",Call,122.0
-C01585,0.306,"monthly_charges, internet_service, contract",Call,122.0
-C05022,0.306,"tenure_months, support_tickets, payment_method",Call,122.0
-C05767,0.305,"payment_method, support_tickets, contract",Call,122.0
-C00486,0.304,"monthly_charges, payment_method, contract",Call,122.0
-C00999,0.305,"monthly_charges, contract, payment_method",Call,122.0
-C03314,0.304,"monthly_charges, payment_method, tenure_months",Call,122.0
-C00155,0.302,"support_tickets, contract, internet_service",Call,121.0
-C01033,0.301,"support_tickets, internet_service, contract",Call,120.0
-C01020,0.301,"monthly_charges, tenure_months, payment_method",Call,120.0
-C00006,0.299,"monthly_charges, support_tickets, payment_method",Call,120.0
-C02772,0.299,"payment_method, support_tickets, contract",Call,120.0
-C05195,0.299,"support_tickets, payment_method, contract",Call,120.0
-C03173,0.301,"monthly_charges, support_tickets, internet_service",Call,120.0
-C02981,0.301,"support_tickets, payment_method, tenure_months",Call,120.0
-C00781,0.301,"tenure_months, internet_service, support_tickets",Call,120.0
-C03113,0.299,"support_tickets, contract, internet_service",Call,120.0
-C05361,0.299,"support_tickets, contract, payment_method",Call,120.0
-C02052,0.297,"internet_service, support_tickets, contract",Call,119.0
-C03333,0.298,"tenure_months, internet_service, support_tickets",Call,119.0
-C00773,0.298,"tenure_months, contract, payment_method",Call,119.0
-C02172,0.297,"monthly_charges, internet_service, tenure_months",Call,119.0
-C01733,0.297,"support_tickets, tenure_months, payment_method",Call,119.0
-C00884,0.298,"monthly_charges, support_tickets, payment_method",Call,119.0
-C04933,0.297,"tenure_months, payment_method, internet_service",Call,119.0
-C05448,0.297,"monthly_charges, internet_service, support_tickets",Call,119.0
-C04820,0.296,"support_tickets, contract, internet_service",Call,118.0
-C02744,0.296,"tenure_months, support_tickets, internet_service",Call,118.0
-C00203,0.294,"monthly_charges, payment_method, tenure_months",Call,118.0
-C05917,0.296,"tenure_months, payment_method, internet_service",Call,118.0
-C01790,0.294,"support_tickets, contract, payment_method",Call,118.0
-C00075,0.292,"payment_method, contract, internet_service",Call,117.0
-C01998,0.292,"internet_service, support_tickets, contract",Call,117.0
-C05446,0.292,"monthly_charges, contract, internet_service",Call,117.0
-C05101,0.293,"payment_method, contract, internet_service",Call,117.0
-C00580,0.292,"monthly_charges, support_tickets, contract",Call,117.0
-C04814,0.291,"support_tickets, internet_service, contract",Call,116.0
-C01129,0.29,"support_tickets, monthly_charges, internet_service",Call,116.0
-C00879,0.289,"support_tickets, tenure_months, internet_service",Call,116.0
-C00136,0.29,"monthly_charges, support_tickets, contract",Call,116.0
-C04023,0.29,"tenure_months, payment_method, support_tickets",Call,116.0
-C00767,0.288,"support_tickets, monthly_charges, contract",Call,115.0
-C04485,0.288,"tenure_months, internet_service, payment_method",Call,115.0
-C01559,0.288,"support_tickets, internet_service, contract",Call,115.0
-C05801,0.285,"monthly_charges, support_tickets, contract",Call,114.0
-C04100,0.284,"tenure_months, internet_service, support_tickets",Call,114.0
-C01049,0.286,"contract, payment_method, internet_service",Call,114.0
-C00964,0.284,"tenure_months, payment_method, internet_service",Call,114.0
-C03407,0.285,"monthly_charges, support_tickets, contract",Call,114.0
-C04205,0.282,"tenure_months, payment_method, internet_service",Call,113.0
-C02609,0.283,"payment_method, monthly_charges, internet_service",Call,113.0
-C05781,0.282,"support_tickets, tenure_months, internet_service",Call,113.0
-C00327,0.281,"payment_method, contract, internet_service",Call,112.0
-C03080,0.279,"tenure_months, support_tickets, internet_service",Call,112.0
-C01239,0.279,"contract, payment_method, internet_service",Call,112.0
-C05362,0.279,"tenure_months, support_tickets, internet_service",Call,112.0
-C05139,0.279,"monthly_charges, tenure_months, payment_method",Call,112.0
-C04818,0.279,"support_tickets, tenure_months, payment_method",Call,112.0
-C03796,0.277,"monthly_charges, internet_service, contract",Call,111.0
-C00471,0.278,"monthly_charges, internet_service, contract",Call,111.0
-C01292,0.277,"monthly_charges, support_tickets, contract",Call,111.0
-C01847,0.277,"payment_method, contract, tenure_months",Call,111.0
-C01988,0.275,"monthly_charges, tenure_months, internet_service",Call,110.0
-C04471,0.274,"monthly_charges, payment_method, contract",Call,110.0
-C02254,0.276,"payment_method, support_tickets, contract",Call,110.0
-C04985,0.275,"tenure_months, internet_service, payment_method",Call,110.0
-C05645,0.272,"monthly_charges, payment_method, tenure_months",Call,109.0
-C02156,0.273,"monthly_charges, payment_method, internet_service",Call,109.0
-C04172,0.272,"support_tickets, monthly_charges, tenure_months",Call,109.0
-C00988,0.269,"payment_method, support_tickets, contract",Call,108.0
-C03473,0.27,"monthly_charges, payment_method, internet_service",Call,108.0
-C00280,0.269,"support_tickets, monthly_charges, payment_method",Call,108.0
-C02377,0.269,"contract, payment_method, internet_service",Call,108.0
-C02943,0.269,"internet_service, support_tickets, contract",Call,108.0
-C04380,0.27,"tenure_months, internet_service, support_tickets",Call,108.0
-C04693,0.269,"monthly_charges, payment_method, contract",Call,108.0
-C02097,0.271,"tenure_months, monthly_charges, support_tickets",Call,108.0
-C02921,0.27,"support_tickets, contract, internet_service",Call,108.0
-C01409,0.271,"tenure_months, payment_method, internet_service",Call,108.0
-C02164,0.27,"payment_method, tenure_months, contract",Call,108.0
-C00723,0.27,"tenure_months, internet_service, payment_method",Call,108.0
-C04264,0.267,"monthly_charges, contract, payment_method",Call,107.0
-C05966,0.267,"payment_method, support_tickets, contract",Call,107.0
-C01027,0.267,"tenure_months, support_tickets, internet_service",Call,107.0
-C03986,0.267,"support_tickets, tenure_months, internet_service",Call,107.0
-C00134,0.267,"payment_method, internet_service, support_tickets",Call,107.0
-C03621,0.266,"tenure_months, internet_service, payment_method",Call,106.0
-C04004,0.264,"support_tickets, payment_method, tenure_months",Call,106.0
-C05724,0.265,"monthly_charges, payment_method, internet_service",Call,106.0
-C05587,0.266,"support_tickets, contract, payment_method",Call,106.0
-C05398,0.264,"support_tickets, internet_service, contract",Call,106.0
-C00461,0.266,"tenure_months, monthly_charges, internet_service",Call,106.0
-C04865,0.262,"tenure_months, support_tickets, payment_method",Call,105.0
-C02492,0.263,"support_tickets, payment_method, internet_service",Call,105.0
-C04841,0.263,"monthly_charges, support_tickets, contract",Call,105.0
-C01369,0.262,"support_tickets, tenure_months, internet_service",Call,105.0
-C01050,0.263,"tenure_months, internet_service, payment_method",Call,105.0
-C00019,0.262,"tenure_months, payment_method, internet_service",Call,105.0
-C03675,0.262,"support_tickets, contract, internet_service",Call,105.0
-C04477,0.261,"tenure_months, internet_service, payment_method",Call,104.0
-C01467,0.261,"tenure_months, support_tickets, internet_service",Call,104.0
-C01360,0.259,"support_tickets, contract, internet_service",Call,104.0
-C03249,0.26,"payment_method, monthly_charges, support_tickets",Call,104.0
-C03836,0.259,"tenure_months, contract, payment_method",Call,104.0
-C01760,0.259,"tenure_months, support_tickets, internet_service",Call,104.0
-C05577,0.26,"contract, internet_service, payment_method",Call,104.0
-C05103,0.259,"tenure_months, monthly_charges, internet_service",Call,104.0
-C04998,0.257,"tenure_months, payment_method, internet_service",Call,103.0
-C01436,0.257,"monthly_charges, internet_service, support_tickets",Call,103.0
-C02677,0.257,"internet_service, support_tickets, contract",Call,103.0
-C00036,0.257,"support_tickets, contract, payment_method",Call,103.0
-C01348,0.254,"support_tickets, contract, payment_method",Call,102.0
-C03899,0.254,"monthly_charges, contract, payment_method",Call,102.0
-C05940,0.255,"payment_method, internet_service, support_tickets",Call,102.0
-C01183,0.256,"tenure_months, payment_method, monthly_charges",Call,102.0
-C00638,0.256,"tenure_months, internet_service, monthly_charges",Call,102.0
-C03641,0.256,"support_tickets, contract, payment_method",Call,102.0
-C05791,0.255,"tenure_months, payment_method, internet_service",Call,102.0
-C02056,0.255,"support_tickets, contract, payment_method",Call,102.0
-C04286,0.255,"monthly_charges, payment_method, support_tickets",Call,102.0
-C04622,0.256,"support_tickets, tenure_months, internet_service",Call,102.0
-C05794,0.255,"payment_method, support_tickets, contract",Call,102.0
-C03365,0.255,"payment_method, internet_service, contract",Call,102.0
-C00990,0.255,"tenure_months, support_tickets, payment_method",Call,102.0
-C00526,0.254,"support_tickets, payment_method, monthly_charges",Call,102.0
-C04645,0.252,"monthly_charges, contract, payment_method",Call,101.0
-C00721,0.252,"payment_method, internet_service, monthly_charges",Call,101.0
-C01544,0.252,"support_tickets, payment_method, monthly_charges",Call,101.0
-C03181,0.251,"tenure_months, support_tickets, payment_method",Call,100.0
-C04638,0.25,"support_tickets, contract, payment_method",Call,100.0
-C02195,0.249,"monthly_charges, tenure_months, internet_service",Call,100.0
-C00965,0.25,"tenure_months, support_tickets, internet_service",Call,100.0
-C04760,0.249,"support_tickets, payment_method, contract",Call,100.0
-C04070,0.251,"tenure_months, internet_service, support_tickets",Call,100.0
-C00598,0.25,"support_tickets, payment_method, internet_service",Call,100.0
-C02601,0.251,"tenure_months, support_tickets, payment_method",Call,100.0
-C04667,0.247,"tenure_months, support_tickets, internet_service",Call,99.0
-C05483,0.248,"payment_method, monthly_charges, tenure_months",Call,99.0
-C04019,0.247,"payment_method, internet_service, support_tickets",Call,99.0
-C00185,0.247,"support_tickets, tenure_months, payment_method",Call,99.0
-C00349,0.247,"tenure_months, support_tickets, internet_service",Call,99.0
-C04663,0.246,"support_tickets, contract, internet_service",Call,98.0
-C01576,0.246,"internet_service, tenure_months, contract",Call,98.0
-C01655,0.245,"support_tickets, monthly_charges, internet_service",Call,98.0
-C03377,0.243,"tenure_months, payment_method, internet_service",Call,97.0
-C04722,0.243,"payment_method, internet_service, support_tickets",Call,97.0
-C05905,0.241,"support_tickets, contract, payment_method",Call,96.0
-C00829,0.24,"tenure_months, payment_method, internet_service",Call,96.0
-C03856,0.24,"support_tickets, tenure_months, payment_method",Call,96.0
-C01119,0.239,"tenure_months, support_tickets, internet_service",Call,96.0
-C05091,0.241,"monthly_charges, support_tickets, payment_method",Call,96.0
-C03850,0.241,"monthly_charges, contract, payment_method",Call,96.0
-C01851,0.24,"tenure_months, payment_method, support_tickets",Call,96.0
-C01257,0.239,"internet_service, contract, payment_method",Call,96.0
-C01693,0.239,"monthly_charges, contract, internet_service",Call,96.0
-C04508,0.237,"support_tickets, monthly_charges, payment_method",Call,95.0
-C03656,0.238,"payment_method, monthly_charges, tenure_months",Call,95.0
-C03841,0.238,"internet_service, tenure_months, contract",Call,95.0
-C00920,0.237,"monthly_charges, support_tickets, payment_method",Call,95.0
-C01366,0.235,"support_tickets, contract, internet_service",Call,94.0
-C00540,0.235,"monthly_charges, contract, payment_method",Call,94.0
-C02150,0.234,"internet_service, support_tickets, contract",Call,94.0
-C03096,0.235,"tenure_months, internet_service, support_tickets",Call,94.0
-C01164,0.236,"tenure_months, internet_service, support_tickets",Call,94.0
-C05373,0.234,"monthly_charges, payment_method, support_tickets",Call,94.0
-C05032,0.236,"support_tickets, contract, internet_service",Call,94.0
-C04997,0.236,"internet_service, contract, payment_method",Call,94.0
-C00764,0.234,"internet_service, support_tickets, contract",Call,94.0
-C04977,0.234,"tenure_months, internet_service, support_tickets",Call,94.0
-C04731,0.233,"payment_method, internet_service, support_tickets",Call,93.0
-C04067,0.232,"support_tickets, contract, payment_method",Call,93.0
-C03130,0.232,"tenure_months, monthly_charges, internet_service",Call,93.0
-C00869,0.233,"support_tickets, payment_method, internet_service",Call,93.0
-C05365,0.232,"tenure_months, internet_service, support_tickets",Call,93.0
-C04611,0.23,"support_tickets, tenure_months, payment_method",Call,92.0
-C04350,0.231,"monthly_charges, internet_service, support_tickets",Call,92.0
-C03651,0.23,"internet_service, support_tickets, contract",Call,92.0
-C01250,0.231,"monthly_charges, support_tickets, payment_method",Call,92.0
-C00414,0.229,"tenure_months, monthly_charges, internet_service",Call,92.0
-C03475,0.231,"monthly_charges, internet_service, contract",Call,92.0
-C03975,0.229,"support_tickets, contract, internet_service",Call,92.0
-C00192,0.231,"payment_method, internet_service, contract",Call,92.0
-C05804,0.227,"support_tickets, payment_method, contract",Call,91.0
-C01870,0.225,"internet_service, support_tickets, contract",Call,90.0
-C00673,0.225,"contract, payment_method, monthly_charges",Call,90.0
-C03876,0.224,"internet_service, support_tickets, contract",Call,90.0
-C02787,0.224,"monthly_charges, tenure_months, internet_service",Call,90.0
-C00983,0.224,"payment_method, monthly_charges, contract",Call,90.0
-C05627,0.225,"payment_method, tenure_months, monthly_charges",Call,90.0
-C04288,0.224,"tenure_months, payment_method, internet_service",Call,90.0
-C01400,0.226,"support_tickets, contract, internet_service",Call,90.0
-C05441,0.225,"monthly_charges, payment_method, support_tickets",Call,90.0
-C05044,0.222,"tenure_months, internet_service, support_tickets",Call,89.0
-C03481,0.222,"support_tickets, contract, internet_service",Call,89.0
-C04322,0.223,"support_tickets, tenure_months, payment_method",Call,89.0
-C03600,0.219,"payment_method, internet_service, support_tickets",Call,88.0
-C04854,0.219,"support_tickets, monthly_charges, internet_service",Call,88.0
-C01161,0.221,"contract, payment_method, internet_service",Call,88.0
-C00645,0.217,"monthly_charges, support_tickets, contract",Call,87.0
-C00000,0.218,"support_tickets, payment_method, tenure_months",Call,87.0
-C00028,0.218,"tenure_months, internet_service, payment_method",Call,87.0
-C00465,0.217,"monthly_charges, tenure_months, payment_method",Call,87.0
-C02115,0.218,"tenure_months, internet_service, payment_method",Call,87.0
-C00529,0.215,"payment_method, support_tickets, contract",Call,86.0
-C02999,0.215,"payment_method, internet_service, support_tickets",Call,86.0
-C03363,0.213,"support_tickets, contract, payment_method",Call,85.0
-C01478,0.212,"monthly_charges, support_tickets, payment_method",Call,85.0
-C00312,0.212,"monthly_charges, payment_method, support_tickets",Call,85.0
-C03550,0.211,"support_tickets, payment_method, internet_service",Call,84.0
-C02747,0.21,"payment_method, monthly_charges, internet_service",Call,84.0
-C04299,0.211,"tenure_months, payment_method, internet_service",Call,84.0
-C02971,0.211,"support_tickets, monthly_charges, internet_service",Call,84.0
-C00467,0.209,"support_tickets, contract, payment_method",Call,84.0
-C01332,0.21,"support_tickets, contract, payment_method",Call,84.0
-C01520,0.211,"tenure_months, payment_method, support_tickets",Call,84.0
-C01225,0.21,"monthly_charges, internet_service, contract",Call,84.0
-C05073,0.207,"monthly_charges, payment_method, support_tickets",Call,83.0
-C02532,0.207,"tenure_months, internet_service, payment_method",Call,83.0
-C03838,0.207,"monthly_charges, payment_method, internet_service",Call,83.0
-C04635,0.208,"tenure_months, payment_method, internet_service",Call,83.0
-C03208,0.207,"monthly_charges, support_tickets, contract",Call,83.0
-C01944,0.208,"support_tickets, tenure_months, internet_service",Call,83.0
-C01770,0.207,"support_tickets, contract, payment_method",Call,83.0
-C02069,0.208,"tenure_months, support_tickets, payment_method",Call,83.0
-C04721,0.207,"payment_method, tenure_months, support_tickets",Call,83.0
-C01051,0.207,"support_tickets, tenure_months, internet_service",Call,83.0
-C01259,0.206,"payment_method, internet_service, support_tickets",Call,82.0
-C03818,0.206,"monthly_charges, payment_method, internet_service",Call,82.0
-C03185,0.206,"monthly_charges, internet_service, support_tickets",Call,82.0
-C05638,0.204,"tenure_months, internet_service, payment_method",Call,82.0
-C01296,0.205,"support_tickets, payment_method, monthly_charges",Call,82.0
-C05181,0.204,"monthly_charges, payment_method, internet_service",Call,82.0
-C04937,0.202,"tenure_months, internet_service, payment_method",Call,81.0
-C05387,0.202,"tenure_months, internet_service, support_tickets",Call,81.0
-C03925,0.203,"contract, payment_method, internet_service",Call,81.0
-C05701,0.203,"monthly_charges, support_tickets, internet_service",Call,81.0
-C03240,0.202,"support_tickets, internet_service, payment_method",Call,81.0
-C04753,0.203,"internet_service, support_tickets, contract",Call,81.0
-C04835,0.202,"tenure_months, payment_method, internet_service",Call,81.0
-C01107,0.2,"monthly_charges, contract, payment_method",Call,80.0
-C01088,0.201,"monthly_charges, payment_method, support_tickets",Call,80.0
-C05232,0.201,"support_tickets, contract, internet_service",Call,80.0
-C05855,0.201,"payment_method, monthly_charges, support_tickets",Call,80.0
-C02788,0.2,"support_tickets, internet_service, contract",Call,80.0
-C04381,0.2,"support_tickets, internet_service, contract",Call,80.0
-C02509,0.199,"monthly_charges, payment_method, internet_service",Call,80.0
-C04813,0.2,"payment_method, support_tickets, contract",Call,80.0
-C02363,0.198,"payment_method, internet_service, support_tickets",Call,79.0
-C04746,0.197,"tenure_months, monthly_charges, payment_method",Call,79.0
-C00702,0.198,"support_tickets, contract, payment_method",Call,79.0
-C03869,0.198,"support_tickets, payment_method, contract",Call,79.0
-C01324,0.197,"support_tickets, contract, payment_method",Call,79.0
-C02093,0.196,"support_tickets, internet_service, contract",Call,78.0
-C03831,0.194,"monthly_charges, payment_method, support_tickets",Call,78.0
-C01404,0.194,"support_tickets, payment_method, contract",Call,78.0
-C00190,0.196,"monthly_charges, support_tickets, internet_service",Call,78.0
-C04570,0.196,"support_tickets, internet_service, payment_method",Call,78.0
-C03561,0.192,"monthly_charges, support_tickets, internet_service",Call,77.0
-C03604,0.193,"tenure_months, internet_service, payment_method",Call,77.0
-C04185,0.193,"contract, payment_method, internet_service",Call,77.0
-C02563,0.191,"support_tickets, contract, payment_method",Call,76.0
-C00696,0.19,"support_tickets, contract, payment_method",Call,76.0
-C02247,0.189,"monthly_charges, tenure_months, payment_method",Call,76.0
-C03072,0.19,"support_tickets, contract, internet_service",Call,76.0
-C01695,0.19,"monthly_charges, support_tickets, payment_method",Call,76.0
-C01258,0.19,"support_tickets, contract, payment_method",Call,76.0
-C02501,0.187,"monthly_charges, contract, internet_service",Call,75.0
-C04523,0.188,"payment_method, support_tickets, contract",Call,75.0
-C02531,0.188,"payment_method, tenure_months, internet_service",Call,75.0
-C01343,0.187,"support_tickets, internet_service, monthly_charges",Call,75.0
-C00255,0.188,"tenure_months, internet_service, support_tickets",Call,75.0
-C00285,0.187,"tenure_months, internet_service, payment_method",Call,75.0
-C01634,0.188,"monthly_charges, payment_method, internet_service",Call,75.0
-C04840,0.187,"monthly_charges, internet_service, payment_method",Call,75.0
-C05419,0.184,"monthly_charges, tenure_months, internet_service",Call,74.0
-C02508,0.186,"support_tickets, internet_service, payment_method",Call,74.0
-C03751,0.185,"tenure_months, payment_method, internet_service",Call,74.0
-C04300,0.186,"support_tickets, tenure_months, payment_method",Call,74.0
-C01820,0.186,"support_tickets, internet_service, payment_method",Call,74.0
-C05432,0.184,"payment_method, contract, internet_service",Call,74.0
-C05716,0.185,"monthly_charges, payment_method, internet_service",Call,74.0
-C01631,0.185,"tenure_months, internet_service, support_tickets",Call,74.0
-C03235,0.184,"tenure_months, support_tickets, payment_method",Call,74.0
-C03264,0.183,"tenure_months, internet_service, support_tickets",Call,73.0
-C05900,0.182,"payment_method, tenure_months, internet_service",Call,73.0
-C00039,0.183,"tenure_months, internet_service, support_tickets",Call,73.0
-C03164,0.18,"support_tickets, contract, internet_service",Call,72.0
-C01773,0.179,"support_tickets, contract, monthly_charges",Call,72.0
-C02535,0.181,"payment_method, support_tickets, contract",Call,72.0
-C04441,0.18,"tenure_months, monthly_charges, payment_method",Call,72.0
-C02170,0.181,"payment_method, monthly_charges, support_tickets",Call,72.0
-C04339,0.177,"monthly_charges, support_tickets, internet_service",Call,71.0
-C00451,0.177,"internet_service, contract, payment_method",Call,71.0
-C05206,0.177,"monthly_charges, support_tickets, internet_service",Call,71.0
-C02957,0.178,"monthly_charges, payment_method, internet_service",Call,71.0
-C05674,0.177,"support_tickets, payment_method, internet_service",Call,71.0
-C03820,0.177,"support_tickets, contract, payment_method",Call,71.0
-C05795,0.178,"support_tickets, contract, payment_method",Call,71.0
-C03921,0.177,"monthly_charges, payment_method, internet_service",Call,71.0
-C05041,0.175,"support_tickets, tenure_months, internet_service",Call,70.0
-C01956,0.175,"monthly_charges, support_tickets, internet_service",Call,70.0
-C05942,0.175,"support_tickets, payment_method, internet_service",Call,70.0
-C04493,0.176,"internet_service, monthly_charges, contract",Call,70.0
-C03127,0.174,"monthly_charges, internet_service, contract",Call,70.0
-C05461,0.175,"support_tickets, contract, internet_service",Call,70.0
-C05691,0.173,"monthly_charges, payment_method, support_tickets",Call,69.0
-C03245,0.173,"tenure_months, internet_service, payment_method",Call,69.0
-C01877,0.172,"monthly_charges, support_tickets, internet_service",Call,69.0
-C02976,0.173,"internet_service, contract, payment_method",Call,69.0
-C04424,0.173,"monthly_charges, contract, payment_method",Call,69.0
-C04263,0.172,"monthly_charges, support_tickets, payment_method",Call,69.0
-C00570,0.173,"monthly_charges, internet_service, payment_method",Call,69.0
-C02077,0.171,"monthly_charges, payment_method, internet_service",Call,68.0
-C04784,0.169,"tenure_months, internet_service, support_tickets",Call,68.0
-C04740,0.171,"monthly_charges, support_tickets, payment_method",Call,68.0
-C04257,0.17,"monthly_charges, payment_method, internet_service",Call,68.0
-C01017,0.17,"tenure_months, internet_service, support_tickets",Call,68.0
-C05904,0.171,"support_tickets, payment_method, internet_service",Call,68.0
-C01835,0.171,"tenure_months, payment_method, internet_service",Call,68.0
-C05464,0.171,"support_tickets, internet_service, contract",Call,68.0
-C03118,0.168,"support_tickets, monthly_charges, payment_method",Call,67.0
-C04112,0.167,"payment_method, internet_service, contract",Call,67.0
-C04761,0.168,"tenure_months, internet_service, support_tickets",Call,67.0
-C05199,0.168,"payment_method, tenure_months, support_tickets",Call,67.0
-C04228,0.164,"monthly_charges, support_tickets, internet_service",Call,66.0
-C03977,0.166,"support_tickets, monthly_charges, internet_service",Call,66.0
-C01223,0.164,"support_tickets, contract, payment_method",Call,66.0
-C00245,0.166,"support_tickets, contract, internet_service",Call,66.0
-C03284,0.164,"support_tickets, monthly_charges, internet_service",Call,66.0
-C01246,0.166,"internet_service, support_tickets, contract",Call,66.0
-C03937,0.163,"payment_method, contract, internet_service",Call,65.0
-C05293,0.162,"contract, internet_service, payment_method",Call,65.0
-C01883,0.162,"support_tickets, contract, internet_service",Call,65.0
-C04479,0.162,"tenure_months, internet_service, monthly_charges",Call,65.0
-C03757,0.162,"internet_service, contract, payment_method",Call,65.0
-C02774,0.161,"tenure_months, payment_method, internet_service",Call,64.0
-C01884,0.159,"monthly_charges, support_tickets, internet_service",Call,64.0
-C05630,0.16,"monthly_charges, internet_service, support_tickets",Call,64.0
-C00901,0.16,"tenure_months, internet_service, payment_method",Call,64.0
-C04465,0.161,"monthly_charges, internet_service, payment_method",Call,64.0
-C02637,0.161,"payment_method, monthly_charges, internet_service",Call,64.0
-C02738,0.161,"payment_method, internet_service, support_tickets",Call,64.0
-C00794,0.161,"support_tickets, tenure_months, internet_service",Call,64.0
-C03010,0.161,"tenure_months, monthly_charges, internet_service",Call,64.0
-C03748,0.158,"tenure_months, support_tickets, internet_service",Call,63.0
-C03746,0.157,"payment_method, contract, internet_service",Call,63.0
-C04176,0.157,"monthly_charges, internet_service, payment_method",Call,63.0
-C03392,0.158,"payment_method, contract, internet_service",Call,63.0
-C03255,0.158,"tenure_months, support_tickets, internet_service",Call,63.0
-C04545,0.157,"monthly_charges, support_tickets, payment_method",Call,63.0
-C02356,0.155,"contract, internet_service, payment_method",Call,62.0
-C01481,0.155,"monthly_charges, payment_method, internet_service",Call,62.0
-C01159,0.155,"tenure_months, support_tickets, internet_service",Call,62.0
-C04656,0.156,"tenure_months, monthly_charges, internet_service",Call,62.0
-C02432,0.155,"monthly_charges, internet_service, support_tickets",Call,62.0
-C05949,0.156,"monthly_charges, support_tickets, payment_method",Call,62.0
-C02600,0.156,"tenure_months, payment_method, internet_service",Call,62.0
-C05138,0.156,"support_tickets, contract, payment_method",Call,62.0
-C05314,0.156,"monthly_charges, support_tickets, internet_service",Call,62.0
-C04037,0.155,"contract, payment_method, internet_service",Call,62.0
-C04855,0.155,"monthly_charges, payment_method, internet_service",Call,62.0
-C00154,0.155,"payment_method, tenure_months, support_tickets",Call,62.0
-C03521,0.154,"payment_method, support_tickets, internet_service",Call,62.0
-C00474,0.153,"payment_method, monthly_charges, internet_service",Call,61.0
-C00594,0.153,"support_tickets, contract, internet_service",Call,61.0
-C05391,0.152,"support_tickets, internet_service, payment_method",Call,61.0
-C02120,0.153,"tenure_months, payment_method, internet_service",Call,61.0
-C02225,0.152,"payment_method, internet_service, contract",Call,61.0
-C00226,0.153,"support_tickets, contract, payment_method",Call,61.0
-C05392,0.152,"contract, internet_service, payment_method",Call,61.0
-C03343,0.151,"internet_service, contract, payment_method",Call,60.0
-C03750,0.151,"payment_method, internet_service, tenure_months",Call,60.0
-C03916,0.15,"monthly_charges, support_tickets, payment_method",Call,60.0
-C02297,0.151,"tenure_months, support_tickets, payment_method",Call,60.0
-C03665,0.149,"tenure_months, internet_service, payment_method",Call,60.0
-C05660,0.151,"tenure_months, support_tickets, payment_method",Call,60.0
-C05525,0.15,"monthly_charges, support_tickets, payment_method",Call,60.0
-C05149,0.148,"contract, payment_method, internet_service",Call,59.0
-C03031,0.147,"support_tickets, payment_method, internet_service",Call,59.0
-C00162,0.148,"tenure_months, payment_method, internet_service",Call,59.0
-C02487,0.147,"monthly_charges, internet_service, support_tickets",Call,59.0
-C05658,0.148,"tenure_months, internet_service, support_tickets",Call,59.0
-C05220,0.146,"support_tickets, contract, internet_service",Call,58.0
-C04110,0.146,"payment_method, internet_service, tenure_months",Call,58.0
-C00945,0.146,"monthly_charges, internet_service, payment_method",Call,58.0
-C02809,0.144,"monthly_charges, payment_method, internet_service",Call,58.0
-C00933,0.145,"support_tickets, internet_service, contract",Call,58.0
-C02235,0.145,"payment_method, internet_service, contract",Call,58.0
-C03007,0.145,"monthly_charges, support_tickets, payment_method",Call,58.0
-C01418,0.143,"monthly_charges, payment_method, internet_service",Call,57.0
-C01855,0.143,"support_tickets, monthly_charges, internet_service",Call,57.0
-C03374,0.143,"support_tickets, contract, payment_method",Call,57.0
-C03077,0.142,"monthly_charges, support_tickets, payment_method",Call,57.0
-C05542,0.142,"internet_service, contract, payment_method",Call,57.0
-C05349,0.143,"internet_service, tenure_months, support_tickets",Call,57.0
-C02581,0.142,"monthly_charges, support_tickets, internet_service",Call,57.0
-C03179,0.142,"internet_service, support_tickets, contract",Call,57.0
-C01704,0.142,"payment_method, monthly_charges, internet_service",Call,57.0
-C01174,0.14,"internet_service, support_tickets, payment_method",Call,56.0
-C04534,0.141,"monthly_charges, payment_method, internet_service",Call,56.0
-C02500,0.139,"payment_method, internet_service, support_tickets",Call,56.0
-C01218,0.139,"payment_method, contract, internet_service",Call,56.0
-C01054,0.14,"monthly_charges, internet_service, payment_method",Call,56.0
-C02863,0.14,"monthly_charges, support_tickets, payment_method",Call,56.0
-C02818,0.138,"support_tickets, payment_method, internet_service",Call,55.0
-C04686,0.138,"monthly_charges, internet_service, payment_method",Call,55.0
-C01374,0.137,"contract, payment_method, internet_service",Call,55.0
-C02091,0.137,"support_tickets, payment_method, internet_service",Call,55.0
-C00308,0.136,"payment_method, internet_service, contract",Call,54.0
-C05620,0.134,"internet_service, support_tickets, contract",Call,54.0
-C00104,0.135,"internet_service, contract, payment_method",Call,54.0
-C03229,0.135,"monthly_charges, internet_service, support_tickets",Call,54.0
-C04897,0.136,"payment_method, internet_service, contract",Call,54.0
-C04189,0.136,"monthly_charges, internet_service, payment_method",Call,54.0
-C03300,0.136,"contract, payment_method, internet_service",Call,54.0
-C01954,0.132,"support_tickets, payment_method, internet_service",Call,53.0
-C03441,0.133,"support_tickets, payment_method, internet_service",Call,53.0
-C00270,0.133,"monthly_charges, support_tickets, internet_service",Call,53.0
-C03207,0.132,"support_tickets, payment_method, internet_service",Call,53.0
-C03546,0.132,"support_tickets, internet_service, payment_method",Call,53.0
-C00665,0.133,"payment_method, monthly_charges, internet_service",Call,53.0
-C05600,0.132,"payment_method, internet_service, contract",Call,53.0
-C05066,0.129,"support_tickets, payment_method, internet_service",Call,52.0
-C02239,0.129,"monthly_charges, support_tickets, internet_service",Call,52.0
-C02174,0.13,"internet_service, monthly_charges, payment_method",Call,52.0
-C00584,0.131,"tenure_months, payment_method, internet_service",Call,52.0
-C04697,0.13,"support_tickets, payment_method, internet_service",Call,52.0
-C00962,0.13,"contract, internet_service, payment_method",Call,52.0
-C04238,0.13,"monthly_charges, support_tickets, payment_method",Call,52.0
-C03338,0.127,"monthly_charges, support_tickets, internet_service",Call,51.0
-C05463,0.127,"internet_service, support_tickets, payment_method",Call,51.0
-C03502,0.126,"monthly_charges, support_tickets, internet_service",Call,50.0
-C02768,0.125,"payment_method, tenure_months, internet_service",Call,50.0
-C00553,0.126,"monthly_charges, payment_method, internet_service",Call,50.0
-C01915,0.124,"support_tickets, internet_service, payment_method",Call,50.0
-C00759,0.122,"support_tickets, internet_service, payment_method",Call,49.0
-C01093,0.122,"support_tickets, internet_service, payment_method",Call,49.0
-C01921,0.122,"contract, payment_method, internet_service",Call,49.0
-C03632,0.121,"internet_service, support_tickets, contract",Call,48.0
-C03454,0.119,"monthly_charges, payment_method, internet_service",Watch,48.0
-C04664,0.121,"contract, payment_method, internet_service",Call,48.0
-C02914,0.121,"payment_method, internet_service, support_tickets",Call,48.0
-C02942,0.118,"contract, payment_method, internet_service",Watch,47.0
-C02444,0.117,"payment_method, internet_service, contract",Watch,47.0
-C03354,0.118,"internet_service, support_tickets, payment_method",Watch,47.0
-C04869,0.118,"monthly_charges, payment_method, internet_service",Watch,47.0
-C01661,0.117,"payment_method, support_tickets, internet_service",Watch,47.0
-C03023,0.117,"monthly_charges, internet_service, payment_method",Watch,47.0
-C03532,0.117,"support_tickets, internet_service, payment_method",Watch,47.0
-C01438,0.118,"payment_method, tenure_months, internet_service",Watch,47.0
-C02456,0.118,"monthly_charges, support_tickets, payment_method",Watch,47.0
-C00196,0.117,"monthly_charges, support_tickets, internet_service",Watch,47.0
-C04395,0.117,"support_tickets, payment_method, internet_service",Watch,47.0
-C00679,0.115,"payment_method, monthly_charges, support_tickets",Watch,46.0
-C05892,0.115,"support_tickets, payment_method, internet_service",Watch,46.0
-C02359,0.115,"tenure_months, internet_service, payment_method",Watch,46.0
-C05561,0.115,"payment_method, support_tickets, tenure_months",Watch,46.0
-C01228,0.116,"tenure_months, internet_service, support_tickets",Watch,46.0
-C03074,0.115,"monthly_charges, support_tickets, internet_service",Watch,46.0
-C00383,0.114,"support_tickets, internet_service, payment_method",Watch,46.0
-C01569,0.114,"monthly_charges, payment_method, internet_service",Watch,46.0
-C05926,0.116,"tenure_months, payment_method, internet_service",Watch,46.0
-C05798,0.116,"monthly_charges, support_tickets, internet_service",Watch,46.0
-C01555,0.112,"internet_service, contract, payment_method",Watch,45.0
-C04612,0.111,"payment_method, internet_service, support_tickets",Watch,44.0
-C00323,0.109,"contract, payment_method, internet_service",Watch,44.0
-C01860,0.109,"monthly_charges, internet_service, payment_method",Watch,44.0
-C03103,0.11,"monthly_charges, internet_service, payment_method",Watch,44.0
-C01459,0.111,"payment_method, support_tickets, internet_service",Watch,44.0
-C04024,0.107,"payment_method, internet_service, contract",Watch,43.0
-C03667,0.108,"payment_method, monthly_charges, support_tickets",Watch,43.0
-C05060,0.107,"payment_method, monthly_charges, support_tickets",Watch,43.0
-C02142,0.107,"support_tickets, internet_service, payment_method",Watch,43.0
-C04975,0.107,"payment_method, monthly_charges, internet_service",Watch,43.0
-C01886,0.108,"support_tickets, payment_method, internet_service",Watch,43.0
-C02094,0.106,"support_tickets, payment_method, internet_service",Watch,42.0
-C02652,0.104,"internet_service, tenure_months, payment_method",Watch,42.0
-C02176,0.104,"payment_method, internet_service, tenure_months",Watch,42.0
-C02529,0.106,"contract, internet_service, payment_method",Watch,42.0
-C02256,0.105,"tenure_months, payment_method, internet_service",Watch,42.0
-C01165,0.106,"monthly_charges, payment_method, internet_service",Watch,42.0
-C01817,0.104,"support_tickets, monthly_charges, payment_method",Watch,42.0
-C00998,0.105,"support_tickets, internet_service, payment_method",Watch,42.0
-C04584,0.104,"internet_service, support_tickets, payment_method",Watch,42.0
-C03744,0.106,"internet_service, contract, payment_method",Watch,42.0
-C01384,0.106,"payment_method, support_tickets, internet_service",Watch,42.0
-C02457,0.104,"contract, internet_service, payment_method",Watch,42.0
-C03487,0.102,"monthly_charges, internet_service, payment_method",Watch,41.0
-C02683,0.103,"monthly_charges, internet_service, payment_method",Watch,41.0
-C05983,0.102,"support_tickets, contract, payment_method",Watch,41.0
-C03174,0.102,"internet_service, contract, payment_method",Watch,41.0
-C05690,0.1,"support_tickets, internet_service, payment_method",Watch,40.0
-C05726,0.101,"monthly_charges, support_tickets, internet_service",Watch,40.0
-C02587,0.099,"payment_method, monthly_charges, internet_service",Watch,40.0
-C01742,0.099,"payment_method, support_tickets, internet_service",Watch,40.0
-C03178,0.101,"contract, payment_method, internet_service",Watch,40.0
-C04576,0.098,"monthly_charges, internet_service, payment_method",Watch,39.0
-C05408,0.097,"monthly_charges, internet_service, payment_method",Watch,39.0
-C02627,0.098,"monthly_charges, internet_service, payment_method",Watch,39.0
-C05420,0.098,"support_tickets, internet_service, payment_method",Watch,39.0
-C04928,0.097,"contract, payment_method, internet_service",Watch,39.0
-C04328,0.097,"monthly_charges, support_tickets, internet_service",Watch,39.0
-C04504,0.098,"monthly_charges, internet_service, support_tickets",Watch,39.0
-C04117,0.097,"payment_method, internet_service, tenure_months",Watch,39.0
-C04860,0.095,"payment_method, internet_service, support_tickets",Watch,38.0
-C01227,0.096,"contract, internet_service, payment_method",Watch,38.0
-C02320,0.095,"monthly_charges, internet_service, support_tickets",Watch,38.0
-C02279,0.094,"payment_method, monthly_charges, internet_service",Watch,38.0
-C02716,0.094,"payment_method, support_tickets, internet_service",Watch,38.0
-C02828,0.094,"support_tickets, internet_service, payment_method",Watch,38.0
-C00207,0.094,"monthly_charges, internet_service, payment_method",Watch,38.0
-C01075,0.095,"payment_method, monthly_charges, internet_service",Watch,38.0
-C02190,0.095,"monthly_charges, payment_method, internet_service",Watch,38.0
-C02436,0.096,"payment_method, internet_service, contract",Watch,38.0
-C00319,0.093,"support_tickets, internet_service, payment_method",Watch,37.0
-C00847,0.093,"internet_service, payment_method, monthly_charges",Watch,37.0
-C00674,0.092,"contract, payment_method, internet_service",Watch,37.0
-C00935,0.091,"monthly_charges, internet_service, payment_method",Watch,36.0
-C01798,0.091,"payment_method, support_tickets, internet_service",Watch,36.0
-C02348,0.089,"tenure_months, internet_service, payment_method",Watch,36.0
-C04630,0.091,"monthly_charges, payment_method, internet_service",Watch,36.0
-C00115,0.091,"monthly_charges, internet_service, payment_method",Watch,36.0
-C02459,0.09,"payment_method, monthly_charges, internet_service",Watch,36.0
-C04880,0.09,"support_tickets, internet_service, payment_method",Watch,36.0
-C01325,0.087,"internet_service, contract, payment_method",Watch,35.0
-C05537,0.085,"monthly_charges, payment_method, internet_service",Watch,34.0
-C01043,0.085,"support_tickets, payment_method, internet_service",Watch,34.0
-C01583,0.084,"monthly_charges, internet_service, payment_method",Watch,34.0
-C00420,0.086,"internet_service, payment_method, tenure_months",Watch,34.0
-C02102,0.084,"payment_method, contract, internet_service",Watch,34.0
-C04986,0.084,"monthly_charges, support_tickets, internet_service",Watch,34.0
-C01029,0.084,"internet_service, support_tickets, payment_method",Watch,34.0
-C05699,0.082,"monthly_charges, internet_service, payment_method",Watch,33.0
-C02706,0.082,"monthly_charges, support_tickets, payment_method",Watch,33.0
-C01667,0.081,"payment_method, support_tickets, internet_service",Watch,32.0
-C03485,0.081,"internet_service, support_tickets, payment_method",Watch,32.0
-C02322,0.081,"internet_service, support_tickets, payment_method",Watch,32.0
-C05471,0.08,"monthly_charges, support_tickets, payment_method",Watch,32.0
-C02000,0.08,"internet_service, support_tickets, payment_method",Watch,32.0
-C05319,0.08,"payment_method, support_tickets, internet_service",Watch,32.0
-C01073,0.079,"monthly_charges, internet_service, payment_method",Watch,32.0
-C04446,0.079,"monthly_charges, internet_service, payment_method",Watch,32.0
-C00035,0.08,"tenure_months, payment_method, internet_service",Watch,32.0
-C00854,0.081,"internet_service, payment_method, monthly_charges",Watch,32.0
-C01838,0.078,"support_tickets, internet_service, payment_method",Watch,31.0
-C00610,0.078,"support_tickets, internet_service, payment_method",Watch,31.0
-C00783,0.078,"internet_service, payment_method, tenure_months",Watch,31.0
-C03779,0.078,"monthly_charges, internet_service, support_tickets",Watch,31.0
-C04636,0.075,"tenure_months, payment_method, internet_service",Watch,30.0
-C00448,0.076,"payment_method, support_tickets, internet_service",Watch,30.0
-C01355,0.075,"support_tickets, payment_method, internet_service",Watch,30.0
-C03067,0.074,"monthly_charges, internet_service, payment_method",Watch,30.0
-C03753,0.076,"support_tickets, internet_service, payment_method",Watch,30.0
-C04509,0.076,"monthly_charges, internet_service, payment_method",Watch,30.0
-C01908,0.074,"support_tickets, payment_method, internet_service",Watch,30.0
-C01221,0.072,"payment_method, internet_service, tenure_months",Watch,29.0
-C02635,0.072,"payment_method, support_tickets, internet_service",Watch,29.0
-C01425,0.072,"internet_service, support_tickets, payment_method",Watch,29.0
-C05426,0.073,"support_tickets, payment_method, internet_service",Watch,29.0
-C04704,0.073,"internet_service, payment_method, monthly_charges",Watch,29.0
-C04431,0.072,"internet_service, payment_method, monthly_charges",Watch,29.0
-C00535,0.073,"monthly_charges, support_tickets, payment_method",Watch,29.0
-C05308,0.071,"support_tickets, payment_method, internet_service",Watch,28.0
-C02475,0.069,"payment_method, internet_service, monthly_charges",Watch,28.0
-C05337,0.071,"monthly_charges, internet_service, payment_method",Watch,28.0
-C00173,0.071,"payment_method, support_tickets, internet_service",Watch,28.0
-C05482,0.07,"tenure_months, internet_service, payment_method",Watch,28.0
-C04313,0.071,"payment_method, internet_service, monthly_charges",Watch,28.0
-C02478,0.07,"internet_service, payment_method, tenure_months",Watch,28.0
-C03262,0.07,"support_tickets, payment_method, internet_service",Watch,28.0
-C00356,0.071,"payment_method, internet_service, tenure_months",Watch,28.0
-C03102,0.067,"support_tickets, payment_method, monthly_charges",Watch,27.0
-C05117,0.067,"internet_service, payment_method, monthly_charges",Watch,27.0
-C03263,0.068,"payment_method, internet_service, monthly_charges",Watch,27.0
-C00339,0.064,"contract, internet_service, payment_method",Watch,26.0
-C03697,0.066,"monthly_charges, support_tickets, internet_service",Watch,26.0
-C00182,0.066,"payment_method, internet_service, monthly_charges",Watch,26.0
-C04363,0.064,"support_tickets, internet_service, payment_method",Watch,26.0
-C03963,0.066,"internet_service, support_tickets, payment_method",Watch,26.0
-C05679,0.062,"payment_method, internet_service, support_tickets",Watch,25.0
-C00722,0.062,"internet_service, payment_method, tenure_months",Watch,25.0
-C03238,0.059,"internet_service, support_tickets, payment_method",Low,24.0
-C03832,0.061,"payment_method, internet_service, support_tickets",Watch,24.0
-C01539,0.06,"monthly_charges, internet_service, payment_method",Low,24.0
-C03244,0.061,"support_tickets, payment_method, internet_service",Watch,24.0
-C01271,0.06,"support_tickets, internet_service, payment_method",Low,24.0
-C02141,0.057,"payment_method, internet_service, tenure_months",Low,23.0
-C03834,0.057,"support_tickets, internet_service, payment_method",Low,23.0
-C01509,0.058,"payment_method, internet_service, support_tickets",Low,23.0
-C00145,0.058,"monthly_charges, payment_method, internet_service",Low,23.0
-C00760,0.057,"payment_method, internet_service, support_tickets",Low,23.0
-C04332,0.054,"internet_service, support_tickets, payment_method",Low,22.0
-C01925,0.055,"internet_service, support_tickets, payment_method",Low,22.0
-C01328,0.056,"internet_service, payment_method, tenure_months",Low,22.0
-C02197,0.056,"support_tickets, payment_method, internet_service",Low,22.0
-C02713,0.053,"internet_service, payment_method, support_tickets",Low,21.0
-C02302,0.053,"support_tickets, payment_method, internet_service",Low,21.0
-C04944,0.053,"internet_service, support_tickets, payment_method",Low,21.0
-C01486,0.052,"internet_service, payment_method, monthly_charges",Low,21.0
-C04542,0.051,"payment_method, internet_service, support_tickets",Low,20.0
-C03008,0.049,"support_tickets, internet_service, payment_method",Low,20.0
-C00477,0.05,"support_tickets, internet_service, payment_method",Low,20.0
-C05281,0.05,"support_tickets, payment_method, internet_service",Low,20.0
-C05501,0.049,"support_tickets, internet_service, payment_method",Low,20.0
-C05167,0.05,"payment_method, internet_service, support_tickets",Low,20.0
-C05842,0.051,"support_tickets, internet_service, payment_method",Low,20.0
-C00306,0.048,"payment_method, internet_service, tenure_months",Low,19.0
-C05040,0.047,"payment_method, internet_service, monthly_charges",Low,19.0
-C00276,0.048,"payment_method, support_tickets, internet_service",Low,19.0
-C03131,0.047,"internet_service, payment_method, monthly_charges",Low,19.0
-C00788,0.048,"payment_method, support_tickets, internet_service",Low,19.0
-C04192,0.048,"payment_method, internet_service, support_tickets",Low,19.0
-C00833,0.047,"monthly_charges, internet_service, payment_method",Low,19.0
-C01863,0.048,"support_tickets, payment_method, internet_service",Low,19.0
-C02616,0.044,"internet_service, payment_method, monthly_charges",Low,18.0
-C00237,0.045,"payment_method, internet_service, support_tickets",Low,18.0
-C02166,0.045,"payment_method, support_tickets, internet_service",Low,18.0
-C01386,0.043,"support_tickets, internet_service, payment_method",Low,17.0
-C02314,0.043,"internet_service, support_tickets, payment_method",Low,17.0
-C02358,0.043,"payment_method, internet_service, support_tickets",Low,17.0
-C03877,0.039,"internet_service, payment_method, support_tickets",Low,16.0
-C03828,0.039,"internet_service, support_tickets, payment_method",Low,16.0
-C03398,0.041,"support_tickets, internet_service, payment_method",Low,16.0
-C05743,0.038,"support_tickets, payment_method, internet_service",Low,15.0
-C04797,0.036,"payment_method, internet_service, support_tickets",Low,14.0
-C01890,0.034,"internet_service, payment_method, support_tickets",Low,14.0
-C01416,0.034,"internet_service, payment_method, monthly_charges",Low,14.0
-C01818,0.034,"payment_method, internet_service, monthly_charges",Low,14.0
-C02603,0.035,"support_tickets, internet_service, payment_method",Low,14.0
-C00301,0.033,"internet_service, payment_method, monthly_charges",Low,13.0
-C01314,0.032,"payment_method, internet_service, support_tickets",Low,13.0
-C04757,0.03,"internet_service, payment_method, support_tickets",Low,12.0
-C04170,0.031,"payment_method, internet_service, support_tickets",Low,12.0
-C02431,0.026,"payment_method, internet_service, support_tickets",Low,10.0
-C02963,0.021,"internet_service, payment_method, support_tickets",Low,8.0
-C01283,0.021,"internet_service, payment_method, support_tickets",Low,8.0
+customerID,churn_prob,actual_churn,top_reasons,risk_band,value_at_risk
+2506-TNFCO,0.928,1,"TotalCharges, tenure, SeniorCitizen",Call,371.0
+0679-IDSTG,0.921,1,"TotalCharges, SeniorCitizen, tenure",Call,368.0
+6567-HOOPW,0.914,1,"tenure, TotalCharges, MonthlyCharges",Call,366.0
+9300-AGZNL,0.907,1,"tenure, TotalCharges, MonthlyCharges",Call,363.0
+9497-QCMMS,0.907,1,"tenure, TotalCharges, MonthlyCharges",Call,363.0
+4826-XTSOH,0.897,1,"tenure, TotalCharges, MonthlyCharges",Call,359.0
+1415-YFWLT,0.894,1,"tenure, TotalCharges, MonthlyCharges",Call,358.0
+0021-IKXGC,0.887,0,"TotalCharges, tenure, SeniorCitizen",Call,355.0
+7439-DKZTW,0.888,0,"tenure, TotalCharges, MonthlyCharges",Call,355.0
+8740-CRYFY,0.887,1,"tenure, TotalCharges, MonthlyCharges",Call,355.0
+0723-DRCLG,0.885,1,"TotalCharges, tenure, SeniorCitizen",Call,354.0
+5539-TMZLF,0.885,1,"TotalCharges, tenure, SeniorCitizen",Call,354.0
+9605-WGJVW,0.884,0,"TotalCharges, tenure, SeniorCitizen",Call,354.0
+9488-HGMJH,0.884,1,"TotalCharges, tenure, SeniorCitizen",Call,354.0
+5550-VFRLC,0.885,1,"TotalCharges, tenure, SeniorCitizen",Call,354.0
+3871-IKPYH,0.879,1,"TotalCharges, tenure, SeniorCitizen",Call,352.0
+5919-TMRGD,0.878,1,"tenure, TotalCharges, MonthlyCharges",Call,351.0
+0137-OCGAB,0.862,1,"tenure, TotalCharges, MonthlyCharges",Call,345.0
+6521-YYTYI,0.862,1,"tenure, TotalCharges, MonthlyCharges",Call,345.0
+7274-RTAPZ,0.86,1,"tenure, TotalCharges, MonthlyCharges",Call,344.0
+9514-JDSKI,0.854,1,"tenure, TotalCharges, SeniorCitizen",Call,342.0
+7465-ZZRVX,0.85,0,"tenure, TotalCharges",Call,340.0
+3428-XZMAZ,0.851,1,"tenure, TotalCharges",Call,340.0
+7660-HDPJV,0.851,1,"tenure, TotalCharges",Call,340.0
+1031-IIDEO,0.85,1,"tenure, TotalCharges",Call,340.0
+4702-IOQDC,0.85,1,"tenure, TotalCharges",Call,340.0
+2446-PLQVO,0.85,1,"tenure, TotalCharges",Call,340.0
+2446-BEGGB,0.844,1,"MonthlyCharges, tenure, SeniorCitizen",Call,338.0
+1768-ZAIFU,0.844,1,"tenure, SeniorCitizen, TotalCharges",Call,338.0
+9124-LHCJQ,0.838,1,"tenure, MonthlyCharges, TotalCharges",Call,335.0
+1853-UDXBW,0.836,1,"TotalCharges, tenure",Call,334.0
+9399-APLBT,0.835,1,"tenure, TotalCharges",Call,334.0
+3422-LYEPQ,0.836,1,"TotalCharges, tenure",Call,334.0
+1448-PWKYE,0.832,1,"tenure, TotalCharges, MonthlyCharges",Call,333.0
+7503-ZGUZJ,0.833,1,"tenure, MonthlyCharges, TotalCharges",Call,333.0
+8884-ADFVN,0.831,1,"MonthlyCharges, tenure",Call,332.0
+2027-FECZV,0.827,1,"MonthlyCharges, tenure",Call,331.0
+3811-VBYBZ,0.825,1,"MonthlyCharges, tenure",Call,330.0
+9305-CDSKC,0.822,1,"MonthlyCharges, tenure",Call,329.0
+6910-HADCM,0.819,1,"tenure, TotalCharges, MonthlyCharges",Call,328.0
+9094-AZPHK,0.817,0,"MonthlyCharges, tenure",Call,327.0
+0680-DFNNY,0.818,1,"MonthlyCharges, tenure",Call,327.0
+1078-TDCRN,0.81,0,"tenure, TotalCharges, SeniorCitizen",Call,324.0
+7181-BQYBV,0.808,1,"tenure, MonthlyCharges, TotalCharges",Call,323.0
+1496-GGSUK,0.8,1,"tenure, SeniorCitizen, TotalCharges",Call,320.0
+3801-HMYNL,0.798,1,"tenure, MonthlyCharges, TotalCharges",Call,319.0
+0235-KGSLC,0.796,1,"tenure, MonthlyCharges, TotalCharges",Call,318.0
+3707-GNWHM,0.794,1,"tenure, TotalCharges",Call,318.0
+2024-BASKD,0.794,1,"tenure, TotalCharges",Call,318.0
+5032-MIYKT,0.795,0,"tenure, TotalCharges",Call,318.0
+9617-INGJY,0.795,0,"tenure, TotalCharges",Call,318.0
+3049-NDXFL,0.796,1,"tenure, MonthlyCharges, TotalCharges",Call,318.0
+3276-HDUEG,0.794,1,"tenure, TotalCharges",Call,318.0
+6108-OQZDQ,0.787,1,"tenure, MonthlyCharges",Call,315.0
+0702-PGIBZ,0.787,1,"tenure, MonthlyCharges",Call,315.0
+7890-VYYWG,0.785,1,"tenure, TotalCharges, SeniorCitizen",Call,314.0
+5043-TRZWM,0.784,0,"tenure, TotalCharges, MonthlyCharges",Call,314.0
+3389-YGYAI,0.783,1,"tenure, MonthlyCharges, SeniorCitizen",Call,313.0
+6127-IYJOZ,0.781,0,"tenure, SeniorCitizen, TotalCharges",Call,312.0
+4395-PZMSN,0.772,0,"tenure, MonthlyCharges, SeniorCitizen",Call,309.0
+2856-HYAPG,0.773,1,"tenure, TotalCharges",Call,309.0
+1915-IOFGU,0.773,1,"tenure, TotalCharges",Call,309.0
+1374-DMZUI,0.772,1,"tenure, MonthlyCharges",Call,309.0
+4750-ZRXIU,0.768,1,"tenure, MonthlyCharges, SeniorCitizen",Call,307.0
+2865-TCHJW,0.768,1,"tenure, MonthlyCharges, SeniorCitizen",Call,307.0
+8242-SOQUO,0.766,0,"tenure, MonthlyCharges, SeniorCitizen",Call,306.0
+4298-OYIFC,0.765,0,"MonthlyCharges, tenure",Call,306.0
+5277-ZLOOR,0.764,1,"tenure, MonthlyCharges, SeniorCitizen",Call,306.0
+4140-MUHUG,0.764,1,"tenure, MonthlyCharges, SeniorCitizen",Call,306.0
+5567-WSELE,0.764,1,"tenure, MonthlyCharges",Call,306.0
+0375-HVGXO,0.763,1,"tenure, TotalCharges",Call,305.0
+5482-PLVPE,0.763,1,"tenure, SeniorCitizen, TotalCharges",Call,305.0
+6015-VVHHE,0.76,1,"tenure, MonthlyCharges, SeniorCitizen",Call,304.0
+7576-OYWBN,0.754,1,"tenure, MonthlyCharges, SeniorCitizen",Call,302.0
+0616-ATFGB,0.754,1,"tenure, SeniorCitizen, TotalCharges",Call,302.0
+5673-FSSMF,0.755,1,"tenure, TotalCharges",Call,302.0
+1304-NECVQ,0.753,1,"tenure, MonthlyCharges, SeniorCitizen",Call,301.0
+9231-ZJYAM,0.753,1,"tenure, MonthlyCharges, SeniorCitizen",Call,301.0
+6630-UJZMY,0.75,0,"tenure, MonthlyCharges, SeniorCitizen",Call,300.0
+4110-PFEUZ,0.744,1,"tenure, TotalCharges",Call,298.0
+2660-EMUBI,0.744,1,"tenure, MonthlyCharges, SeniorCitizen",Call,298.0
+4951-UKAAQ,0.742,1,"tenure, MonthlyCharges",Call,297.0
+5047-LHVLY,0.743,1,"TotalCharges, SeniorCitizen, tenure",Call,297.0
+3398-FSHON,0.743,1,"tenure, MonthlyCharges, SeniorCitizen",Call,297.0
+0259-GBZSH,0.739,1,"tenure, MonthlyCharges",Call,296.0
+9611-CTWIH,0.739,1,"tenure, MonthlyCharges",Call,296.0
+9402-ORRAH,0.739,0,"tenure, MonthlyCharges, SeniorCitizen",Call,296.0
+6474-FVJLC,0.739,1,"tenure, MonthlyCharges",Call,296.0
+4927-WWOOZ,0.739,0,"tenure, MonthlyCharges",Call,296.0
+2034-GDRCN,0.739,1,"tenure, MonthlyCharges",Call,296.0
+1143-NMNQJ,0.739,1,"tenure, MonthlyCharges",Call,296.0
+7145-FEJWU,0.736,0,"tenure, MonthlyCharges",Call,294.0
+0325-XBFAC,0.734,1,"tenure, MonthlyCharges",Call,294.0
+0196-VULGZ,0.735,1,"tenure, MonthlyCharges, SeniorCitizen",Call,294.0
+8443-WVPSS,0.734,1,"MonthlyCharges, tenure",Call,294.0
+0916-QOFDP,0.733,0,"tenure, MonthlyCharges, SeniorCitizen",Call,293.0
+6185-TASNN,0.732,0,"tenure, SeniorCitizen, TotalCharges",Call,293.0
+6941-PMGEP,0.733,1,"tenure, MonthlyCharges",Call,293.0
+3629-ZNKXA,0.732,0,"MonthlyCharges, tenure, SeniorCitizen",Call,293.0
+1976-CFOCS,0.732,1,"tenure, SeniorCitizen, TotalCharges",Call,293.0
+6229-LSCKB,0.729,0,"tenure, MonthlyCharges, SeniorCitizen",Call,292.0
+4806-KEXQR,0.731,1,"tenure, MonthlyCharges",Call,292.0
+6892-XPFPU,0.73,1,"MonthlyCharges, tenure, SeniorCitizen",Call,292.0
+5159-YFPKQ,0.728,1,"tenure, MonthlyCharges",Call,291.0
+3519-ZKXGG,0.728,1,"tenure, MonthlyCharges",Call,291.0
+8443-ZRDBZ,0.728,1,"tenure, MonthlyCharges",Call,291.0
+6772-KSATR,0.726,1,"tenure, TotalCharges",Call,290.0
+3217-FZDMN,0.726,1,"tenure, MonthlyCharges, SeniorCitizen",Call,290.0
+4529-CKBCL,0.724,1,"tenure, MonthlyCharges",Call,290.0
+1981-INRFU,0.726,1,"tenure, MonthlyCharges",Call,290.0
+7314-OXENN,0.724,1,"tenure, MonthlyCharges",Call,290.0
+7005-CCBKV,0.723,1,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+8622-ZLFKO,0.723,0,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+1965-AKTSX,0.723,1,"tenure, MonthlyCharges, SeniorCitizen",Call,289.0
+2990-HWIML,0.723,1,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+3462-BJQQA,0.723,0,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+9451-LPGOO,0.723,1,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+3138-BKYAV,0.723,1,"tenure, MonthlyCharges, TotalCharges",Call,289.0
+3045-XETSH,0.72,1,"tenure, MonthlyCharges",Call,288.0
+4566-NECEV,0.72,0,"tenure, MonthlyCharges, TotalCharges",Call,288.0
+0231-LXVAP,0.721,1,"tenure, TotalCharges, MonthlyCharges",Call,288.0
+2982-VPSGI,0.717,1,"tenure, MonthlyCharges",Call,287.0
+7613-LLQFO,0.717,1,"tenure, MonthlyCharges",Call,287.0
+7858-GTZSP,0.717,0,"tenure, MonthlyCharges",Call,287.0
+0365-BZUWY,0.714,0,"MonthlyCharges, tenure",Call,286.0
+3538-WZPHD,0.714,1,"tenure, TotalCharges",Call,286.0
+7590-VHVEG,0.714,0,"tenure, TotalCharges",Call,286.0
+1740-CSDJP,0.714,1,"tenure, TotalCharges",Call,286.0
+2876-GZYZC,0.712,0,"tenure, MonthlyCharges",Call,285.0
+7130-VTEWQ,0.712,1,"tenure, MonthlyCharges, SeniorCitizen",Call,285.0
+2880-FPNAE,0.712,0,"tenure, MonthlyCharges, SeniorCitizen",Call,285.0
+6986-IXNDM,0.712,0,"tenure, MonthlyCharges",Call,285.0
+7517-LDMPS,0.711,0,"tenure, MonthlyCharges",Call,284.0
+0195-IESCP,0.711,1,"tenure, MonthlyCharges",Call,284.0
+2215-ZAFGX,0.711,0,"tenure, MonthlyCharges",Call,284.0
+1173-XZPYF,0.711,0,"tenure, MonthlyCharges",Call,284.0
+9317-WZPGV,0.71,1,"tenure, MonthlyCharges, SeniorCitizen",Call,284.0
+1689-YQBYY,0.71,0,"tenure, MonthlyCharges, TotalCharges",Call,284.0
+1567-DSCIC,0.711,1,"tenure, MonthlyCharges",Call,284.0
+6821-BUXUX,0.707,1,"MonthlyCharges, tenure",Call,283.0
+4193-ORFCL,0.708,1,"tenure, SeniorCitizen, TotalCharges",Call,283.0
+3727-RJMEO,0.708,1,"tenure, MonthlyCharges, TotalCharges",Call,283.0
+4132-KALRO,0.707,0,"tenure, MonthlyCharges",Call,283.0
+2929-ERCFZ,0.708,1,"tenure, MonthlyCharges",Call,283.0
+8010-EZLOU,0.707,1,"tenure, MonthlyCharges, SeniorCitizen",Call,283.0
+2430-USGXP,0.706,1,"MonthlyCharges, tenure",Call,282.0
+8720-RQSBJ,0.702,0,"tenure, SeniorCitizen, TotalCharges",Call,281.0
+5445-UTODQ,0.701,1,"tenure, MonthlyCharges, TotalCharges",Call,280.0
+7638-QVMVY,0.701,1,"tenure, MonthlyCharges, TotalCharges",Call,280.0
+7295-JOMMD,0.697,1,"tenure, MonthlyCharges",Call,279.0
+9921-ZVRHG,0.695,1,"tenure, MonthlyCharges, TotalCharges",Call,278.0
+0872-NXJYS,0.689,1,"tenure, MonthlyCharges, TotalCharges",Call,276.0
+0928-XUTSN,0.689,0,"tenure, MonthlyCharges, TotalCharges",Call,276.0
+5276-KQWHG,0.69,1,"tenure, SeniorCitizen, TotalCharges",Call,276.0
+6275-YDUVO,0.688,1,"tenure, MonthlyCharges",Call,275.0
+2272-QAGFO,0.685,1,"tenure, MonthlyCharges, SeniorCitizen",Call,274.0
+4060-LDNLU,0.686,0,"tenure, MonthlyCharges, TotalCharges",Call,274.0
+5883-GTGVD,0.685,1,"MonthlyCharges, tenure",Call,274.0
+9306-CPCBC,0.683,1,"tenure, MonthlyCharges",Call,273.0
+1320-HTRDR,0.683,1,"tenure, MonthlyCharges",Call,273.0
+7341-LXCAF,0.683,1,"tenure, MonthlyCharges",Call,273.0
+4090-KPJIP,0.683,0,"tenure, MonthlyCharges",Call,273.0
+4770-UEZOX,0.683,0,"tenure, MonthlyCharges",Call,273.0
+9050-IKDZA,0.682,0,"tenure, MonthlyCharges, SeniorCitizen",Call,273.0
+7817-BOQPW,0.683,1,"tenure, MonthlyCharges",Call,273.0
+5928-QLDHB,0.683,0,"tenure, MonthlyCharges, TotalCharges",Call,273.0
+5644-PDMZC,0.681,1,"tenure, MonthlyCharges, SeniorCitizen",Call,272.0
+7044-YAACC,0.679,0,"tenure, SeniorCitizen",Call,272.0
+9095-HFAFX,0.679,1,"tenure, MonthlyCharges",Call,272.0
+2074-GKOWZ,0.68,1,"tenure, MonthlyCharges",Call,272.0
+7354-OIJLX,0.679,0,"tenure, MonthlyCharges, TotalCharges",Call,272.0
+9734-YWGEX,0.676,1,"tenure, MonthlyCharges",Call,270.0
+1389-CXMLU,0.676,1,"tenure, MonthlyCharges, SeniorCitizen",Call,270.0
+9734-UYXQI,0.676,1,"tenure, TotalCharges",Call,270.0
+3583-EKAPL,0.676,1,"tenure, TotalCharges",Call,270.0
+6860-YRJZP,0.676,0,"tenure, MonthlyCharges, SeniorCitizen",Call,270.0
+0674-EYYZV,0.676,0,"tenure, TotalCharges",Call,270.0
+8800-JOOCF,0.672,0,"tenure, MonthlyCharges",Call,269.0
+6629-CZTTH,0.672,1,"tenure, TotalCharges",Call,269.0
+9334-GWGOW,0.671,0,"tenure, MonthlyCharges, SeniorCitizen",Call,268.0
+4317-VTEOA,0.671,1,"tenure, TotalCharges",Call,268.0
+8992-JQYUN,0.671,1,"tenure, TotalCharges",Call,268.0
+9846-GKXAS,0.668,1,"tenure, MonthlyCharges",Call,267.0
+3992-YWPKO,0.668,1,"tenure, MonthlyCharges, TotalCharges",Call,267.0
+3063-QFSZL,0.667,1,"tenure, TotalCharges",Call,267.0
+1200-TUZHR,0.664,0,"tenure, MonthlyCharges, SeniorCitizen",Call,266.0
+2082-CEFLT,0.666,1,"tenure, TotalCharges",Call,266.0
+5599-HVLTW,0.66,0,"tenure, MonthlyCharges, SeniorCitizen",Call,264.0
+2516-VQRRV,0.659,1,"tenure, SeniorCitizen, MonthlyCharges",Call,264.0
+5868-CZJDR,0.658,1,"tenure, TotalCharges",Call,263.0
+8705-WZCYL,0.655,0,"tenure, TotalCharges",Call,262.0
+4373-VVHQL,0.655,0,"tenure, TotalCharges",Call,262.0
+5271-DBYSJ,0.655,0,"tenure, MonthlyCharges, SeniorCitizen",Call,262.0
+3721-CNEYS,0.652,1,tenure,Call,261.0
+0018-NYROU,0.653,0,tenure,Call,261.0
+6077-BDPXA,0.652,0,tenure,Call,261.0
+2984-AFWNC,0.649,0,"tenure, MonthlyCharges",Call,260.0
+9121-PHQSR,0.648,0,"tenure, MonthlyCharges, SeniorCitizen",Call,259.0
+6047-YHPVI,0.648,1,tenure,Call,259.0
+3750-CKVKH,0.648,1,tenure,Call,259.0
+1771-OADNZ,0.648,1,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,259.0
+1024-GUALD,0.643,1,"tenure, TotalCharges",Call,257.0
+2672-DZUOY,0.643,1,"tenure, TotalCharges",Call,257.0
+2038-OEQZH,0.639,0,"tenure, MonthlyCharges",Call,256.0
+4229-CZMLL,0.64,1,"tenure, MonthlyCharges",Call,256.0
+0880-TKATG,0.641,1,"tenure, MonthlyCharges",Call,256.0
+8185-UPYBR,0.64,1,"tenure, MonthlyCharges",Call,256.0
+3030-YDNRM,0.64,0,"tenure, MonthlyCharges",Call,256.0
+3199-XGZCY,0.64,0,"tenure, MonthlyCharges",Call,256.0
+0122-OAHPZ,0.64,1,"tenure, MonthlyCharges",Call,256.0
+2398-YPMUR,0.638,1,"tenure, SeniorCitizen, TotalCharges",Call,255.0
+5299-RULOA,0.636,1,"MonthlyCharges, tenure",Call,254.0
+8417-FMLZI,0.634,1,"tenure, MonthlyCharges, TotalCharges",Call,254.0
+5442-UTCVD,0.636,1,"tenure, MonthlyCharges",Call,254.0
+4815-GBTCD,0.636,0,"tenure, TotalCharges",Call,254.0
+0940-OUQEC,0.635,1,"tenure, MonthlyCharges",Call,254.0
+1309-BXVOQ,0.636,1,"MonthlyCharges, tenure",Call,254.0
+5649-ANRML,0.635,1,"tenure, MonthlyCharges, SeniorCitizen",Call,254.0
+7802-EFKNY,0.632,1,"tenure, TotalCharges",Call,253.0
+7780-OTDSO,0.63,1,"MonthlyCharges, tenure",Call,252.0
+3585-ISXZP,0.631,1,"tenure, MonthlyCharges, PaymentMethod",Call,252.0
+1751-NCDLI,0.629,0,"MonthlyCharges, SeniorCitizen",Call,252.0
+0576-WNXXC,0.628,1,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,251.0
+3874-EQOEP,0.628,1,"tenure, MonthlyCharges, TotalCharges",Call,251.0
+8621-MNIHH,0.626,1,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,250.0
+7225-CBZPL,0.626,0,"MonthlyCharges, tenure, SeniorCitizen",Call,250.0
+7598-UAASY,0.625,1,"tenure, MonthlyCharges",Call,250.0
+2737-YNGYW,0.623,1,"tenure, MonthlyCharges",Call,249.0
+8183-ONMXC,0.623,1,"tenure, MonthlyCharges",Call,249.0
+5899-OUVKV,0.623,0,"MonthlyCharges, TotalCharges",Call,249.0
+3932-CMDTD,0.62,1,"MonthlyCharges, tenure, TotalCharges",Call,248.0
+9274-CNFMO,0.617,1,"tenure, SeniorCitizen, MonthlyCharges",Call,247.0
+4480-QQRHC,0.616,0,"tenure, SeniorCitizen, MonthlyCharges",Call,246.0
+5655-JSMZM,0.615,1,"MonthlyCharges, SeniorCitizen",Call,246.0
+1236-WFCDV,0.615,1,"tenure, MonthlyCharges, SeniorCitizen",Call,246.0
+6661-HBGWL,0.614,1,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,246.0
+0848-ZGQIJ,0.613,0,"tenure, MonthlyCharges",Call,245.0
+7901-HXJVA,0.613,0,"tenure, MonthlyCharges, TotalCharges",Call,245.0
+6088-BXMRG,0.609,0,"MonthlyCharges, TotalCharges",Call,244.0
+7587-RZNME,0.61,1,"tenure, MonthlyCharges",Call,244.0
+8270-RKSAP,0.61,0,"tenure, TotalCharges",Call,244.0
+5976-JCJRH,0.61,1,"tenure, TotalCharges",Call,244.0
+0013-EXCHZ,0.61,1,"tenure, MonthlyCharges, SeniorCitizen",Call,244.0
+7394-FKDNK,0.608,1,"tenure, MonthlyCharges",Call,243.0
+2984-MIIZL,0.607,1,"tenure, MonthlyCharges",Call,243.0
+8981-FJGLA,0.604,0,"tenure, MonthlyCharges, TotalCharges",Call,242.0
+6267-DCFFZ,0.605,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,242.0
+9253-QXKBE,0.605,1,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,242.0
+8734-DKSTZ,0.604,0,"tenure, MonthlyCharges",Call,242.0
+8861-HGGKB,0.602,1,"tenure, MonthlyCharges",Call,241.0
+0315-LVCRK,0.602,0,"tenure, MonthlyCharges",Call,241.0
+2276-YDAVZ,0.6,1,"tenure, MonthlyCharges",Call,240.0
+8063-GBATB,0.599,1,"MonthlyCharges, SeniorCitizen, tenure",Call,240.0
+6005-OBZPH,0.599,1,"MonthlyCharges, SeniorCitizen, tenure",Call,240.0
+1658-BYGOY,0.599,1,"MonthlyCharges, tenure, SeniorCitizen",Call,240.0
+2754-VDLTR,0.6,1,"tenure, MonthlyCharges",Call,240.0
+7928-VJYAB,0.598,0,"tenure, MonthlyCharges",Call,239.0
+5712-PTIWW,0.596,1,"tenure, MonthlyCharges",Call,238.0
+3453-RTHJQ,0.595,0,tenure,Call,238.0
+9889-TMAHG,0.593,1,"MonthlyCharges, tenure, SeniorCitizen",Call,237.0
+5701-YVSVF,0.593,0,"tenure, MonthlyCharges, SeniorCitizen",Call,237.0
+5609-CEBID,0.592,1,"MonthlyCharges, SeniorCitizen, tenure",Call,237.0
+9743-DQKQW,0.592,0,"tenure, TotalCharges",Call,237.0
+2800-VEQXM,0.585,0,"tenure, MonthlyCharges",Call,234.0
+2460-NGXBJ,0.586,0,"tenure, SeniorCitizen, MonthlyCharges",Call,234.0
+5747-PMBSQ,0.585,1,"tenure, MonthlyCharges, SeniorCitizen",Call,234.0
+7682-AZNDK,0.583,0,"MonthlyCharges, TotalCharges",Call,233.0
+9643-AVVWI,0.583,0,"tenure, MonthlyCharges",Call,233.0
+2985-FMWYF,0.583,0,"MonthlyCharges, TotalCharges, tenure",Call,233.0
+9102-IAYHT,0.583,1,"MonthlyCharges, tenure",Call,233.0
+0685-MLYYM,0.58,1,"tenure, SeniorCitizen",Call,232.0
+8280-MQRQN,0.581,1,"tenure, TotalCharges",Call,232.0
+9919-KNPOO,0.581,0,"MonthlyCharges, tenure",Call,232.0
+7503-QQRVF,0.577,1,"tenure, SeniorCitizen, MonthlyCharges",Call,231.0
+2189-WWOEW,0.578,1,"tenure, MonthlyCharges",Call,231.0
+9773-PEQBZ,0.576,0,"tenure, MonthlyCharges, TotalCharges",Call,230.0
+3223-DWFIO,0.576,0,"tenure, SeniorCitizen",Call,230.0
+9360-OMDZZ,0.576,0,"MonthlyCharges, tenure",Call,230.0
+5442-XSDCW,0.575,1,"tenure, MonthlyCharges, TotalCharges",Call,230.0
+7823-JSOAG,0.572,0,"tenure, MonthlyCharges",Call,229.0
+0817-HSUSE,0.572,0,"tenure, TotalCharges, MonthlyCharges",Call,229.0
+8696-JKZNU,0.572,1,"TotalCharges, MonthlyCharges, SeniorCitizen",Call,229.0
+5959-BELXA,0.571,1,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,228.0
+9576-ANLXO,0.569,1,tenure,Call,228.0
+1513-XNPPH,0.564,1,"tenure, MonthlyCharges",Call,226.0
+5365-LLFYV,0.565,0,"tenure, TotalCharges",Call,226.0
+6778-YSNIH,0.562,0,tenure,Call,225.0
+7748-UMTRK,0.56,0,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,224.0
+0620-DLSLK,0.559,0,"tenure, MonthlyCharges",Call,224.0
+1307-ATKGB,0.559,0,"MonthlyCharges, tenure",Call,224.0
+5366-IJEQJ,0.559,1,"MonthlyCharges, tenure",Call,224.0
+9992-UJOEL,0.559,0,"tenure, TotalCharges",Call,224.0
+4813-HQMGZ,0.557,0,"tenure, MonthlyCharges",Call,223.0
+4369-HTUIF,0.558,1,"tenure, MonthlyCharges, SeniorCitizen",Call,223.0
+1522-VVDMG,0.557,1,"tenure, MonthlyCharges, TotalCharges",Call,223.0
+3334-CTHOL,0.555,1,"tenure, TotalCharges",Call,222.0
+9133-AYJZG,0.555,0,"MonthlyCharges, tenure",Call,222.0
+5804-HYIEZ,0.556,0,"MonthlyCharges, TotalCharges, tenure",Call,222.0
+4385-GZQXV,0.556,1,"tenure, MonthlyCharges",Call,222.0
+4349-GFQHK,0.556,1,"tenure, TotalCharges",Call,222.0
+2665-NPTGL,0.552,0,"MonthlyCharges, SeniorCitizen, tenure",Call,221.0
+6907-NZZIJ,0.553,1,MonthlyCharges,Call,221.0
+2983-ZANRP,0.551,1,tenure,Call,220.0
+9250-WYPLL,0.549,1,"tenure, MonthlyCharges",Call,220.0
+6198-ZFIOJ,0.549,0,"tenure, MonthlyCharges",Call,220.0
+9129-UXERG,0.55,0,"MonthlyCharges, tenure, SeniorCitizen",Call,220.0
+2951-QOQTK,0.55,1,"tenure, MonthlyCharges",Call,220.0
+3703-VAVCL,0.548,1,"tenure, MonthlyCharges",Call,219.0
+4919-MOAVT,0.544,1,"tenure, Dependents",Call,218.0
+9638-JIQYA,0.546,0,"tenure, TotalCharges",Call,218.0
+2311-QYMUQ,0.546,1,"tenure, MonthlyCharges",Call,218.0
+0447-RXSGD,0.542,0,"MonthlyCharges, tenure",Call,217.0
+6319-IEJWJ,0.54,1,"MonthlyCharges, tenure",Call,216.0
+4658-HCOHW,0.539,1,"MonthlyCharges, tenure",Call,216.0
+5405-ZMYXQ,0.541,0,"tenure, MonthlyCharges",Call,216.0
+5934-RMPOV,0.54,0,"MonthlyCharges, tenure",Call,216.0
+0112-QAWRZ,0.541,0,"tenure, MonthlyCharges",Call,216.0
+3956-MGXOG,0.54,0,"MonthlyCharges, tenure, TotalCharges",Call,216.0
+8818-DOPVL,0.541,0,MonthlyCharges,Call,216.0
+3496-LFSZU,0.538,0,tenure,Call,215.0
+7703-ZEKEF,0.537,1,"MonthlyCharges, tenure",Call,215.0
+4763-PGDPO,0.538,1,tenure,Call,215.0
+6993-OHLXR,0.534,1,tenure,Call,214.0
+7538-GWHML,0.534,1,tenure,Call,214.0
+5552-ZNFSJ,0.536,1,"tenure, TotalCharges",Call,214.0
+5022-JNQEQ,0.535,0,"tenure, MonthlyCharges, TotalCharges",Call,214.0
+6680-WKXRZ,0.536,1,"tenure, MonthlyCharges",Call,214.0
+1777-JYQPJ,0.534,0,"tenure, TotalCharges",Call,214.0
+1963-SVUCV,0.536,1,"tenure, TotalCharges",Call,214.0
+9821-POOTN,0.533,1,"TotalCharges, MonthlyCharges",Call,213.0
+3671-SHRSP,0.533,1,"tenure, MonthlyCharges",Call,213.0
+3737-GCSPV,0.533,1,"MonthlyCharges, tenure",Call,213.0
+8650-RHRKE,0.532,1,"tenure, TotalCharges, MonthlyCharges",Call,213.0
+4503-BDXBD,0.532,1,"tenure, MonthlyCharges, TotalCharges",Call,213.0
+0947-MUGVO,0.533,1,"tenure, SeniorCitizen, TotalCharges",Call,213.0
+9430-FRQOC,0.53,1,"tenure, MonthlyCharges",Call,212.0
+6347-DCUIK,0.531,1,"tenure, MonthlyCharges, TotalCharges",Call,212.0
+9398-MMQTO,0.529,0,"tenure, MonthlyCharges",Call,212.0
+5896-NPFWW,0.53,1,"tenure, TotalCharges",Call,212.0
+2523-EWWZL,0.529,0,"MonthlyCharges, TotalCharges, tenure",Call,212.0
+6175-IRFIT,0.528,0,"tenure, MonthlyCharges",Call,211.0
+7056-IMHCC,0.525,1,MonthlyCharges,Call,210.0
+7978-DKUQH,0.524,0,"MonthlyCharges, tenure",Call,210.0
+3858-VOBET,0.524,1,"MonthlyCharges, tenure",Call,210.0
+4290-BSXUX,0.524,1,"tenure, MonthlyCharges",Call,210.0
+5138-WVKYJ,0.525,1,"MonthlyCharges, tenure",Call,210.0
+9851-KIELU,0.524,1,"MonthlyCharges, tenure",Call,210.0
+4919-IKATY,0.522,1,"tenure, MonthlyCharges",Call,209.0
+2636-OHFMN,0.523,1,tenure,Call,209.0
+2507-QZPQS,0.518,0,"tenure, MonthlyCharges, TotalCharges",Call,207.0
+4729-XKASR,0.515,1,"tenure, TotalCharges",Call,206.0
+5044-LRQAQ,0.513,0,tenure,Call,205.0
+0963-ZBDRN,0.509,1,"MonthlyCharges, TotalCharges",Call,204.0
+8436-BJUMM,0.509,1,"MonthlyCharges, tenure",Call,204.0
+1932-UEDCX,0.511,0,"MonthlyCharges, SeniorCitizen",Call,204.0
+7054-LGEQW,0.509,1,"tenure, TotalCharges",Call,204.0
+6994-KERXL,0.511,0,tenure,Call,204.0
+5899-MQZZL,0.509,1,"tenure, MonthlyCharges, TotalCharges",Call,204.0
+5307-DZCVC,0.508,1,"SeniorCitizen, MonthlyCharges, TotalCharges",Call,203.0
+6905-NIQIN,0.508,1,"tenure, TotalCharges",Call,203.0
+9574-RKJIF,0.506,1,"MonthlyCharges, TotalCharges",Call,202.0
+9919-YLNNG,0.504,0,"MonthlyCharges, TotalCharges",Call,202.0
+9244-ZVAPM,0.503,0,"tenure, TotalCharges",Call,201.0
+3165-HDOEW,0.499,1,"tenure, TotalCharges",Call,200.0
+4587-NUKOX,0.499,1,"tenure, MonthlyCharges",Call,200.0
+5647-FXOTP,0.499,0,MonthlyCharges,Call,200.0
+5960-MVTUK,0.501,0,"tenure, TotalCharges, MonthlyCharges",Call,200.0
+2372-HWUHI,0.497,1,"tenure, TotalCharges",Call,199.0
+9365-SRSZE,0.497,0,"SeniorCitizen, tenure",Call,199.0
+6166-ILMNY,0.497,1,tenure,Call,199.0
+1391-UBDAR,0.494,0,"tenure, TotalCharges",Call,198.0
+7252-NTGSS,0.494,0,"tenure, TotalCharges",Call,198.0
+4077-CROMM,0.496,1,"MonthlyCharges, TotalCharges",Call,198.0
+7321-PKUYW,0.495,1,"tenure, MonthlyCharges",Call,198.0
+7754-IXRMC,0.494,0,"tenure, TotalCharges",Call,198.0
+6582-OIVSP,0.494,0,"tenure, TotalCharges",Call,198.0
+4546-FOKWR,0.494,0,"tenure, MonthlyCharges, TotalCharges",Call,198.0
+2038-LLMLM,0.493,0,MonthlyCharges,Call,197.0
+8778-LMWTJ,0.489,0,"tenure, MonthlyCharges, TotalCharges",Call,196.0
+8990-ZXLSU,0.491,0,"tenure, TotalCharges",Call,196.0
+7718-RXDGG,0.489,0,"tenure, TotalCharges",Call,196.0
+9090-SGQXL,0.49,1,"MonthlyCharges, TotalCharges",Call,196.0
+1196-AMORA,0.49,1,tenure,Call,196.0
+2501-XWWTZ,0.489,0,"tenure, TotalCharges",Call,196.0
+7855-DIWPO,0.485,0,"tenure, TotalCharges",Call,194.0
+8800-ZKRFW,0.485,0,"MonthlyCharges, TotalCharges",Call,194.0
+3545-CNWRG,0.483,0,MonthlyCharges,Call,193.0
+5858-EAFCZ,0.482,0,"tenure, TotalCharges",Call,193.0
+6982-SSHFK,0.482,1,"tenure, TotalCharges",Call,193.0
+9903-LYSAB,0.48,0,tenure,Call,192.0
+7774-OJSXI,0.479,1,"MonthlyCharges, TotalCharges",Call,192.0
+0975-VOOVL,0.478,0,"tenure, TotalCharges",Call,191.0
+6158-HDPXZ,0.478,0,"tenure, TotalCharges",Call,191.0
+8429-XIBUM,0.477,1,"MonthlyCharges, tenure",Call,191.0
+3439-GVUSX,0.478,0,"tenure, TotalCharges",Call,191.0
+0958-YHXGP,0.478,0,tenure,Call,191.0
+4652-NNHNY,0.474,1,"tenure, MonthlyCharges",Call,190.0
+5108-ADXWO,0.474,1,"tenure, TotalCharges",Call,190.0
+5759-RCVCB,0.473,1,"tenure, MonthlyCharges, TotalCharges",Call,189.0
+5673-TIYIB,0.472,1,"tenure, TotalCharges, MonthlyCharges",Call,189.0
+2811-POVEX,0.47,0,"SeniorCitizen, MonthlyCharges, tenure",Call,188.0
+0093-EXYQL,0.469,0,"MonthlyCharges, SeniorCitizen",Call,188.0
+8630-FJLIB,0.471,0,tenure,Call,188.0
+8012-SOUDQ,0.469,0,"MonthlyCharges, SeniorCitizen",Call,188.0
+9540-JYROE,0.471,1,tenure,Call,188.0
+5857-TYBCJ,0.469,0,"MonthlyCharges, SeniorCitizen",Call,188.0
+7460-ITWWP,0.469,0,"MonthlyCharges, SeniorCitizen",Call,188.0
+6178-KFNHS,0.468,1,"tenure, MonthlyCharges, TotalCharges",Call,187.0
+2853-CWQFQ,0.464,0,"tenure, TotalCharges",Call,186.0
+2604-IJPDU,0.464,0,"MonthlyCharges, tenure",Call,186.0
+4881-JVQOD,0.462,0,"tenure, SeniorCitizen, TotalCharges",Call,185.0
+3669-OYSJI,0.459,1,"tenure, TotalCharges",Call,184.0
+2041-JIJCI,0.46,0,tenure,Call,184.0
+7562-UXTPG,0.459,0,"tenure, TotalCharges",Call,184.0
+1251-KRREG,0.46,1,"tenure, TotalCharges",Call,184.0
+3211-AAPKX,0.457,0,"MonthlyCharges, tenure",Call,183.0
+4716-HHKQH,0.457,0,"MonthlyCharges, SeniorCitizen, tenure",Call,183.0
+3312-ZWLGF,0.456,0,"TotalCharges, MonthlyCharges, SeniorCitizen",Call,182.0
+1000-AJSLD,0.453,1,"TotalCharges, tenure, MonthlyCharges",Call,181.0
+4522-AKYLR,0.452,0,"tenure, SeniorCitizen, TotalCharges",Call,181.0
+4897-QSUYC,0.453,1,"TotalCharges, tenure, MonthlyCharges",Call,181.0
+8648-PFRMP,0.453,0,"tenure, SeniorCitizen, TotalCharges",Call,181.0
+8563-OYMQY,0.453,0,"MonthlyCharges, tenure",Call,181.0
+2043-WVTQJ,0.451,0,"tenure, TotalCharges",Call,180.0
+7159-FVYPK,0.449,0,tenure,Call,180.0
+8019-ENHXU,0.451,1,MonthlyCharges,Call,180.0
+0952-KMEEH,0.448,1,"MonthlyCharges, tenure",Call,179.0
+0402-CQAJN,0.446,1,MonthlyCharges,Call,178.0
+6692-YQHXC,0.446,0,"tenure, TotalCharges",Call,178.0
+0378-NHQXU,0.445,1,"MonthlyCharges, tenure, Dependents",Call,178.0
+7404-JLKQG,0.443,0,tenure,Call,177.0
+0691-NIKRI,0.44,0,"MonthlyCharges, TotalCharges",Call,176.0
+8728-SKJLR,0.439,0,"TotalCharges, MonthlyCharges",Call,176.0
+4753-PADAS,0.438,0,"MonthlyCharges, TotalCharges",Call,175.0
+9108-EJFJP,0.437,0,"tenure, TotalCharges",Call,175.0
+1343-EHPYB,0.435,1,MonthlyCharges,Call,174.0
+3269-ATYWD,0.436,1,"MonthlyCharges, SeniorCitizen",Call,174.0
+6896-SRVYQ,0.434,0,"TotalCharges, SeniorCitizen, MonthlyCharges",Call,174.0
+4948-WBBKL,0.435,0,"SeniorCitizen, MonthlyCharges, TotalCharges",Call,174.0
+6917-IAYHD,0.436,0,"tenure, TotalCharges, MonthlyCharges",Call,174.0
+1582-RAFML,0.433,1,"tenure, TotalCharges",Call,173.0
+3748-FVMZZ,0.433,0,"tenure, MonthlyCharges, TotalCharges",Call,173.0
+7794-JASDG,0.431,0,"tenure, TotalCharges",Call,172.0
+8914-RBTSB,0.43,1,"MonthlyCharges, TotalCharges",Call,172.0
+9239-ZBZZV,0.431,1,"tenure, TotalCharges",Call,172.0
+9448-REEVD,0.431,1,"tenure, TotalCharges",Call,172.0
+1891-UAWWU,0.428,1,"MonthlyCharges, SeniorCitizen, tenure",Call,171.0
+9722-UJOJR,0.427,1,none,Call,171.0
+5143-EGQFK,0.427,1,"tenure, TotalCharges, SeniorCitizen",Call,171.0
+1965-DDBWU,0.428,1,"tenure, MonthlyCharges",Call,171.0
+2974-GGUXS,0.426,0,"SeniorCitizen, MonthlyCharges",Call,170.0
+2452-KDRRH,0.425,0,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,170.0
+1895-QTKDO,0.423,0,"tenure, TotalCharges",Call,169.0
+2141-RRYGO,0.422,1,tenure,Call,169.0
+4248-QPAVC,0.423,1,"SeniorCitizen, tenure, MonthlyCharges",Call,169.0
+3932-IJWDZ,0.419,0,MonthlyCharges,Call,168.0
+2985-JUUBZ,0.418,0,"TotalCharges, MonthlyCharges",Call,167.0
+3370-GQEAL,0.417,0,"MonthlyCharges, TotalCharges, Dependents",Call,167.0
+5716-LIBJC,0.418,0,"MonthlyCharges, tenure",Call,167.0
+2615-YVMYX,0.418,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,167.0
+1622-HSHSF,0.416,0,"tenure, TotalCharges, MonthlyCharges",Call,166.0
+5906-BFOZT,0.416,0,"tenure, TotalCharges, MonthlyCharges",Call,166.0
+9524-EGPJC,0.414,1,"MonthlyCharges, tenure",Call,166.0
+9518-XXBXE,0.416,0,"tenure, SeniorCitizen, MonthlyCharges",Call,166.0
+2587-EKXTS,0.416,0,MonthlyCharges,Call,166.0
+5364-XYIRR,0.416,1,MonthlyCharges,Call,166.0
+4521-YEEHE,0.414,0,"MonthlyCharges, tenure",Call,166.0
+9866-QEVEE,0.415,1,"MonthlyCharges, tenure",Call,166.0
+3757-NJYBX,0.415,1,"MonthlyCharges, SeniorCitizen",Call,166.0
+8837-VVWLQ,0.412,1,"tenure, MonthlyCharges",Call,165.0
+8564-LDKFL,0.412,0,MonthlyCharges,Call,165.0
+3665-JATSN,0.413,0,"MonthlyCharges, tenure, TotalCharges",Call,165.0
+9408-HRXRK,0.412,0,MonthlyCharges,Call,165.0
+1101-SSWAG,0.413,0,"tenure, TotalCharges",Call,165.0
+8128-YVJRG,0.411,1,"tenure, MonthlyCharges, TotalCharges",Call,164.0
+4329-YPDDQ,0.411,0,"MonthlyCharges, tenure",Call,164.0
+7813-ZGGAW,0.41,0,"MonthlyCharges, SeniorCitizen",Call,164.0
+9529-OFXHY,0.411,0,"tenure, MonthlyCharges",Call,164.0
+3199-NPKCN,0.41,0,"MonthlyCharges, TotalCharges, tenure",Call,164.0
+3323-CPBWR,0.411,0,"MonthlyCharges, tenure",Call,164.0
+9053-EJUNL,0.407,0,MonthlyCharges,Call,163.0
+7586-ZATGZ,0.407,0,MonthlyCharges,Call,163.0
+3737-XBQDD,0.407,0,"MonthlyCharges, tenure",Call,163.0
+0428-IKYCP,0.407,0,"MonthlyCharges, tenure",Call,163.0
+1635-FJFCC,0.407,0,tenure,Call,163.0
+4718-DHSMV,0.404,0,"tenure, TotalCharges, MonthlyCharges",Call,162.0
+9415-DPEWS,0.406,1,"MonthlyCharges, tenure",Call,162.0
+0224-HJAPT,0.405,1,tenure,Call,162.0
+0376-YMCJC,0.406,1,"MonthlyCharges, tenure",Call,162.0
+1260-TTRXI,0.404,1,tenure,Call,162.0
+0682-USIXD,0.406,0,"MonthlyCharges, tenure",Call,162.0
+5889-JTMUL,0.405,1,MonthlyCharges,Call,162.0
+2606-RMDHZ,0.406,1,"tenure, MonthlyCharges, TotalCharges",Call,162.0
+5153-RTHKF,0.403,0,"MonthlyCharges, TotalCharges",Call,161.0
+7233-DRTRF,0.399,0,MonthlyCharges,Call,160.0
+9971-ZWPBF,0.4,0,MonthlyCharges,Call,160.0
+4800-VHZKI,0.401,1,"tenure, TotalCharges, MonthlyCharges",Call,160.0
+4662-EKDPQ,0.401,1,tenure,Call,160.0
+8849-AYPTR,0.397,0,"MonthlyCharges, TotalCharges",Call,159.0
+7318-EIVKO,0.398,0,tenure,Call,159.0
+8640-SDGKB,0.397,1,"tenure, MonthlyCharges",Call,159.0
+1689-MRZQR,0.394,1,"MonthlyCharges, TotalCharges, Dependents",Call,158.0
+5916-QEWPT,0.394,0,tenure,Call,158.0
+8404-GFGCZ,0.394,0,tenure,Call,158.0
+3196-NVXLZ,0.396,0,"MonthlyCharges, tenure",Call,158.0
+1432-FPAXX,0.392,1,"MonthlyCharges, TotalCharges",Call,157.0
+2172-EJXVF,0.392,0,"MonthlyCharges, TotalCharges",Call,157.0
+9261-WDCAF,0.389,0,tenure,Call,156.0
+3005-TYFRD,0.39,0,MonthlyCharges,Call,156.0
+1894-IGFSG,0.389,1,"MonthlyCharges, tenure",Call,156.0
+6313-GIDIT,0.389,1,"TotalCharges, SeniorCitizen",Call,156.0
+9450-TRJUU,0.389,0,"MonthlyCharges, TotalCharges",Call,156.0
+8806-EAGWC,0.389,1,tenure,Call,156.0
+8212-CRQXP,0.39,0,"MonthlyCharges, tenure",Call,156.0
+7851-FLGGQ,0.389,1,"tenure, TotalCharges",Call,156.0
+0118-JPNOY,0.384,0,"SeniorCitizen, MonthlyCharges, tenure",Call,154.0
+9944-AEXBM,0.385,0,MonthlyCharges,Call,154.0
+3481-JHUZH,0.385,0,MonthlyCharges,Call,154.0
+1346-UFHAX,0.384,0,"tenure, MonthlyCharges, TotalCharges",Call,154.0
+2582-FFFZR,0.382,0,"TotalCharges, tenure",Call,153.0
+0623-IIHUG,0.382,1,"MonthlyCharges, tenure, SeniorCitizen",Call,153.0
+1910-FMXJM,0.382,0,"MonthlyCharges, TotalCharges",Call,153.0
+9026-LHEVG,0.379,0,"tenure, TotalCharges, MonthlyCharges",Call,152.0
+9029-FEGVJ,0.379,0,"SeniorCitizen, MonthlyCharges, TotalCharges",Call,152.0
+8840-DQLGN,0.378,1,"MonthlyCharges, SeniorCitizen",Call,151.0
+8286-AFUYI,0.378,0,"tenure, TotalCharges",Call,151.0
+7789-HKSBS,0.375,0,"MonthlyCharges, TotalCharges, SeniorCitizen",Call,150.0
+1423-BMPBQ,0.374,0,"tenure, TotalCharges, MonthlyCharges",Call,150.0
+2203-GHNWN,0.375,0,"MonthlyCharges, tenure",Call,150.0
+8878-RYUKI,0.376,0,TotalCharges,Call,150.0
+4818-DRBQT,0.372,1,"MonthlyCharges, TotalCharges",Call,149.0
+0654-HMSHN,0.372,1,"MonthlyCharges, tenure",Call,149.0
+4109-CYRBD,0.373,0,"SeniorCitizen, TotalCharges",Call,149.0
+4879-GZLFH,0.373,0,MonthlyCharges,Call,149.0
+0637-UBJRP,0.372,1,"tenure, MonthlyCharges",Call,149.0
+3577-AMVUX,0.372,0,"tenure, MonthlyCharges",Call,149.0
+9112-WSNPU,0.372,0,"SeniorCitizen, TotalCharges",Call,149.0
+2947-DOMLJ,0.369,1,"tenure, TotalCharges",Call,148.0
+1794-HBQTJ,0.369,1,"tenure, TotalCharges",Call,148.0
+8676-OOQEJ,0.367,0,"tenure, MonthlyCharges, TotalCharges",Call,147.0
+0481-SUMCB,0.367,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,147.0
+7587-AOVVU,0.367,0,"MonthlyCharges, TotalCharges, tenure",Call,147.0
+6994-FGRHH,0.368,0,"MonthlyCharges, TotalCharges, tenure",Call,147.0
+9564-KCLHR,0.366,1,tenure,Call,146.0
+4468-KAZHE,0.365,0,"SeniorCitizen, tenure",Call,146.0
+2476-YGEFM,0.366,0,"MonthlyCharges, TotalCharges",Call,146.0
+3336-JORSO,0.364,1,MonthlyCharges,Call,146.0
+8242-JSVBO,0.364,0,"tenure, TotalCharges",Call,146.0
+5301-GAUUY,0.365,1,"MonthlyCharges, TotalCharges",Call,146.0
+2474-BRUCM,0.365,1,"MonthlyCharges, SeniorCitizen",Call,146.0
+0129-KPTWJ,0.364,0,MonthlyCharges,Call,146.0
+6284-AHOOQ,0.362,1,"SeniorCitizen, MonthlyCharges, tenure",Call,145.0
+3211-ILJTT,0.363,1,tenure,Call,145.0
+3923-CSIHK,0.359,1,SeniorCitizen,Call,144.0
+3943-KDREE,0.357,1,"MonthlyCharges, tenure",Call,143.0
+7975-TZMLR,0.357,0,MonthlyCharges,Call,143.0
+5996-DAOQL,0.356,0,"tenure, TotalCharges",Call,142.0
+0596-BQCEQ,0.354,1,MonthlyCharges,Call,142.0
+1587-FKLZB,0.353,1,"TotalCharges, MonthlyCharges, SeniorCitizen",Call,141.0
+9522-BNTHX,0.353,0,SeniorCitizen,Call,141.0
+3865-QBWSJ,0.348,0,"SeniorCitizen, MonthlyCharges, TotalCharges",Call,139.0
+1442-BQPVU,0.346,0,"tenure, TotalCharges, MonthlyCharges",Call,138.0
+7895-VONWT,0.344,0,tenure,Call,138.0
+9732-EQMWY,0.344,0,MonthlyCharges,Call,138.0
+7927-AUXBZ,0.346,1,"MonthlyCharges, TotalCharges",Call,138.0
+2669-OIDSD,0.343,0,MonthlyCharges,Call,137.0
+2519-FAKOD,0.343,1,MonthlyCharges,Call,137.0
+9445-SZLCH,0.343,1,MonthlyCharges,Call,137.0
+1842-EZJMK,0.343,1,MonthlyCharges,Call,137.0
+0064-YIJGF,0.341,0,"MonthlyCharges, tenure",Call,136.0
+9732-KPKBW,0.339,1,tenure,Call,136.0
+2325-WINES,0.341,0,MonthlyCharges,Call,136.0
+7926-IJOOU,0.341,0,"tenure, TotalCharges, MonthlyCharges",Call,136.0
+5141-ZUVBH,0.339,0,"tenure, MonthlyCharges, PaymentMethod",Call,136.0
+3859-CVCET,0.337,1,tenure,Call,135.0
+8980-WQFWL,0.337,0,TotalCharges,Call,135.0
+3589-PPVKW,0.336,0,"tenure, TotalCharges",Call,134.0
+4026-SKKHW,0.334,0,"tenure, TotalCharges",Call,134.0
+7601-WFVZV,0.335,0,"tenure, TotalCharges, MonthlyCharges",Call,134.0
+9462-MJUAW,0.336,1,tenure,Call,134.0
+1763-WQFUK,0.334,0,"tenure, TotalCharges",Call,134.0
+1029-QFBEN,0.335,1,"tenure, TotalCharges, MonthlyCharges",Call,134.0
+3982-XWFZQ,0.332,1,TotalCharges,Call,133.0
+7268-IGMFD,0.333,0,"SeniorCitizen, MonthlyCharges, tenure",Call,133.0
+0533-BNWKF,0.332,1,"MonthlyCharges, SeniorCitizen",Call,133.0
+5295-PCJOO,0.333,1,"tenure, TotalCharges",Call,133.0
+9281-OFDMF,0.331,0,"MonthlyCharges, SeniorCitizen",Call,132.0
+2480-SQIOB,0.329,0,"tenure, TotalCharges",Call,132.0
+0365-GXEZS,0.329,0,"MonthlyCharges, tenure, TotalCharges",Call,132.0
+0100-DUVFC,0.329,0,"MonthlyCharges, TotalCharges, tenure",Call,132.0
+5590-YRFJT,0.329,1,"tenure, TotalCharges",Call,132.0
+0380-NEAVX,0.327,0,"MonthlyCharges, SeniorCitizen",Call,131.0
+4446-BZKHU,0.328,1,MonthlyCharges,Call,131.0
+4482-FTFFX,0.328,0,tenure,Call,131.0
+0734-OXWBT,0.328,0,tenure,Call,131.0
+3717-OFRTN,0.326,0,"tenure, TotalCharges, MonthlyCharges",Call,130.0
+3055-MJDSB,0.325,0,"tenure, TotalCharges",Call,130.0
+2585-KTFRE,0.324,0,"tenure, TotalCharges",Call,130.0
+5515-IDEJJ,0.326,1,"tenure, TotalCharges, MonthlyCharges",Call,130.0
+3466-RITXD,0.326,0,"MonthlyCharges, TotalCharges, tenure",Call,130.0
+2565-JSLRY,0.326,1,"tenure, TotalCharges",Call,130.0
+2812-SFXMJ,0.326,0,"tenure, TotalCharges, MonthlyCharges",Call,130.0
+9962-BFPDU,0.326,0,"tenure, TotalCharges, MonthlyCharges",Call,130.0
+9137-NOQKA,0.326,0,"TotalCharges, SeniorCitizen, tenure",Call,130.0
+9415-TPKRV,0.324,0,"tenure, Dependents, MonthlyCharges",Call,130.0
+0247-SLUJI,0.326,0,"tenure, TotalCharges, MonthlyCharges",Call,130.0
+6859-RKMZJ,0.324,0,"tenure, TotalCharges",Call,130.0
+7147-AYBAA,0.325,0,TotalCharges,Call,130.0
+0531-ZZJWQ,0.323,0,"SeniorCitizen, MonthlyCharges",Call,129.0
+0979-PHULV,0.323,1,"TotalCharges, MonthlyCharges",Call,129.0
+3900-AQPHZ,0.321,1,"tenure, TotalCharges, MonthlyCharges",Call,128.0
+9659-QEQSY,0.321,0,MonthlyCharges,Call,128.0
+0310-MVLET,0.319,1,MonthlyCharges,Call,128.0
+3043-TYBNO,0.318,0,tenure,Call,127.0
+2178-PMGCJ,0.317,0,"tenure, TotalCharges",Call,127.0
+2720-FVBQP,0.316,0,"tenure, TotalCharges",Call,126.0
+9356-AXGMP,0.316,0,"MonthlyCharges, TotalCharges",Call,126.0
+6218-KNUBD,0.314,0,"tenure, TotalCharges",Call,126.0
+1685-BQULA,0.315,0,MonthlyCharges,Call,126.0
+3348-CFRNX,0.316,1,"MonthlyCharges, TotalCharges, tenure",Call,126.0
+2056-EVGZL,0.315,0,"MonthlyCharges, TotalCharges, tenure",Call,126.0
+2105-PHWON,0.314,0,"MonthlyCharges, TotalCharges",Call,126.0
+3645-DEYGF,0.313,0,"tenure, TotalCharges, MonthlyCharges",Call,125.0
+2719-BDAQO,0.312,1,"tenure, MonthlyCharges",Call,125.0
+7529-ZDFXI,0.309,0,"MonthlyCharges, SeniorCitizen",Call,124.0
+3976-NLDEZ,0.309,0,"tenure, TotalCharges, MonthlyCharges",Call,124.0
+0426-TIRNE,0.309,1,"tenure, TotalCharges, MonthlyCharges",Call,124.0
+5624-BQSSA,0.309,1,"tenure, TotalCharges, MonthlyCharges",Call,124.0
+5515-RUGKN,0.308,0,tenure,Call,123.0
+3086-RUCRN,0.308,0,"MonthlyCharges, TotalCharges",Call,123.0
+2479-BRAMR,0.307,1,"SeniorCitizen, MonthlyCharges",Call,123.0
+7112-OPOTK,0.305,1,TotalCharges,Call,122.0
+6173-ITPWD,0.304,1,MonthlyCharges,Call,122.0
+1258-YMZNM,0.304,0,MonthlyCharges,Call,122.0
+1679-JRFBR,0.306,0,"MonthlyCharges, TotalCharges, tenure",Call,122.0
+6968-GMKPR,0.306,0,MonthlyCharges,Call,122.0
+2607-FBDFF,0.302,0,tenure,Call,121.0
+3569-EDBPQ,0.303,0,"tenure, MonthlyCharges",Call,121.0
+4993-JCRGJ,0.302,0,"MonthlyCharges, tenure, TotalCharges",Call,121.0
+8749-JMNKX,0.302,1,"SeniorCitizen, MonthlyCharges",Call,121.0
+3144-AUDBS,0.299,1,"tenure, TotalCharges",Call,120.0
+2100-BDNSN,0.299,1,tenure,Call,120.0
+1089-HDMKP,0.299,0,"tenure, SeniorCitizen, TotalCharges",Call,120.0
+6680-NENYN,0.299,1,"MonthlyCharges, TotalCharges",Call,120.0
+7964-VEXDG,0.3,0,"tenure, MonthlyCharges, Dependents",Call,120.0
+7251-LJBQN,0.297,0,"MonthlyCharges, SeniorCitizen",Call,119.0
+0980-PVMRC,0.297,0,none,Call,119.0
+2823-LKABH,0.297,0,"MonthlyCharges, tenure",Call,119.0
+2003-CKLOR,0.298,1,"MonthlyCharges, TotalCharges",Call,119.0
+9169-BSVIN,0.295,0,"tenure, MonthlyCharges, TotalCharges",Call,118.0
+1803-BGNBD,0.294,0,"tenure, TotalCharges",Call,118.0
+1329-VHWNP,0.295,0,"tenure, TotalCharges",Call,118.0
+3858-XHYJO,0.296,0,"MonthlyCharges, TotalCharges",Call,118.0
+0877-SDMBN,0.295,1,MonthlyCharges,Call,118.0
+2000-MPKCA,0.295,0,MonthlyCharges,Call,118.0
+0407-BDJKB,0.295,1,MonthlyCharges,Call,118.0
+6745-JEFZB,0.294,0,"MonthlyCharges, TotalCharges",Call,118.0
+8645-KWHJO,0.294,0,"tenure, TotalCharges",Call,118.0
+8229-MYEJZ,0.292,0,tenure,Call,117.0
+9512-UIBFX,0.292,1,"MonthlyCharges, tenure",Call,117.0
+2576-HXMPA,0.292,0,"tenure, TotalCharges, MonthlyCharges",Call,117.0
+1442-OKRJE,0.293,0,"MonthlyCharges, TotalCharges",Call,117.0
+9793-WECQC,0.293,0,MonthlyCharges,Call,117.0
+6572-ADKRS,0.289,0,MonthlyCharges,Call,116.0
+2988-GBIVW,0.291,0,"TotalCharges, MonthlyCharges",Call,116.0
+1193-RTSLK,0.289,1,"MonthlyCharges, TotalCharges",Call,116.0
+7758-XKCBS,0.289,1,"tenure, TotalCharges",Call,116.0
+5349-AZPEW,0.29,0,"tenure, TotalCharges",Call,116.0
+6410-LEFEN,0.291,1,tenure,Call,116.0
+6581-NQCBA,0.289,1,"tenure, TotalCharges",Call,116.0
+3688-FTHLT,0.291,0,"tenure, TotalCharges",Call,116.0
+2669-QVCRG,0.289,0,"MonthlyCharges, TotalCharges",Call,116.0
+7693-QPEFS,0.288,0,SeniorCitizen,Call,115.0
+0422-UXFAP,0.288,0,MonthlyCharges,Call,115.0
+5481-NTDOH,0.288,0,"MonthlyCharges, TotalCharges",Call,115.0
+8178-EYZUO,0.287,1,MonthlyCharges,Call,115.0
+5445-GLVOT,0.287,0,"TotalCharges, tenure",Call,115.0
+1963-VAUKV,0.286,1,"tenure, TotalCharges",Call,114.0
+2668-TZSPS,0.286,0,"tenure, TotalCharges",Call,114.0
+0564-MUUQK,0.285,0,"MonthlyCharges, tenure",Call,114.0
+7826-VVKWT,0.286,0,"MonthlyCharges, tenure, SeniorCitizen",Call,114.0
+4581-LNWUM,0.284,0,tenure,Call,114.0
+2782-LFZVW,0.285,0,"tenure, TotalCharges",Call,114.0
+4132-POCZS,0.285,0,MonthlyCharges,Call,114.0
+8065-BVEPF,0.286,0,"MonthlyCharges, SeniorCitizen",Call,114.0
+1596-BBVTG,0.284,1,"TotalCharges, MonthlyCharges",Call,114.0
+9693-XMUOB,0.285,0,"TotalCharges, SeniorCitizen",Call,114.0
+0601-WZHJF,0.284,1,tenure,Call,114.0
+2208-NQBCT,0.286,0,"MonthlyCharges, Dependents, tenure",Call,114.0
+3137-LUPIX,0.286,0,"tenure, TotalCharges",Call,114.0
+2886-KEFUM,0.284,1,MonthlyCharges,Call,114.0
+3590-TCXTB,0.286,0,"tenure, TotalCharges",Call,114.0
+9626-VFRGG,0.285,0,MonthlyCharges,Call,114.0
+8992-VONJD,0.282,0,"tenure, MonthlyCharges, TotalCharges",Call,113.0
+9412-GHEEC,0.281,1,MonthlyCharges,Call,112.0
+1049-FYSYG,0.28,0,"MonthlyCharges, tenure",Call,112.0
+5924-IFQTT,0.28,0,tenure,Call,112.0
+8705-DWKTI,0.279,0,MonthlyCharges,Call,112.0
+6807-SIWJI,0.279,0,MonthlyCharges,Call,112.0
+6288-LBEAR,0.28,0,"MonthlyCharges, tenure",Call,112.0
+8562-GHPPI,0.279,0,"tenure, TotalCharges, MonthlyCharges",Call,112.0
+7850-VWJUU,0.28,0,"tenure, MonthlyCharges",Call,112.0
+7593-JNWRU,0.28,1,"tenure, TotalCharges",Call,112.0
+4592-IWTJI,0.281,1,"tenure, TotalCharges",Call,112.0
+1548-ARAGG,0.281,0,"tenure, TotalCharges",Call,112.0
+6135-OZQVA,0.281,0,tenure,Call,112.0
+0804-XBFBV,0.278,0,"tenure, TotalCharges",Call,111.0
+5172-MIGPM,0.276,0,tenure,Call,110.0
+9584-EXCDZ,0.275,0,"tenure, TotalCharges",Call,110.0
+5828-AVIPD,0.275,1,"MonthlyCharges, tenure",Call,110.0
+7203-OYKCT,0.276,0,"MonthlyCharges, TotalCharges",Call,110.0
+9154-QDGTH,0.276,0,"MonthlyCharges, TotalCharges",Call,110.0
+2305-MRGLV,0.275,0,"MonthlyCharges, tenure",Call,110.0
+8963-JLGJT,0.272,0,"tenure, Dependents, MonthlyCharges",Call,109.0
+6439-GTPCA,0.273,1,MonthlyCharges,Call,109.0
+1550-LOAHA,0.272,1,MonthlyCharges,Call,109.0
+1907-YLNYW,0.273,0,tenure,Call,109.0
+3452-SRFEG,0.273,0,MonthlyCharges,Call,109.0
+5312-UXESG,0.271,0,MonthlyCharges,Call,108.0
+3567-PQTSO,0.269,0,MonthlyCharges,Call,108.0
+7550-WIQVA,0.271,0,"MonthlyCharges, TotalCharges",Call,108.0
+7356-IWLFW,0.268,0,MonthlyCharges,Call,107.0
+2700-LUEVA,0.267,0,"tenure, TotalCharges, MonthlyCharges",Call,107.0
+4001-TSBTV,0.267,0,MonthlyCharges,Call,107.0
+6172-FECYY,0.268,1,MonthlyCharges,Call,107.0
+8849-PRIQJ,0.264,0,"MonthlyCharges, TotalCharges, tenure",Call,106.0
+9079-LWTFD,0.264,0,"MonthlyCharges, TechSupport",Call,106.0
+5898-IGSLP,0.265,0,"TotalCharges, Dependents",Call,106.0
+9481-SFCQY,0.266,0,tenure,Call,106.0
+0691-IFBQW,0.266,1,MonthlyCharges,Call,106.0
+7074-STDCN,0.262,0,"MonthlyCharges, TotalCharges",Call,105.0
+9909-IDLEK,0.26,0,"MonthlyCharges, tenure",Call,104.0
+0727-BMPLR,0.26,1,MonthlyCharges,Call,104.0
+1450-SKCVI,0.261,1,MonthlyCharges,Call,104.0
+4238-HFHSN,0.258,0,"MonthlyCharges, SeniorCitizen",Call,103.0
+5973-EJGDP,0.257,0,MonthlyCharges,Call,103.0
+5201-USSQZ,0.254,0,MonthlyCharges,Call,102.0
+4580-TMHJU,0.255,1,"TotalCharges, Dependents, MonthlyCharges",Call,102.0
+6633-SYEUS,0.254,0,"MonthlyCharges, tenure",Call,102.0
+1465-LNTLJ,0.254,0,"tenure, SeniorCitizen",Call,102.0
+9323-HGFWY,0.254,0,"MonthlyCharges, TotalCharges",Call,102.0
+1732-VHUBQ,0.256,1,SeniorCitizen,Call,102.0
+4350-ZTLPI,0.255,0,"MonthlyCharges, TotalCharges",Call,102.0
+8565-HBFNN,0.253,0,"MonthlyCharges, TotalCharges, tenure",Call,101.0
+5071-FBJFS,0.251,0,tenure,Call,100.0
+4724-WXVWF,0.249,0,MonthlyCharges,Call,100.0
+8205-MQUGY,0.251,0,tenure,Call,100.0
+6646-QVXLR,0.251,1,MonthlyCharges,Call,100.0
+3424-NMNBO,0.251,1,MonthlyCharges,Call,100.0
+1297-VQDRP,0.249,0,"MonthlyCharges, TotalCharges",Call,100.0
+2075-RMJIK,0.247,0,"tenure, TotalCharges",Call,99.0
+3999-WRNGR,0.247,0,TotalCharges,Call,99.0
+8634-CILSZ,0.248,1,"MonthlyCharges, TotalCharges, tenure",Call,99.0
+8868-GAGIO,0.244,0,MonthlyCharges,Call,98.0
+4088-YLDSU,0.244,1,MonthlyCharges,Call,98.0
+5897-ZYEKH,0.245,0,"MonthlyCharges, TotalCharges, tenure",Call,98.0
+8023-QHAIO,0.242,0,"SeniorCitizen, MonthlyCharges",Call,97.0
+3301-LSLWQ,0.242,0,none,Call,97.0
+1768-HNVGJ,0.243,0,"TotalCharges, SeniorCitizen",Call,97.0
+7576-JMYWV,0.24,0,MonthlyCharges,Call,96.0
+0409-WTMPL,0.24,0,"MonthlyCharges, TotalCharges",Call,96.0
+3325-FUYCG,0.237,1,"MonthlyCharges, TotalCharges",Call,95.0
+9079-YEXQJ,0.236,1,MonthlyCharges,Call,94.0
+3683-QKIUE,0.236,1,"tenure, TotalCharges",Call,94.0
+9825-YCXWZ,0.235,0,"MonthlyCharges, SeniorCitizen",Call,94.0
+3685-YLCMQ,0.236,1,MonthlyCharges,Call,94.0
+5575-TPIZQ,0.235,0,MonthlyCharges,Call,94.0
+2898-MRKPI,0.232,0,"MonthlyCharges, TotalCharges",Call,93.0
+3162-ZJZFU,0.232,0,MonthlyCharges,Call,93.0
+7611-YKYTC,0.232,0,"tenure, MonthlyCharges, Dependents",Call,93.0
+5651-CPDND,0.232,0,tenure,Call,93.0
+1134-YWTYF,0.23,0,none,Call,92.0
+2773-OVBPK,0.231,0,"MonthlyCharges, TotalCharges, PaymentMethod",Call,92.0
+4785-NKHCX,0.23,0,"tenure, SeniorCitizen, PaymentMethod",Call,92.0
+1051-GEJLJ,0.227,0,"tenure, TotalCharges, MonthlyCharges",Call,91.0
+2927-QRRQV,0.228,0,MonthlyCharges,Call,91.0
+4070-OKWVH,0.226,0,MonthlyCharges,Call,90.0
+4523-WXCEF,0.226,1,MonthlyCharges,Call,90.0
+3584-WKTTW,0.226,0,MonthlyCharges,Call,90.0
+7398-LXGYX,0.226,0,MonthlyCharges,Call,90.0
+8992-CEUEN,0.223,0,"tenure, TotalCharges",Call,89.0
+2522-AHJXR,0.222,0,MonthlyCharges,Call,89.0
+3572-UOLYZ,0.219,0,MonthlyCharges,Call,88.0
+1448-CYWKC,0.219,0,"MonthlyCharges, TotalCharges",Call,88.0
+5140-FOMCQ,0.219,0,"MonthlyCharges, TotalCharges",Call,88.0
+4789-KWMXN,0.22,1,"MonthlyCharges, TotalCharges",Call,88.0
+7446-YPODE,0.218,0,"tenure, SeniorCitizen, TotalCharges",Call,87.0
+1986-PHGZF,0.218,0,"SeniorCitizen, tenure",Call,87.0
+6297-NOOPG,0.214,0,"TotalCharges, MonthlyCharges, tenure",Call,86.0
+9812-GHVRI,0.216,0,MonthlyCharges,Call,86.0
+2115-BFTIW,0.216,1,tenure,Call,86.0
+2229-VWQJH,0.216,0,tenure,Call,86.0
+2302-ANTDP,0.215,1,MonthlyCharges,Call,86.0
+9375-MHRRS,0.212,0,"tenure, TotalCharges",Call,85.0
+4607-CHPCA,0.212,1,MonthlyCharges,Call,85.0
+4612-THJBS,0.212,1,MonthlyCharges,Call,85.0
+5309-TAIKL,0.211,0,tenure,Call,84.0
+4323-OHFOW,0.21,0,"MonthlyCharges, TotalCharges, tenure",Call,84.0
+4937-QPZPO,0.211,0,MonthlyCharges,Call,84.0
+9746-MDMBK,0.209,0,"MonthlyCharges, TotalCharges",Call,84.0
+7319-VENRZ,0.211,0,tenure,Call,84.0
+3948-FVVRP,0.208,0,"tenure, Dependents, MonthlyCharges",Call,83.0
+7299-GNVPL,0.207,0,"MonthlyCharges, tenure",Call,83.0
+1100-DDVRV,0.208,0,tenure,Call,83.0
+7605-SNLQG,0.207,0,TotalCharges,Call,83.0
+1114-CENIM,0.207,1,"TotalCharges, MonthlyCharges",Call,83.0
+1518-OMDIK,0.204,0,TotalCharges,Call,82.0
+1017-FBQMM,0.205,0,"MonthlyCharges, TotalCharges",Call,82.0
+3022-BEXHZ,0.205,0,"TotalCharges, MonthlyCharges, PaymentMethod",Call,82.0
+1958-RNRKS,0.204,0,TotalCharges,Call,82.0
+8773-HHUOZ,0.206,1,TotalCharges,Call,82.0
+6854-EXGSF,0.205,0,tenure,Call,82.0
+2270-CHBFN,0.205,0,MonthlyCharges,Call,82.0
+2027-OAQQC,0.202,1,none,Call,81.0
+7632-MNYOY,0.201,1,"MonthlyCharges, TotalCharges, TechSupport",Call,80.0
+2359-QWQUL,0.201,1,MonthlyCharges,Call,80.0
+9342-VNIMQ,0.201,0,none,Call,80.0
+0130-SXOUN,0.201,0,"TotalCharges, MonthlyCharges",Call,80.0
+8095-WANWK,0.201,0,tenure,Call,80.0
+4950-BDEUX,0.201,0,none,Call,80.0
+5133-VRSAB,0.197,0,"tenure, TotalCharges",Call,79.0
+4925-LMHOK,0.198,1,tenure,Call,79.0
+6549-YMFAW,0.198,0,"tenure, SeniorCitizen, TotalCharges",Call,79.0
+6480-YAGIY,0.197,0,"MonthlyCharges, TotalCharges, TechSupport",Call,79.0
+4456-RHSNB,0.197,0,"tenure, TotalCharges",Call,79.0
+3870-MQAMG,0.195,1,"MonthlyCharges, TotalCharges",Call,78.0
+7080-TNUWP,0.195,0,"TotalCharges, MonthlyCharges",Call,78.0
+7410-KTVFV,0.195,1,tenure,Call,78.0
+6284-KMNUF,0.196,0,MonthlyCharges,Call,78.0
+5996-NRVXR,0.194,0,"MonthlyCharges, SeniorCitizen",Call,78.0
+6664-FPDAC,0.196,1,MonthlyCharges,Call,78.0
+0260-ZDLGK,0.194,1,tenure,Call,78.0
+7449-HVPIV,0.196,0,MonthlyCharges,Call,78.0
+3030-YZADT,0.193,1,tenure,Call,77.0
+4374-YMUSQ,0.193,0,"MonthlyCharges, TechSupport",Call,77.0
+6497-TILVL,0.192,0,"tenure, TotalCharges",Call,77.0
+9614-RMGHA,0.192,1,MonthlyCharges,Call,77.0
+9974-JFBHQ,0.189,0,MonthlyCharges,Call,76.0
+6029-CSMJE,0.191,0,tenure,Call,76.0
+2272-UOINI,0.189,0,tenure,Call,76.0
+8849-GYOKR,0.19,1,MonthlyCharges,Call,76.0
+1810-BOHSY,0.189,0,MonthlyCharges,Call,76.0
+8133-ANHHJ,0.191,0,"MonthlyCharges, TechSupport",Call,76.0
+5180-UCIIQ,0.19,1,"SeniorCitizen, tenure, MonthlyCharges",Call,76.0
+9206-GVPEQ,0.191,1,tenure,Call,76.0
+4501-VCPFK,0.188,0,MonthlyCharges,Call,75.0
+0442-ZXKVS,0.188,0,MonthlyCharges,Call,75.0
+9097-ZUBYC,0.188,0,tenure,Call,75.0
+4138-NAXED,0.188,0,MonthlyCharges,Call,75.0
+9036-CSKBW,0.185,0,"MonthlyCharges, TotalCharges",Call,74.0
+3629-WEAAM,0.185,0,tenure,Call,74.0
+2303-PJYHN,0.185,0,"tenure, PaymentMethod, MonthlyCharges",Call,74.0
+1950-KSVVJ,0.186,0,"MonthlyCharges, TotalCharges, TechSupport",Call,74.0
+2189-UXTKY,0.184,1,tenure,Call,74.0
+1087-UDSIH,0.185,1,"tenure, TotalCharges",Call,74.0
+5732-IKGQH,0.186,0,MonthlyCharges,Call,74.0
+4129-LYCOI,0.182,0,"MonthlyCharges, TotalCharges",Call,73.0
+5198-HQAEN,0.182,0,"TotalCharges, MonthlyCharges",Call,73.0
+6873-UDNLD,0.182,0,TotalCharges,Call,73.0
+1060-ENTOF,0.181,0,"MonthlyCharges, TotalCharges",Call,72.0
+4307-KTUMW,0.18,1,MonthlyCharges,Call,72.0
+0786-IVLAW,0.18,0,"MonthlyCharges, TotalCharges",Call,72.0
+3786-WOVKF,0.18,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,72.0
+3190-XFANI,0.179,1,MonthlyCharges,Call,72.0
+8644-XYTSV,0.181,0,MonthlyCharges,Call,72.0
+8740-XLHDR,0.18,1,tenure,Call,72.0
+0924-BJCRC,0.181,0,MonthlyCharges,Call,72.0
+4908-XAXAY,0.18,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,72.0
+5562-YJQGT,0.181,0,"tenure, TotalCharges",Call,72.0
+5136-GFPMB,0.178,0,MonthlyCharges,Call,71.0
+8003-EWNDZ,0.178,0,"TotalCharges, tenure",Call,71.0
+5074-FBGHB,0.177,0,"MonthlyCharges, TotalCharges",Call,71.0
+2165-VOEGB,0.178,1,MonthlyCharges,Call,71.0
+4646-QZXTF,0.178,0,"tenure, MonthlyCharges",Call,71.0
+7880-XSOJX,0.174,0,tenure,Call,70.0
+2834-SPCJV,0.175,1,MonthlyCharges,Call,70.0
+0314-TKOSI,0.175,0,"tenure, TotalCharges",Call,70.0
+8006-PYCSW,0.176,0,"tenure, TotalCharges",Call,70.0
+8421-WZOOW,0.174,0,"MonthlyCharges, SeniorCitizen",Call,70.0
+0696-UKTOX,0.176,0,none,Call,70.0
+5482-NUPNA,0.174,1,tenure,Call,70.0
+6008-NAIXK,0.175,0,TotalCharges,Call,70.0
+0991-BRRFB,0.176,1,none,Call,70.0
+8189-HBVRW,0.175,0,MonthlyCharges,Call,70.0
+1205-WNWPJ,0.176,1,tenure,Call,70.0
+1215-VFYVK,0.175,0,tenure,Call,70.0
+3128-YOVTD,0.175,0,MonthlyCharges,Call,70.0
+2272-JKMSI,0.175,0,MonthlyCharges,Call,70.0
+6253-WRFHY,0.173,0,tenure,Call,69.0
+7799-DSEWS,0.172,0,none,Call,69.0
+2946-KIQSP,0.172,0,"TotalCharges, MonthlyCharges",Call,69.0
+1707-HABPF,0.171,0,"MonthlyCharges, SeniorCitizen",Call,68.0
+6383-ZTSIW,0.171,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Call,68.0
+4250-WAROZ,0.17,0,MonthlyCharges,Call,68.0
+3717-LNXKW,0.171,0,MonthlyCharges,Call,68.0
+9254-RBFON,0.169,1,"MonthlyCharges, tenure",Call,68.0
+3766-EJLFL,0.167,0,"MonthlyCharges, TotalCharges, tenure",Call,67.0
+7519-JTWQH,0.167,0,"MonthlyCharges, TotalCharges, PaymentMethod",Call,67.0
+0292-WEGCH,0.167,0,MonthlyCharges,Call,67.0
+5473-KHBPS,0.168,0,MonthlyCharges,Call,67.0
+2157-MXBJS,0.166,1,"tenure, MonthlyCharges",Call,66.0
+9496-IVVRP,0.164,0,tenure,Call,66.0
+6849-OYAMU,0.164,1,"MonthlyCharges, tenure",Call,66.0
+4016-BJKTZ,0.166,0,"MonthlyCharges, tenure",Call,66.0
+8294-UIMBA,0.165,0,MonthlyCharges,Call,66.0
+4822-LPTYJ,0.165,0,"MonthlyCharges, TotalCharges",Call,66.0
+4385-ZKVNW,0.162,0,MonthlyCharges,Call,65.0
+1174-FGIFN,0.162,0,"TotalCharges, MonthlyCharges",Call,65.0
+0665-XHDJU,0.163,0,"MonthlyCharges, TotalCharges",Call,65.0
+1422-DGUBX,0.163,0,"TotalCharges, MonthlyCharges",Call,65.0
+6776-TLWOI,0.162,1,"tenure, TotalCharges",Call,65.0
+3920-HIHMQ,0.161,0,none,Call,64.0
+9555-SAHUZ,0.161,0,none,Call,64.0
+6574-MCOEH,0.16,0,"TotalCharges, MonthlyCharges",Call,64.0
+0733-VUNUW,0.159,1,tenure,Call,64.0
+2452-SNHFZ,0.161,0,MonthlyCharges,Call,64.0
+2673-CXQEU,0.161,0,"MonthlyCharges, TotalCharges",Call,64.0
+3709-OIJEA,0.159,0,"MonthlyCharges, TotalCharges",Call,64.0
+2782-JEEBU,0.16,0,MonthlyCharges,Call,64.0
+6207-WIOLX,0.159,1,tenure,Call,64.0
+4791-QRGMF,0.157,1,MonthlyCharges,Call,63.0
+3038-PQIUY,0.154,0,none,Call,62.0
+5945-AZYHT,0.154,0,"MonthlyCharges, TotalCharges",Call,62.0
+1545-ACTAS,0.154,0,MonthlyCharges,Call,62.0
+0193-ESZXP,0.155,1,MonthlyCharges,Call,62.0
+1360-RCYRT,0.154,0,TotalCharges,Call,62.0
+6202-DYYFX,0.154,0,"MonthlyCharges, tenure",Call,62.0
+3374-TTZTK,0.155,0,MonthlyCharges,Call,62.0
+1573-LGXBA,0.155,0,MonthlyCharges,Call,62.0
+3221-CJMSG,0.152,0,none,Call,61.0
+3617-XLSGQ,0.152,0,"MonthlyCharges, TotalCharges, tenure",Call,61.0
+0308-GIQJT,0.152,0,"MonthlyCharges, TotalCharges",Call,61.0
+5161-UBZXI,0.152,0,"MonthlyCharges, TotalCharges, tenure",Call,61.0
+8410-BGQXN,0.151,0,"tenure, TotalCharges",Call,60.0
+9481-IEBZY,0.149,0,"TotalCharges, SeniorCitizen, MonthlyCharges",Call,60.0
+2732-ISEZX,0.149,0,"tenure, TotalCharges",Call,60.0
+8205-OTCHB,0.15,1,"tenure, MonthlyCharges, TotalCharges",Call,60.0
+5223-UZAVK,0.149,0,MonthlyCharges,Call,60.0
+9986-BONCE,0.151,1,"tenure, PaymentMethod, TotalCharges",Call,60.0
+4913-EHYUI,0.151,1,MonthlyCharges,Call,60.0
+0330-BGYZE,0.151,0,MonthlyCharges,Call,60.0
+1202-KKGFU,0.149,0,tenure,Call,60.0
+0565-JUPYD,0.151,0,"MonthlyCharges, TechSupport, TotalCharges",Call,60.0
+0136-IFMYD,0.147,0,"TotalCharges, MonthlyCharges",Call,59.0
+4310-KEDTB,0.147,0,TotalCharges,Call,59.0
+2931-XIQBR,0.145,0,MonthlyCharges,Call,58.0
+5693-PIPCS,0.144,0,"MonthlyCharges, TotalCharges",Call,58.0
+7721-JXEAW,0.146,1,MonthlyCharges,Call,58.0
+2324-EFHVG,0.146,0,"MonthlyCharges, TotalCharges",Call,58.0
+0516-OOHAR,0.144,0,MonthlyCharges,Call,58.0
+7596-LDUXP,0.146,0,"tenure, MonthlyCharges",Call,58.0
+8597-CWYHH,0.146,0,MonthlyCharges,Call,58.0
+4378-MYPGO,0.145,0,"MonthlyCharges, TotalCharges, tenure",Call,58.0
+5311-IHLEI,0.145,0,tenure,Call,58.0
+3307-TLCUD,0.144,0,"MonthlyCharges, tenure",Call,58.0
+3638-DIMPH,0.142,0,"tenure, MonthlyCharges",Call,57.0
+7143-BQIBA,0.143,0,tenure,Call,57.0
+6445-TNRXS,0.139,0,"MonthlyCharges, TotalCharges, PaymentMethod",Call,56.0
+7395-XWZOY,0.139,0,TotalCharges,Call,56.0
+2320-YKQBO,0.14,0,"tenure, TotalCharges, PaperlessBilling",Call,56.0
+7657-DYEPJ,0.141,1,"SeniorCitizen, TotalCharges",Call,56.0
+2988-QRAJY,0.14,0,"MonthlyCharges, TotalCharges",Call,56.0
+8495-LJDFO,0.14,0,MonthlyCharges,Call,56.0
+2621-UDNLU,0.14,0,"tenure, TotalCharges",Call,56.0
+6994-ORCWG,0.14,0,tenure,Call,56.0
+8735-DCXNF,0.139,0,tenure,Call,56.0
+5306-BVTKJ,0.139,0,TotalCharges,Call,56.0
+1629-DQQVB,0.139,0,tenure,Call,56.0
+5478-JJVZK,0.139,0,none,Call,56.0
+1121-QSIVB,0.141,0,MonthlyCharges,Call,56.0
+2234-XADUH,0.139,0,"MonthlyCharges, TotalCharges",Call,56.0
+0655-YDGFJ,0.139,0,none,Call,56.0
+0098-BOWSO,0.138,0,none,Call,55.0
+8216-AZUUZ,0.137,0,MonthlyCharges,Call,55.0
+8731-WBBMB,0.138,0,MonthlyCharges,Call,55.0
+8746-OQQRW,0.137,0,"tenure, TotalCharges",Call,55.0
+0842-IWYCP,0.138,0,none,Call,55.0
+4182-BGSIQ,0.138,0,"TotalCharges, tenure",Call,55.0
+5334-JLAXU,0.138,0,MonthlyCharges,Call,55.0
+6946-LMSQS,0.137,1,MonthlyCharges,Call,55.0
+1097-FSPVW,0.137,0,TotalCharges,Call,55.0
+5708-EVONK,0.136,1,MonthlyCharges,Call,54.0
+5055-BRMNE,0.135,0,"MonthlyCharges, TotalCharges",Call,54.0
+5195-KPUNQ,0.135,0,"MonthlyCharges, SeniorCitizen",Call,54.0
+3097-PYWXL,0.135,0,"TotalCharges, tenure",Call,54.0
+0872-JCPIB,0.135,0,none,Call,54.0
+6092-QZVPP,0.133,0,TotalCharges,Call,53.0
+7803-XOCCZ,0.132,0,none,Call,53.0
+8947-YRTDV,0.132,0,"MonthlyCharges, TotalCharges",Call,53.0
+8317-BVKSO,0.133,0,"TotalCharges, tenure",Call,53.0
+9027-YFHQJ,0.13,0,"tenure, TotalCharges",Call,52.0
+5269-NRGDP,0.129,0,TotalCharges,Call,52.0
+7088-FBAWU,0.131,0,"tenure, MonthlyCharges",Call,52.0
+9938-EKRGF,0.131,0,"MonthlyCharges, tenure",Call,52.0
+7976-CICYS,0.131,0,"tenure, TotalCharges",Call,52.0
+9504-DSHWM,0.129,0,TotalCharges,Call,52.0
+2817-NTQDO,0.129,1,tenure,Call,52.0
+1352-VHKAJ,0.127,0,none,Call,51.0
+9848-JQJTX,0.127,0,"MonthlyCharges, TotalCharges",Call,51.0
+3703-TTEPD,0.127,0,none,Call,51.0
+3059-NGMXB,0.128,0,tenure,Call,51.0
+3594-IVHJZ,0.127,0,"tenure, TotalCharges",Call,51.0
+9565-JSNFM,0.127,1,TotalCharges,Call,51.0
+5995-OIGLP,0.127,1,tenure,Call,51.0
+2858-MOFSQ,0.127,1,tenure,Call,51.0
+5186-EJEGL,0.127,0,tenure,Call,51.0
+4986-MXSFP,0.127,0,"tenure, TotalCharges",Call,51.0
+1325-USMEC,0.128,0,"MonthlyCharges, TotalCharges",Call,51.0
+7824-PANSQ,0.125,0,MonthlyCharges,Call,50.0
+1666-JZPZT,0.126,0,none,Call,50.0
+3633-CDBUW,0.125,0,"MonthlyCharges, tenure",Call,50.0
+4712-AUQZO,0.126,0,MonthlyCharges,Call,50.0
+4430-YHXGG,0.124,0,"tenure, TotalCharges",Call,50.0
+6103-QCKFX,0.126,0,"Dependents, MonthlyCharges",Call,50.0
+2200-DSAAL,0.124,0,"TotalCharges, MonthlyCharges",Call,50.0
+5154-VEKBL,0.122,1,tenure,Call,49.0
+8124-NZVGJ,0.122,0,"tenure, TotalCharges",Call,49.0
+5144-PQCDZ,0.123,0,"tenure, TotalCharges",Call,49.0
+5327-CNLUQ,0.122,0,MonthlyCharges,Call,49.0
+4683-WYDOU,0.123,0,"MonthlyCharges, TotalCharges",Call,49.0
+1898-JSNDC,0.122,0,TotalCharges,Call,49.0
+0530-IJVDB,0.121,0,"MonthlyCharges, TotalCharges, tenure",Call,48.0
+5155-AZQPB,0.12,0,none,Call,48.0
+2486-WYVVE,0.12,0,"TotalCharges, MonthlyCharges",Call,48.0
+0815-MFZGM,0.119,0,MonthlyCharges,Call,48.0
+8819-ZBYNA,0.12,0,"MonthlyCharges, TotalCharges",Call,48.0
+7845-URHJN,0.119,1,"tenure, TotalCharges, PaymentMethod",Call,48.0
+9475-NNDGC,0.12,0,"MonthlyCharges, TotalCharges",Call,48.0
+5955-EPOAZ,0.12,0,"TotalCharges, tenure",Call,48.0
+3230-WYKIR,0.12,1,"MonthlyCharges, tenure",Call,48.0
+2368-GAKKQ,0.121,0,"MonthlyCharges, TotalCharges, tenure",Call,48.0
+1395-OFUWC,0.118,0,TotalCharges,Call,47.0
+7136-IHZJA,0.117,0,TotalCharges,Call,47.0
+5756-JYOJT,0.118,0,tenure,Call,47.0
+6112-KTHFQ,0.116,0,"TotalCharges, tenure",Call,46.0
+6728-DKUCO,0.115,0,"MonthlyCharges, TotalCharges",Call,46.0
+9518-IMLHK,0.116,0,none,Call,46.0
+5150-LJNSR,0.114,0,MonthlyCharges,Call,46.0
+7707-PYBBH,0.116,0,TotalCharges,Call,46.0
+4063-EIKNQ,0.115,0,"TotalCharges, tenure, PaymentMethod",Call,46.0
+4199-QHJNM,0.116,0,"MonthlyCharges, TotalCharges",Call,46.0
+5393-HJZSM,0.115,0,none,Call,46.0
+1585-MQSSU,0.116,1,none,Call,46.0
+7251-XFOIL,0.112,0,MonthlyCharges,Call,45.0
+3096-WPXBT,0.113,0,MonthlyCharges,Call,45.0
+5855-EIBDE,0.113,0,MonthlyCharges,Call,45.0
+0377-JBKKT,0.113,0,Dependents,Call,45.0
+8944-AILEF,0.112,0,"TotalCharges, tenure",Call,45.0
+6231-WFGFH,0.113,0,"tenure, TotalCharges",Call,45.0
+4785-QRJHC,0.109,1,"SeniorCitizen, TotalCharges",Call,44.0
+5504-WSIUR,0.109,0,"TotalCharges, MonthlyCharges",Call,44.0
+1984-GPTEH,0.111,0,TotalCharges,Call,44.0
+5061-PBXFW,0.11,0,none,Call,44.0
+7123-WQUHX,0.11,0,MonthlyCharges,Call,44.0
+8929-KSWIH,0.111,0,"MonthlyCharges, tenure",Call,44.0
+6196-HBOBZ,0.11,0,MonthlyCharges,Call,44.0
+2558-BUOZZ,0.11,0,MonthlyCharges,Call,44.0
+2419-FSORS,0.111,0,"MonthlyCharges, TotalCharges",Call,44.0
+8739-QOTTN,0.11,0,tenure,Call,44.0
+8706-HRADD,0.111,0,none,Call,44.0
+5919-VCZYM,0.11,0,tenure,Call,44.0
+4119-ZYPZY,0.111,0,"MonthlyCharges, TotalCharges",Call,44.0
+9031-ZVQPT,0.111,0,"MonthlyCharges, TotalCharges",Call,44.0
+4139-JPIAM,0.11,0,none,Call,44.0
+7572-KPVKK,0.111,0,MonthlyCharges,Call,44.0
+8221-EQDGL,0.109,0,none,Call,44.0
+6797-LNAQX,0.109,1,"TotalCharges, MonthlyCharges",Call,44.0
+5271-YNWVR,0.109,1,"TotalCharges, MonthlyCharges, tenure",Call,44.0
+1725-IQNIY,0.11,1,"MonthlyCharges, TotalCharges",Call,44.0
+2237-ZFSMY,0.107,1,MonthlyCharges,Call,43.0
+5081-NWSUP,0.107,0,tenure,Call,43.0
+6616-AALSR,0.107,0,"MonthlyCharges, TotalCharges",Call,43.0
+7614-QVWQL,0.107,1,TotalCharges,Call,43.0
+5917-HBSDW,0.108,0,TotalCharges,Call,43.0
+5687-DKDTV,0.106,1,"tenure, TotalCharges",Call,42.0
+7163-OCEQI,0.105,0,"MonthlyCharges, tenure",Call,42.0
+4946-EDSEW,0.104,1,"TotalCharges, tenure",Call,42.0
+5468-BPMMO,0.106,0,TotalCharges,Call,42.0
+2202-OUTMO,0.106,0,none,Call,42.0
+0864-FVJNJ,0.106,0,MonthlyCharges,Call,42.0
+4860-YZGZM,0.105,0,"TotalCharges, tenure",Call,42.0
+9618-LFJRU,0.104,0,tenure,Call,42.0
+1264-FUHCX,0.105,0,TotalCharges,Call,42.0
+4881-GQJTW,0.104,0,"TotalCharges, tenure",Call,42.0
+5149-CUZUJ,0.102,0,MonthlyCharges,Call,41.0
+8319-QBEHW,0.103,0,none,Call,41.0
+6766-HFKLA,0.103,0,MonthlyCharges,Call,41.0
+0516-QREYC,0.1,0,"SeniorCitizen, tenure",Watch,40.0
+1834-ABKHQ,0.101,0,TotalCharges,Call,40.0
+2294-DMMUS,0.1,0,none,Watch,40.0
+0142-GVYSN,0.098,0,none,Watch,39.0
+7083-YNSKY,0.097,1,tenure,Watch,39.0
+6319-QSUSR,0.097,0,"TotalCharges, tenure",Watch,39.0
+3340-QBBFM,0.097,0,SeniorCitizen,Watch,39.0
+3893-JRNFS,0.098,0,MonthlyCharges,Watch,39.0
+6036-TTFYU,0.096,0,"TotalCharges, tenure",Watch,38.0
+9822-BIIGN,0.096,0,none,Watch,38.0
+2294-SALNE,0.095,0,"MonthlyCharges, tenure",Watch,38.0
+6244-BESBM,0.096,0,"TotalCharges, MonthlyCharges",Watch,38.0
+9677-AVKED,0.094,0,MonthlyCharges,Watch,38.0
+4134-BSXLX,0.094,0,none,Watch,38.0
+9142-XMYJH,0.096,0,TotalCharges,Watch,38.0
+8883-ANODQ,0.095,0,"TotalCharges, MonthlyCharges",Watch,38.0
+6728-CZFEI,0.094,0,tenure,Watch,38.0
+6906-MPARY,0.092,0,MonthlyCharges,Watch,37.0
+6568-POCUI,0.092,0,MonthlyCharges,Watch,37.0
+0960-HUWBM,0.092,0,"MonthlyCharges, TotalCharges",Watch,37.0
+6718-BDGHG,0.092,0,TotalCharges,Watch,37.0
+9926-PJHDQ,0.092,0,"MonthlyCharges, TotalCharges",Watch,37.0
+0380-ZCSBI,0.092,0,"tenure, TotalCharges",Watch,37.0
+4020-KIUDI,0.093,0,"TotalCharges, tenure",Watch,37.0
+2578-JQPHZ,0.093,0,MonthlyCharges,Watch,37.0
+6050-FFXES,0.093,0,"MonthlyCharges, TotalCharges, tenure",Watch,37.0
+1488-SYSFC,0.093,0,TotalCharges,Watch,37.0
+2928-HLDBA,0.091,0,"tenure, TotalCharges",Watch,36.0
+5397-TUPSH,0.089,0,"SeniorCitizen, TotalCharges",Watch,36.0
+0533-UCAAU,0.091,0,SeniorCitizen,Watch,36.0
+3442-ZHHCC,0.091,0,"TotalCharges, MonthlyCharges",Watch,36.0
+2724-FJDYW,0.091,0,"TotalCharges, Dependents",Watch,36.0
+2363-BJLSL,0.09,0,MonthlyCharges,Watch,36.0
+9571-EDEBV,0.09,0,"MonthlyCharges, TotalCharges",Watch,36.0
+9170-GYZJC,0.091,1,none,Watch,36.0
+9831-BPFRI,0.09,1,MonthlyCharges,Watch,36.0
+5453-YBTWV,0.091,0,"MonthlyCharges, TotalCharges, tenure",Watch,36.0
+2868-LLSKM,0.091,0,"TotalCharges, MonthlyCharges",Watch,36.0
+5709-LVOEQ,0.091,0,"tenure, MonthlyCharges",Watch,36.0
+6838-HVLXG,0.087,0,"tenure, TotalCharges",Watch,35.0
+4083-EUGRJ,0.087,1,"tenure, TotalCharges",Watch,35.0
+9367-TCUYN,0.087,0,"tenure, TotalCharges",Watch,35.0
+0031-PVLZI,0.087,1,"tenure, TotalCharges",Watch,35.0
+1345-GKDZZ,0.088,0,"TotalCharges, tenure",Watch,35.0
+2371-JUNGC,0.087,0,"tenure, TotalCharges",Watch,35.0
+7016-NVRIC,0.087,0,"SeniorCitizen, MonthlyCharges",Watch,35.0
+1159-WFSGR,0.084,0,TotalCharges,Watch,34.0
+7841-FCRQD,0.085,0,none,Watch,34.0
+0810-BDHAW,0.084,0,tenure,Watch,34.0
+0594-UFTUL,0.086,0,"TotalCharges, tenure",Watch,34.0
+7629-WFGLW,0.084,0,MonthlyCharges,Watch,34.0
+9313-CDOGY,0.086,0,TotalCharges,Watch,34.0
+5546-BYZSM,0.082,0,none,Watch,33.0
+5989-AXPUC,0.082,0,"TotalCharges, MonthlyCharges",Watch,33.0
+2683-JXWQQ,0.082,0,none,Watch,33.0
+4626-OZDTJ,0.082,0,none,Watch,33.0
+3275-RHRNE,0.083,0,none,Watch,33.0
+5850-BDWCY,0.083,0,"tenure, TotalCharges",Watch,33.0
+7445-WMRBW,0.083,0,none,Watch,33.0
+3941-XTSKM,0.08,0,none,Watch,32.0
+1136-XGEQU,0.079,0,MonthlyCharges,Watch,32.0
+5384-ZTTWP,0.079,0,"TotalCharges, tenure",Watch,32.0
+0607-MVMGC,0.08,0,MonthlyCharges,Watch,32.0
+3716-LRGXK,0.08,0,MonthlyCharges,Watch,32.0
+5663-QBGIS,0.079,0,"MonthlyCharges, TotalCharges",Watch,32.0
+0744-GKNGE,0.081,0,none,Watch,32.0
+9412-ARGBX,0.079,1,MonthlyCharges,Watch,32.0
+3705-RHRFR,0.081,0,"MonthlyCharges, TotalCharges",Watch,32.0
+9294-TDIPC,0.081,0,"tenure, TotalCharges",Watch,32.0
+7432-FFVAR,0.078,0,MonthlyCharges,Watch,31.0
+1431-CYWMH,0.078,0,none,Watch,31.0
+1353-GHZOS,0.077,0,tenure,Watch,31.0
+3012-VFFMN,0.078,0,"TotalCharges, tenure",Watch,31.0
+4531-AUZNK,0.077,0,MonthlyCharges,Watch,31.0
+6861-OKBCE,0.075,1,"TotalCharges, tenure",Watch,30.0
+4159-NAAIX,0.076,0,MonthlyCharges,Watch,30.0
+9209-NWPGU,0.076,0,TotalCharges,Watch,30.0
+3518-FSTWG,0.074,0,"MonthlyCharges, SeniorCitizen, TotalCharges",Watch,30.0
+4464-JCOLN,0.074,1,"TotalCharges, tenure",Watch,30.0
+0074-HDKDG,0.075,0,tenure,Watch,30.0
+9207-ZPANB,0.076,0,TotalCharges,Watch,30.0
+9128-CPXKI,0.075,0,MonthlyCharges,Watch,30.0
+6440-DKQGE,0.075,0,none,Watch,30.0
+2957-JIRMN,0.074,0,MonthlyCharges,Watch,30.0
+9513-DXHDA,0.075,0,none,Watch,30.0
+0023-UYUPN,0.075,0,"TotalCharges, MonthlyCharges",Watch,30.0
+1183-CANVH,0.076,0,none,Watch,30.0
+9530-GRMJG,0.075,0,"TotalCharges, MonthlyCharges",Watch,30.0
+0076-LVEPS,0.076,0,none,Watch,30.0
+2330-PQGDQ,0.074,0,MonthlyCharges,Watch,30.0
+3104-OWCGK,0.073,1,MonthlyCharges,Watch,29.0
+0707-HOVVN,0.073,0,"TotalCharges, SeniorCitizen, InternetService",Watch,29.0
+9586-JGQKH,0.073,0,MonthlyCharges,Watch,29.0
+9391-TTOYH,0.072,0,none,Watch,29.0
+8780-RSYYU,0.07,0,none,Watch,28.0
+8174-TBVCF,0.07,0,"MonthlyCharges, TotalCharges",Watch,28.0
+4906-ZHGPK,0.07,0,none,Watch,28.0
+2967-MXRAV,0.071,0,"TotalCharges, Dependents",Watch,28.0
+8735-NBLWT,0.071,0,"TotalCharges, tenure",Watch,28.0
+9730-DRTMJ,0.07,0,TotalCharges,Watch,28.0
+4759-PXTAN,0.071,0,none,Watch,28.0
+6402-SSEJG,0.071,0,none,Watch,28.0
+6778-JFCMK,0.07,0,none,Watch,28.0
+7576-ASEJU,0.07,0,TotalCharges,Watch,28.0
+4732-RRJZC,0.071,0,"TotalCharges, tenure",Watch,28.0
+8822-KNBHV,0.07,0,none,Watch,28.0
+5825-XJOCM,0.071,0,none,Watch,28.0
+6261-RCVNS,0.068,1,TotalCharges,Watch,27.0
+5753-QQWPW,0.067,0,none,Watch,27.0
+2639-UGMAZ,0.068,0,"SeniorCitizen, TotalCharges",Watch,27.0
+4003-OCTMP,0.067,0,none,Watch,27.0
+6598-KELSS,0.068,0,none,Watch,27.0
+2000-DHJUY,0.068,0,"TotalCharges, MonthlyCharges, SeniorCitizen",Watch,27.0
+4751-ERMAN,0.067,0,TotalCharges,Watch,27.0
+8469-SNFFH,0.067,0,TotalCharges,Watch,27.0
+6481-LXPWL,0.068,0,none,Watch,27.0
+9495-REDIY,0.066,0,none,Watch,26.0
+6736-DHUQI,0.064,0,"TotalCharges, MonthlyCharges",Watch,26.0
+1866-NXPSP,0.066,0,TotalCharges,Watch,26.0
+3401-URHDA,0.064,0,TotalCharges,Watch,26.0
+4198-VFOEA,0.064,0,tenure,Watch,26.0
+7472-EQOAV,0.064,0,"SeniorCitizen, MonthlyCharges",Watch,26.0
+5090-EMGTC,0.064,0,MonthlyCharges,Watch,26.0
+0980-FEXWF,0.064,0,none,Watch,26.0
+8152-VETUR,0.065,0,"MonthlyCharges, TotalCharges",Watch,26.0
+3229-USWAR,0.064,0,none,Watch,26.0
+1936-CZAKF,0.065,0,TotalCharges,Watch,26.0
+7471-MQPOS,0.062,0,"TotalCharges, SeniorCitizen, InternetService",Watch,25.0
+9705-ZJBCG,0.063,0,none,Watch,25.0
+8097-OMULG,0.063,0,MonthlyCharges,Watch,25.0
+4311-QTTAI,0.062,0,"tenure, TotalCharges",Watch,25.0
+0384-LPITE,0.063,0,TotalCharges,Watch,25.0
+5574-NXZIU,0.063,0,MonthlyCharges,Watch,25.0
+9052-DHNKM,0.062,0,none,Watch,25.0
+4423-JWZJN,0.063,0,MonthlyCharges,Watch,25.0
+8746-BFOAJ,0.063,0,"SeniorCitizen, tenure",Watch,25.0
+3487-EARAT,0.062,0,TotalCharges,Watch,25.0
+8595-SIZNC,0.059,0,"SeniorCitizen, tenure",Watch,24.0
+0657-DOGUM,0.059,0,none,Watch,24.0
+6727-IOTLZ,0.061,0,"tenure, MonthlyCharges",Watch,24.0
+6674-KVJHG,0.059,0,"tenure, TotalCharges",Watch,24.0
+9906-NHHVC,0.06,0,SeniorCitizen,Watch,24.0
+9715-SBVSU,0.059,0,tenure,Watch,24.0
+2546-KZAAT,0.061,0,none,Watch,24.0
+9640-ZSLDC,0.06,0,none,Watch,24.0
+7336-RLLRH,0.059,0,none,Watch,24.0
+1036-GUDCL,0.059,0,none,Watch,24.0
+2533-QVMSK,0.061,1,MonthlyCharges,Watch,24.0
+0628-CNQRM,0.061,1,none,Watch,24.0
+4815-TUMEQ,0.061,0,"tenure, TotalCharges",Watch,24.0
+5985-TBABQ,0.059,0,none,Watch,24.0
+5203-XEHAX,0.06,0,none,Watch,24.0
+7820-ZYGNY,0.061,0,MonthlyCharges,Watch,24.0
+3174-AKMAS,0.059,0,TotalCharges,Watch,24.0
+1154-HYWWO,0.06,0,TotalCharges,Watch,24.0
+2484-DGXPZ,0.059,1,none,Watch,24.0
+8311-UEUAB,0.057,0,TotalCharges,Watch,23.0
+8099-MZPUJ,0.058,0,"MonthlyCharges, TotalCharges",Watch,23.0
+5844-QVTAT,0.058,0,none,Watch,23.0
+6614-FHDBO,0.058,0,"MonthlyCharges, TotalCharges",Watch,23.0
+1991-VOPLL,0.057,0,TotalCharges,Watch,23.0
+1552-TKMXS,0.058,0,none,Watch,23.0
+1430-SFQSA,0.054,0,none,Watch,22.0
+7407-SUJIZ,0.055,0,none,Watch,22.0
+4697-LUPSU,0.056,0,"TotalCharges, tenure",Watch,22.0
+3134-DSHVC,0.054,0,MonthlyCharges,Watch,22.0
+1271-UODNO,0.055,0,none,Watch,22.0
+6437-UDQJM,0.056,0,"SeniorCitizen, TotalCharges, InternetService",Watch,22.0
+7570-WELNY,0.054,0,"TotalCharges, MonthlyCharges",Watch,22.0
+7636-PEPNS,0.056,0,TotalCharges,Watch,22.0
+7971-HLVXI,0.056,0,"MonthlyCharges, TotalCharges",Watch,22.0
+3569-VLDHH,0.056,0,TotalCharges,Watch,22.0
+3585-YNADK,0.054,0,none,Watch,22.0
+4318-RAJVY,0.055,0,"tenure, TotalCharges",Watch,22.0
+8406-LNMHF,0.056,0,none,Watch,22.0
+9589-ABEPT,0.054,0,"TotalCharges, MonthlyCharges",Watch,22.0
+6810-VCAEX,0.052,0,none,Watch,21.0
+7812-FZHPE,0.052,1,none,Watch,21.0
+8461-EFQYM,0.052,0,none,Watch,21.0
+0112-QWPNC,0.052,1,none,Watch,21.0
+9860-LISIZ,0.052,0,none,Watch,21.0
+8690-UPCZI,0.053,0,none,Watch,21.0
+7136-RVDTZ,0.053,1,none,Watch,21.0
+7325-ENZFI,0.053,0,none,Watch,21.0
+9531-NSBMR,0.052,0,none,Watch,21.0
+1429-UYJSV,0.053,0,"tenure, TotalCharges",Watch,21.0
+8328-SKJNO,0.053,0,none,Watch,21.0
+9522-ZSINC,0.053,0,"TotalCharges, tenure",Watch,21.0
+5696-JVVQY,0.051,0,none,Watch,20.0
+1335-MXCSE,0.049,0,TotalCharges,Low,20.0
+3090-HAWSU,0.049,1,MonthlyCharges,Low,20.0
+8292-FRFZQ,0.051,0,none,Watch,20.0
+6242-FEGFD,0.051,0,"MonthlyCharges, TotalCharges",Watch,20.0
+5762-TJXGK,0.051,0,none,Watch,20.0
+7581-EBBOU,0.051,0,none,Watch,20.0
+5995-WWKKG,0.05,0,none,Low,20.0
+7758-UJWYS,0.051,0,none,Watch,20.0
+1303-SRDOK,0.049,0,none,Low,20.0
+8414-OOEEL,0.049,0,"TotalCharges, MonthlyCharges",Low,20.0
+7317-GGVPB,0.049,1,"MonthlyCharges, TotalCharges",Low,20.0
+2911-IJORQ,0.049,0,none,Low,20.0
+4778-IZARL,0.051,0,MonthlyCharges,Watch,20.0
+1544-JJMYL,0.05,0,none,Low,20.0
+8681-ICONS,0.05,0,none,Low,20.0
+8318-LCNBW,0.05,0,none,Low,20.0
+0428-AXXLJ,0.05,0,none,Low,20.0
+9560-BBZXK,0.048,0,none,Low,19.0
+3658-QQJYD,0.048,0,none,Low,19.0
+8909-BOLNL,0.048,0,tenure,Low,19.0
+4137-JOPHL,0.048,0,none,Low,19.0
+8079-XRJRS,0.048,1,none,Low,19.0
+7619-PLRLP,0.048,0,none,Low,19.0
+6993-YCOBK,0.048,0,MonthlyCharges,Low,19.0
+6827-IEAUQ,0.048,0,none,Low,19.0
+7297-DVYGA,0.047,0,none,Low,19.0
+0866-QLSIR,0.048,1,none,Low,19.0
+1063-DHQJF,0.048,0,"TotalCharges, MonthlyCharges",Low,19.0
+0679-TDGAK,0.047,0,none,Low,19.0
+5110-CHOPY,0.048,0,TotalCharges,Low,19.0
+5327-XOKKY,0.048,0,"TotalCharges, SeniorCitizen, InternetService",Low,19.0
+7771-CFQRQ,0.045,0,none,Low,18.0
+2091-GPPIQ,0.044,0,none,Low,18.0
+0743-HNPFG,0.045,0,none,Low,18.0
+4825-XJGDM,0.046,0,TotalCharges,Low,18.0
+2703-AMTUL,0.045,0,none,Low,18.0
+0412-UCCNP,0.045,0,TotalCharges,Low,18.0
+5820-PTRYM,0.045,0,none,Low,18.0
+3882-IYOIJ,0.044,0,MonthlyCharges,Low,18.0
+5777-ZPQNC,0.045,0,"TotalCharges, tenure",Low,18.0
+9359-UGBTK,0.046,0,TotalCharges,Low,18.0
+2589-AYCRP,0.045,0,none,Low,18.0
+6551-ZCOTS,0.044,0,none,Low,18.0
+9967-ATRFS,0.046,0,none,Low,18.0
+9347-AERRL,0.045,0,none,Low,18.0
+7089-RKVSZ,0.044,0,"TotalCharges, tenure",Low,18.0
+9577-WJVCQ,0.045,0,none,Low,18.0
+0487-CRLZF,0.045,0,none,Low,18.0
+8570-KLJYJ,0.046,0,none,Low,18.0
+3605-JISKB,0.044,0,none,Low,18.0
+3721-CNZHX,0.045,0,"TotalCharges, tenure",Low,18.0
+7771-ZONAT,0.042,0,none,Low,17.0
+1474-JUWSM,0.042,0,none,Low,17.0
+3055-VTCGS,0.042,0,none,Low,17.0
+0379-DJQHR,0.042,0,TotalCharges,Low,17.0
+8348-JLBUG,0.043,0,none,Low,17.0
+3908-MKIMJ,0.042,0,none,Low,17.0
+6177-PEVRA,0.043,0,none,Low,17.0
+8631-XVRZL,0.042,0,"tenure, TotalCharges",Low,17.0
+5170-PTRKA,0.042,0,none,Low,17.0
+3452-FLHYD,0.042,0,none,Low,17.0
+9541-ZPSEA,0.043,0,TotalCharges,Low,17.0
+1099-BTKWT,0.042,0,none,Low,17.0
+7816-VGHTO,0.043,0,tenure,Low,17.0
+0042-JVWOJ,0.043,0,none,Low,17.0
+6435-VWCCY,0.043,0,MonthlyCharges,Low,17.0
+0458-HEUZG,0.043,0,tenure,Low,17.0
+6950-TWMYB,0.041,0,none,Low,16.0
+8958-JPTRR,0.04,0,none,Low,16.0
+9746-UGFAC,0.039,0,none,Low,16.0
+1952-DVVSW,0.04,0,"tenure, TotalCharges",Low,16.0
+4451-RWASJ,0.04,0,TotalCharges,Low,16.0
+6131-IUNXN,0.039,0,none,Low,16.0
+2650-GYRYL,0.04,0,none,Low,16.0
+8884-MRNSU,0.04,0,TotalCharges,Low,16.0
+9309-BZGNT,0.039,0,none,Low,16.0
+9251-WNSOD,0.04,0,TotalCharges,Low,16.0
+4054-CUMIA,0.04,0,none,Low,16.0
+3423-HHXAO,0.04,0,TotalCharges,Low,16.0
+0993-OSGPT,0.04,0,none,Low,16.0
+4890-VMUAV,0.04,0,none,Low,16.0
+7319-ZNRTR,0.037,0,none,Low,15.0
+7061-OVMIM,0.038,0,none,Low,15.0
+2164-SOQXL,0.037,0,none,Low,15.0
+8884-FEEWR,0.037,0,none,Low,15.0
+9830-ECLEN,0.038,0,none,Low,15.0
+2606-PKWJB,0.038,0,none,Low,15.0
+0829-DDVLK,0.037,0,none,Low,15.0
+3933-DQPWX,0.038,0,none,Low,15.0
+0859-YGKFW,0.038,0,none,Low,15.0
+2834-JRTUA,0.037,1,"MonthlyCharges, TotalCharges",Low,15.0
+3486-HOOGQ,0.037,0,TotalCharges,Low,15.0
+3079-BCHLN,0.034,0,none,Low,14.0
+0378-XSZPU,0.035,1,none,Low,14.0
+2790-XUYMV,0.034,0,none,Low,14.0
+8859-YSTWS,0.034,0,none,Low,14.0
+6064-ZATLR,0.034,0,none,Low,14.0
+2907-ILJBN,0.036,0,"TotalCharges, tenure",Low,14.0
+4500-HKANN,0.035,0,none,Low,14.0
+3850-OKINF,0.034,0,none,Low,14.0
+4530-NDRKU,0.034,0,none,Low,14.0
+3750-YHRYO,0.035,0,"TotalCharges, tenure",Low,14.0
+2351-RRBUE,0.035,0,"TotalCharges, tenure",Low,14.0
+7670-ZBPOQ,0.035,0,none,Low,14.0
+7137-NAXML,0.035,0,none,Low,14.0
+4526-RMTLL,0.036,0,none,Low,14.0
+9845-QOMAD,0.036,0,TotalCharges,Low,14.0
+1023-BQXZE,0.036,0,none,Low,14.0
+7369-TRPFD,0.035,0,none,Low,14.0
+3378-AJRAO,0.036,0,none,Low,14.0
+4513-CXYIX,0.036,0,SeniorCitizen,Low,14.0
+4872-VXRIL,0.035,0,none,Low,14.0
+8050-DVOJX,0.034,0,SeniorCitizen,Low,14.0
+8184-WMOFI,0.035,0,none,Low,14.0
+3500-NSDOA,0.035,0,TotalCharges,Low,14.0
+1022-RKXDR,0.034,0,none,Low,14.0
+6685-GBWJZ,0.035,0,none,Low,14.0
+8690-ZVLCL,0.032,0,TotalCharges,Low,13.0
+4178-EGMON,0.033,0,TotalCharges,Low,13.0
+4573-JKNAE,0.033,0,tenure,Low,13.0
+0654-PQKDW,0.032,0,none,Low,13.0
+5788-YPOEG,0.032,0,none,Low,13.0
+8717-VCTXJ,0.033,0,none,Low,13.0
+9253-VIFJQ,0.033,0,none,Low,13.0
+8085-MSNLK,0.032,0,MonthlyCharges,Low,13.0
+8779-YIQQA,0.032,0,none,Low,13.0
+4359-INNWN,0.032,0,none,Low,13.0
+0422-OHQHQ,0.032,0,none,Low,13.0
+2661-GKBTK,0.033,0,none,Low,13.0
+4293-ETKAP,0.032,0,none,Low,13.0
+4537-CIBHB,0.033,0,"TotalCharges, tenure",Low,13.0
+8747-UDCOI,0.03,0,"MonthlyCharges, TotalCharges",Low,12.0
+6176-YJWAS,0.031,0,MonthlyCharges,Low,12.0
+4795-UXVCJ,0.03,0,none,Low,12.0
+3729-OWRVL,0.031,0,MonthlyCharges,Low,12.0
+2150-OEGBV,0.031,0,none,Low,12.0
+8639-NHQEI,0.029,0,MonthlyCharges,Low,12.0
+1122-YJBCS,0.031,0,none,Low,12.0
+5387-ASZNZ,0.03,0,none,Low,12.0
+5149-QYTTU,0.03,0,MonthlyCharges,Low,12.0
+3258-SYSWS,0.03,0,MonthlyCharges,Low,12.0
+5386-THSLQ,0.03,0,none,Low,12.0
+4291-YZODP,0.031,0,none,Low,12.0
+5862-BRIXZ,0.029,0,none,Low,12.0
+3889-VWBID,0.03,0,TotalCharges,Low,12.0
+6765-MBQNU,0.031,0,none,Low,12.0
+9777-IQHWP,0.03,0,none,Low,12.0
+9229-RQABD,0.029,0,none,Low,12.0
+1452-UZOSF,0.03,0,MonthlyCharges,Low,12.0
+7622-FWGEW,0.029,0,none,Low,12.0
+6094-ZIVKX,0.031,0,none,Low,12.0
+5304-EFJLP,0.031,0,none,Low,12.0
+8390-FESFV,0.03,0,none,Low,12.0
+0383-CLDDA,0.029,0,TotalCharges,Low,12.0
+5505-OVWQW,0.029,0,none,Low,12.0
+0298-XACET,0.031,0,none,Low,12.0
+7173-TETGO,0.029,0,SeniorCitizen,Low,12.0
+3363-DTIVD,0.029,0,MonthlyCharges,Low,12.0
+8430-TWCBX,0.029,0,none,Low,12.0
+0839-JTCUD,0.029,0,TotalCharges,Low,12.0
+0604-THJFP,0.029,0,none,Low,12.0
+7244-KXYZN,0.027,0,none,Low,11.0
+2320-TZRRH,0.027,0,none,Low,11.0
+1455-HFBXA,0.027,0,none,Low,11.0
+9867-XOBQA,0.027,0,none,Low,11.0
+7973-DZRKH,0.028,0,TotalCharges,Low,11.0
+7501-IWUNG,0.028,0,none,Low,11.0
+8969-PRHFK,0.027,0,none,Low,11.0
+2882-WDTBA,0.027,0,TotalCharges,Low,11.0
+2498-XLDZR,0.027,0,none,Low,11.0
+5680-LQOGP,0.027,0,TotalCharges,Low,11.0
+3957-HHLMR,0.028,0,none,Low,11.0
+8792-AOROI,0.028,0,none,Low,11.0
+9110-HSGTV,0.028,0,TotalCharges,Low,11.0
+3887-PBQAO,0.028,0,none,Low,11.0
+7305-ZWMAJ,0.028,0,none,Low,11.0
+3649-JPUGY,0.026,0,none,Low,10.0
+4664-NJCMS,0.025,0,none,Low,10.0
+5915-ANOEI,0.025,0,TotalCharges,Low,10.0
+0945-TSONX,0.024,0,none,Low,10.0
+6048-NJXHX,0.026,0,none,Low,10.0
+6374-AFWOX,0.026,0,none,Low,10.0
+9885-MFVSU,0.025,0,none,Low,10.0
+8249-THVEC,0.024,0,none,Low,10.0
+8208-EUMTE,0.025,0,none,Low,10.0
+2075-PUEPR,0.025,0,none,Low,10.0
+3280-NMUVX,0.026,0,none,Low,10.0
+6082-OQFBA,0.026,0,none,Low,10.0
+0459-SPZHJ,0.025,0,none,Low,10.0
+9995-HOTOH,0.025,0,none,Low,10.0
+1333-PBMXB,0.025,0,none,Low,10.0
+0164-XAIRP,0.025,0,none,Low,10.0
+6447-EGDIV,0.025,0,none,Low,10.0
+3078-ZKNTS,0.024,0,none,Low,10.0
+7416-CKTEP,0.022,0,none,Low,9.0
+2675-IJRGJ,0.023,0,none,Low,9.0
+6546-OPBBH,0.022,0,none,Low,9.0
+4299-OPXEJ,0.023,0,none,Low,9.0
+9755-JHNMN,0.022,0,none,Low,9.0
+5129-HHMZC,0.023,0,none,Low,9.0
+4999-IEZLT,0.022,0,none,Low,9.0
+7340-KEFQE,0.022,0,none,Low,9.0
+4254-QPEDE,0.022,0,none,Low,9.0
+9958-MEKUC,0.022,0,MonthlyCharges,Low,9.0
+3549-ZTMNH,0.022,0,none,Low,9.0
+9581-GVBXT,0.023,0,none,Low,9.0
+9361-YNQWJ,0.022,0,none,Low,9.0
+2773-MADBQ,0.023,0,none,Low,9.0
+4092-OFQZS,0.023,0,none,Low,9.0
+2889-FPWRM,0.021,1,MonthlyCharges,Low,8.0
+8873-TMKGR,0.019,0,none,Low,8.0
+2252-NKNSI,0.02,0,none,Low,8.0
+9073-ZZIAY,0.02,0,none,Low,8.0
+7274-CGTOD,0.019,0,none,Low,8.0
+2499-AJYUA,0.02,0,none,Low,8.0
+4367-NUYAO,0.02,0,none,Low,8.0
+2817-LVCPP,0.02,0,none,Low,8.0
+7328-OWMOM,0.02,0,none,Low,8.0
+2863-IMQDR,0.02,0,none,Low,8.0
+7696-CFTAT,0.019,0,none,Low,8.0
+0827-ITJPH,0.021,0,none,Low,8.0
+7321-ZNSLA,0.019,0,none,Low,8.0
+6916-HIJSE,0.019,0,none,Low,8.0
+7663-YJHSN,0.021,0,MonthlyCharges,Low,8.0
+1834-WULEG,0.02,0,none,Low,8.0
+4837-PZTIC,0.021,0,none,Low,8.0
+3785-KTYSH,0.019,0,none,Low,8.0
+6051-PTVNS,0.02,0,none,Low,8.0
+3546-GHEAE,0.019,0,none,Low,8.0
+6563-VRERX,0.02,0,none,Low,8.0
+6292-TOSSS,0.021,0,none,Low,8.0
+9867-JCZSP,0.019,0,none,Low,8.0
+9108-EQPNQ,0.02,0,none,Low,8.0
+7552-KEYGT,0.02,0,none,Low,8.0
+8763-KIAFH,0.021,0,none,Low,8.0
+3298-QEICA,0.019,0,none,Low,8.0
+5044-XDPYX,0.019,0,none,Low,8.0
+2160-GPFXD,0.02,0,none,Low,8.0
+9224-VTYID,0.021,0,none,Low,8.0
+1934-MKPXS,0.02,0,none,Low,8.0
+4884-LEVMQ,0.018,0,none,Low,7.0
+9068-VPWQQ,0.017,0,none,Low,7.0
+7860-UXCRM,0.017,0,none,Low,7.0
+8181-YHCMF,0.018,0,none,Low,7.0
+5707-ZMDJP,0.018,0,none,Low,7.0
+3533-UVMOM,0.018,0,none,Low,7.0
+1231-YNDEK,0.017,0,none,Low,7.0
+0318-ZOPWS,0.018,0,none,Low,7.0
+8755-OGKNA,0.018,0,none,Low,7.0
+6813-GZQCG,0.017,0,none,Low,7.0
+5458-CQJTA,0.017,1,none,Low,7.0
+2995-YWTCD,0.018,0,none,Low,7.0
+3745-HRPHI,0.017,0,none,Low,7.0
+7706-YLMQA,0.018,0,none,Low,7.0
+4056-QHXHZ,0.018,0,MonthlyCharges,Low,7.0
+2664-XJZNO,0.018,0,MonthlyCharges,Low,7.0
+6169-PPETC,0.017,0,none,Low,7.0
+0909-SELIE,0.018,0,none,Low,7.0
+8590-YFFQO,0.017,0,none,Low,7.0
+9348-ROUAI,0.017,0,none,Low,7.0
+6741-QRLUP,0.018,0,none,Low,7.0
+6922-NCEDI,0.018,0,none,Low,7.0
+7945-PRBVF,0.018,0,none,Low,7.0
+2535-PBCGC,0.017,0,none,Low,7.0
+2888-ADFAO,0.017,0,none,Low,7.0
+4644-OBGFZ,0.017,0,none,Low,7.0
+2749-CTKAJ,0.017,0,none,Low,7.0
+5095-ETBRJ,0.018,0,none,Low,7.0
+2996-XAUVF,0.018,0,none,Low,7.0
+7469-LKBCI,0.018,0,none,Low,7.0
+7196-LIWRH,0.018,0,none,Low,7.0
+6961-MJKBO,0.017,0,none,Low,7.0
+4896-CPRPF,0.016,0,none,Low,6.0
+3884-UEBXB,0.015,0,none,Low,6.0
+5231-FIQPA,0.015,0,none,Low,6.0
+1790-NESIO,0.014,0,none,Low,6.0
+6323-AYBRX,0.014,1,none,Low,6.0
+3669-WHAFY,0.014,0,none,Low,6.0
+8540-ZQGEA,0.014,0,none,Low,6.0
+4883-KCPZJ,0.016,0,none,Low,6.0
+9888-ZCUMM,0.014,0,none,Low,6.0
+5821-MMEIL,0.016,0,none,Low,6.0
+9227-UAQFT,0.016,0,none,Low,6.0
+7647-GYYKX,0.016,0,none,Low,6.0
+9479-HYNYL,0.015,0,none,Low,6.0
+5324-KTGCG,0.015,0,none,Low,6.0
+8174-LNWMW,0.014,0,none,Low,6.0
+3133-PZNSR,0.014,0,none,Low,6.0
+9067-YGSCA,0.015,0,none,Low,6.0
+6234-RAAPL,0.014,0,none,Low,6.0
+7277-KAMWT,0.015,0,none,Low,6.0
+0071-NDAFP,0.016,0,none,Low,6.0
+9548-LERKT,0.014,0,none,Low,6.0
+2706-QZIHY,0.014,0,none,Low,6.0
+4334-HOWRP,0.015,0,none,Low,6.0
+8204-YJCLA,0.016,0,none,Low,6.0
+2207-RYYRL,0.015,0,none,Low,6.0
+9803-FTJCG,0.016,0,none,Low,6.0
+7033-CLAMM,0.015,0,none,Low,6.0
+1830-IPXVJ,0.015,0,none,Low,6.0
+8606-OEGQZ,0.016,0,none,Low,6.0
+3796-ENZGF,0.015,0,none,Low,6.0
+1090-ESELR,0.014,0,none,Low,6.0
+9945-PSVIP,0.014,0,none,Low,6.0
+2176-LVPNX,0.015,0,SeniorCitizen,Low,6.0
+1459-QNFQT,0.016,0,none,Low,6.0
+8361-LBRDI,0.014,0,none,Low,6.0
+4475-NVTLU,0.015,0,none,Low,6.0
+5456-ITGIC,0.015,0,none,Low,6.0
+8242-PDSGJ,0.016,0,none,Low,6.0
+8766-PAFNE,0.015,0,none,Low,6.0
+3283-WCWXT,0.015,0,none,Low,6.0
+8285-ABVLB,0.014,0,none,Low,6.0
+9028-LIHRP,0.016,0,none,Low,6.0
+7564-GHCVB,0.016,0,none,Low,6.0
+3970-XGJDU,0.014,0,none,Low,6.0
+7850-THJMU,0.013,0,none,Low,5.0
+3777-XROBG,0.013,0,none,Low,5.0
+5320-BRKGK,0.013,0,none,Low,5.0
+8859-AXJZP,0.013,0,none,Low,5.0
+1897-OKVMW,0.012,0,none,Low,5.0
+8404-VIOMB,0.012,0,none,Low,5.0
+5676-CFLYY,0.013,0,none,Low,5.0
+9624-EGDEQ,0.013,0,none,Low,5.0
+5010-IPEAQ,0.012,0,none,Low,5.0
+1047-RNXZV,0.013,0,none,Low,5.0
+2208-NKVVH,0.013,0,none,Low,5.0
+2595-KIWPV,0.013,0,none,Low,5.0
+3458-IDMFK,0.013,0,none,Low,5.0
+1080-BWSYE,0.012,0,none,Low,5.0
+3978-YNKDD,0.012,0,none,Low,5.0
+0230-WEQUW,0.012,0,none,Low,5.0
+2346-CZYIL,0.012,0,none,Low,5.0
+7527-QNRUS,0.012,0,none,Low,5.0
+3635-QQRQD,0.012,0,none,Low,5.0
+9637-CDTKZ,0.013,0,none,Low,5.0
+9548-LIGTA,0.013,0,none,Low,5.0
+9070-BCKQP,0.013,0,none,Low,5.0
+9239-GZHZE,0.013,0,none,Low,5.0
+0442-TDYUO,0.012,0,none,Low,5.0
+3389-KTRXV,0.013,0,none,Low,5.0
+9220-CXRSC,0.013,0,none,Low,5.0
+9786-YWNHU,0.012,0,none,Low,5.0
+8809-XKHMD,0.013,0,none,Low,5.0
+6695-FRVEC,0.012,0,none,Low,5.0
+6418-PIQSP,0.012,0,none,Low,5.0
+4779-ZGICK,0.013,0,none,Low,5.0
+1699-TLDLZ,0.013,0,none,Low,5.0
+1302-TPUBN,0.011,0,none,Low,4.0
+9173-IVZVP,0.009,0,none,Low,4.0
+8957-THMOA,0.01,0,none,Low,4.0
+5702-KVQRD,0.009,0,none,Low,4.0
+8780-YRMTT,0.009,0,none,Low,4.0
+6479-VDGRK,0.009,0,none,Low,4.0
+6365-HITVU,0.009,0,none,Low,4.0
+5787-KXGIY,0.009,0,none,Low,4.0
+8990-YOZLV,0.009,0,none,Low,4.0
+2263-SFSQZ,0.01,0,none,Low,4.0
+2193-SFWQW,0.01,0,none,Low,4.0
+0244-LGNFY,0.011,0,none,Low,4.0
+0224-NIJLP,0.011,0,none,Low,4.0
+9675-ICXCT,0.01,0,none,Low,4.0
+8577-QSOCG,0.009,0,none,Low,4.0
+0848-SOMKO,0.011,0,none,Low,4.0
+8173-RXAYP,0.011,0,none,Low,4.0
+6619-RPLQZ,0.009,0,none,Low,4.0
+5057-RKGLH,0.011,0,none,Low,4.0
+4024-CSNBY,0.011,0,none,Low,4.0
+8468-FZTOE,0.009,0,none,Low,4.0
+6696-YDAYZ,0.011,0,none,Low,4.0
+3727-OVPRY,0.01,0,none,Low,4.0
+9993-LHIEB,0.009,0,none,Low,4.0
+5469-NUJUR,0.011,0,none,Low,4.0
+7977-HXJKU,0.011,0,none,Low,4.0
+4735-BJKOU,0.01,0,none,Low,4.0
+2228-BZDEE,0.009,0,none,Low,4.0
+1468-DEFNC,0.01,0,none,Low,4.0
+1241-FPMOF,0.011,0,none,Low,4.0
+8807-OPMBM,0.011,0,none,Low,4.0
+4312-GVYNH,0.011,0,none,Low,4.0
+5666-MBJPT,0.01,0,none,Low,4.0
+2300-RQGOI,0.01,0,none,Low,4.0
+5730-DBDSI,0.009,0,none,Low,4.0
+6370-ZVHDV,0.011,0,none,Low,4.0
+9585-KKMFD,0.009,0,none,Low,4.0
+2346-LOCWC,0.011,0,none,Low,4.0
+4990-ALDGW,0.009,0,none,Low,4.0
+7267-FRMJW,0.009,0,none,Low,4.0
+6621-NRZAK,0.01,0,none,Low,4.0
+1106-HRLKZ,0.01,0,none,Low,4.0
+5970-GHJAW,0.01,0,none,Low,4.0
+3262-EIDHV,0.008,0,none,Low,3.0
+5296-PSYVW,0.007,0,none,Low,3.0
+8661-BOYNW,0.008,0,none,Low,3.0
+6904-JLBGY,0.008,0,none,Low,3.0
+4302-ZYFEL,0.008,0,none,Low,3.0
+3913-RDSJZ,0.007,0,none,Low,3.0
+9114-DPSIA,0.007,0,none,Low,3.0
+7167-PCEYD,0.008,0,none,Low,3.0
+8015-IHCGW,0.007,0,none,Low,3.0
+9286-BHDQG,0.007,0,none,Low,3.0
+1619-YWUBB,0.007,0,none,Low,3.0
+7503-EPSZW,0.007,0,none,Low,3.0
+5117-ZSMHQ,0.008,0,none,Low,3.0
+0988-AADSA,0.007,0,none,Low,3.0
+7717-BICXI,0.007,0,none,Low,3.0
+2400-FEQME,0.008,0,none,Low,3.0
+1299-AURJA,0.007,0,none,Low,3.0
+8882-TLVRW,0.007,0,none,Low,3.0
+7101-HRBLJ,0.008,0,none,Low,3.0
+3508-VLHCZ,0.007,0,none,Low,3.0
+8263-QMNTJ,0.008,0,none,Low,3.0
+8727-JQFHV,0.007,0,none,Low,3.0
+5684-FJVYR,0.008,0,none,Low,3.0
+2380-DAMQP,0.007,0,none,Low,3.0
+8532-UEFWH,0.008,0,none,Low,3.0
+2984-RGEYA,0.007,0,none,Low,3.0
+0238-WHBIQ,0.008,0,none,Low,3.0
+8619-IJNDK,0.007,0,none,Low,3.0
+9924-JPRMC,0.008,0,none,Low,3.0
+7157-SMCFK,0.008,0,none,Low,3.0
+3976-HXHCE,0.005,0,none,Low,2.0
+4817-KEQSP,0.006,0,none,Low,2.0
+1676-MQAOA,0.005,0,none,Low,2.0
+9242-TKFSV,0.006,0,none,Low,2.0
+1027-LKKQQ,0.006,0,none,Low,2.0
+9337-SRRNI,0.005,0,none,Low,2.0
+6285-FTQBF,0.004,0,none,Low,2.0
+5846-NEQVZ,0.006,0,none,Low,2.0
+8398-TBIYD,0.006,0,none,Low,2.0
+3258-ZKPAI,0.004,0,none,Low,2.0
+7608-RGIRO,0.006,0,none,Low,2.0
+8207-DMRVL,0.004,0,none,Low,2.0
+8043-PNYSD,0.006,0,none,Low,2.0
+3810-PJUHR,0.004,0,none,Low,2.0
+7673-BQGKU,0.005,0,none,Low,2.0
+5038-ETMLM,0.005,0,none,Low,2.0
+4291-TPNFG,0.006,0,none,Low,2.0
+4957-SREEC,0.005,0,none,Low,2.0
+5220-AGAAX,0.006,0,none,Low,2.0
+6115-ZTBFQ,0.005,0,none,Low,2.0
+1240-HCBOH,0.005,0,none,Low,2.0
+5766-FTRTS,0.005,0,none,Low,2.0
+8338-QIUNR,0.006,0,none,Low,2.0
+0613-WUXUM,0.004,0,none,Low,2.0
+3678-MNGZX,0.005,0,none,Low,2.0
+2560-WBWXF,0.006,0,none,Low,2.0
+4872-JCVCA,0.006,0,none,Low,2.0
+2725-TTRIQ,0.006,0,none,Low,2.0
+1403-GYAFU,0.005,0,none,Low,2.0
+0626-QXNGV,0.004,0,none,Low,2.0
+8232-UTFOZ,0.005,0,none,Low,2.0
+5598-IKHQQ,0.004,0,none,Low,2.0
+6892-BOGQE,0.004,0,none,Low,2.0
+9788-HNGUT,0.006,0,none,Low,2.0
+7649-SIJJF,0.005,0,none,Low,2.0
+2234-EOFPT,0.006,0,none,Low,2.0
+0562-FGDCR,0.005,0,none,Low,2.0
+5743-KHMNA,0.004,0,none,Low,2.0
+4827-DPADN,0.006,0,none,Low,2.0
+7876-DNYAP,0.005,0,none,Low,2.0
+6859-QNXIQ,0.004,0,none,Low,2.0
+1852-QSWCD,0.006,0,none,Low,2.0
+6345-FZOQH,0.003,0,none,Low,1.0
+0174-QRVVY,0.003,0,none,Low,1.0
+3973-SKMLN,0.003,0,none,Low,1.0
+1293-BSEUN,0.002,0,none,Low,1.0
+4443-EMBNA,0.003,0,none,Low,1.0
+7684-XSZIY,0.002,0,none,Low,1.0
+2545-LXYVJ,0.003,0,none,Low,1.0
+8229-BUJHX,0.003,0,none,Low,1.0
+7161-DFHUF,0.003,0,none,Low,1.0
+2569-WGERO,0.003,0,none,Low,1.0
+3642-BYHDO,0.002,0,none,Low,1.0
+9153-BTBVV,0.003,0,none,Low,1.0
+3261-CQXOL,0.003,0,none,Low,1.0
+0464-WJTKO,0.002,0,none,Low,1.0
+1820-DJFPH,0.002,0,none,Low,1.0
+0402-OAMEN,0.002,0,none,Low,1.0
+4193-IBKSW,0.002,0,none,Low,1.0
+1052-QJIBV,0.002,0,none,Low,1.0
+7558-IMLMT,0.003,0,none,Low,1.0
+1555-HAPSU,0.003,0,none,Low,1.0
+8165-ZJRNM,0.002,0,none,Low,1.0
+5846-ABOBJ,0.003,0,none,Low,1.0
